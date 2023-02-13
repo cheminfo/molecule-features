@@ -1,0 +1,64 @@
+name: verdedb
+smiles_col: smiles
+task: regression
+description: |
+  Ground and Excited State Properties of Organic Molecules.
+  All calculations have been performed with the default settings provided by the Gaussian 16 software package
+  and M06/6-31+G(d,p).
+targets:
+  - name: homo
+    description: highest occupied molecular orbital
+    unit: eV
+  - name: lumo
+    description: lowest unocuppied molecular orbital
+    unit: eV
+  - name: verticalExcitationEnergy
+    description: Energy of the vertical excitation, i.e., transition from ground state to excited state without structural rearrangement
+    unit: eV
+  - name: redoxPotentialS0
+    description: Redox potential of the ground state
+    unit: eV
+  - name: redoxPotentialS1
+    description: Redox potential of the S1 state
+    unit: eV
+  - name: dipoleMomentS0
+    description: Dipole moment of the S0 ground state
+    unit: debye
+  - name: dipoleMomentS1
+    description: Dipole moment of the S1 state
+    unit: debye
+  - name: dipoleMomentT1
+    description: Dipole moment of the T1 state
+    unit: debye
+  - name: zero0s1
+    description: zero-zero transition energy to S1 state (difference in energy between the S0 and S1 states minus the difference in zero-point vibrational energy (ΔZPVE))
+    unit: eV
+  - name: zero0t1
+    description: zero-zero transition energy to S1 state (difference in energy between the S0 and T1 states minus the difference in zero-point vibrational energy (ΔZPVE))
+    unit: eV
+  - name: ionizationPotential
+    description: ionization potential of the molecule
+    unit: eV
+identifiers:
+  - name: inchiKey
+    description: International Chemical Identifier Key
+license: CC BY 4.0 SA
+links:
+  - name: dataset
+    url: http://www.verdedb.org/
+    description: Original dataset
+bibtex:
+  - |
+    "@article{Abreha_2019,
+    doi = {10.1021/acs.jpclett.9b02577},
+    url = {https://doi.org/10.1021%2Facs.jpclett.9b02577},
+    year = 2019,
+    month = {oct},
+    publisher = {American Chemical Society ({ACS})},
+    volume = {10},
+    number = {21},
+    pages = {6835--6841},
+    author = {Biruk G. Abreha and Snigdha Agarwal and Ian Foster and Ben Blaiszik and Steven A. Lopez},
+    title = {Virtual Excited State Reference for the Discovery of Electronic Materials Database: An Open-Access Resource for Ground and Excited State Properties of Organic Molecules},
+    journal = {J. Phys. Chem. Lett.}
+    }"
