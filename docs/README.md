@@ -2,17 +2,17 @@
 
 | Dataset | Property | Information | Number of entries |
 | ------- | -------- | ----------- | ----------------- |
-| aquasoldb/data.json |  |  | 450 |
-| clintox/data.json |  |  | 413 |
-| esol/data.json |  |  | 499 |
-| flashpoint/data.json |  |  | 498 |
-| freesolv/data.json |  |  | 500 |
-| lipophilicity/data.json |  |  | 410 |
-| mp/data.json |  |  | 483 |
-| opv/data.json |  |  | 7 |
-| somas/data.json |  |  | 496 |
+| aquasoldb/data.json |  |  | 9269 |
+| clintox/data.json |  |  | 1144 |
+| esol/data.json |  |  | 922 |
+| flashpoint/data.json |  |  | 14616 |
+| freesolv/data.json |  |  | 599 |
+| lipophilicity/data.json |  |  | 1555 |
+| mp/data.json |  |  | 21049 |
+| opv/data.json |  |  | 8 |
+| somas/data.json |  |  | 11294 |
 
-## aquasoldb/data.json - Nb entries: 450
+## aquasoldb/data.json - Nb entries: 9269
 
 [Link to the data](https://cheminfo.github.io/molecule-features/aquasoldb/data.json)
 
@@ -26,7 +26,7 @@
 | -------- | ----------- | ----- |
 | experimental | Experimental aqueous solubility value (LogS) | log(mol/L) |
 
-## clintox/data.json - Nb entries: 413
+## clintox/data.json - Nb entries: 1144
 
 [Link to the data](https://cheminfo.github.io/molecule-features/clintox/data.json)
 
@@ -41,7 +41,7 @@
 | approved | 1 if the drug is approved by the FDA, 0 otherwise |  |
 | toxic | 1 if the drug failed clinical trials for toxicity reasons, 0 otherwise |  |
 
-## esol/data.json - Nb entries: 499
+## esol/data.json - Nb entries: 922
 
 [Link to the data](https://cheminfo.github.io/molecule-features/esol/data.json)
 
@@ -55,7 +55,7 @@
 | experimental | experimentally measured hydration free energy | kcal/mol |
 | predicted | calculated hydration free energy | kcal/mol |
 
-## flashpoint/data.json - Nb entries: 498
+## flashpoint/data.json - Nb entries: 14616
 
 [Link to the data](https://cheminfo.github.io/molecule-features/flashpoint/data.json)
 
@@ -72,7 +72,7 @@
 | -------- | ----------- | ----- |
 | experimental | experimental flashpoint of the molecule | K |
 
-## freesolv/data.json - Nb entries: 500
+## freesolv/data.json - Nb entries: 599
 
 [Link to the data](https://cheminfo.github.io/molecule-features/freesolv/data.json)
 
@@ -86,7 +86,7 @@
 | experimental | experimentally measured hydration free energy | kcal/mol |
 | calculated | calculated hydration free energy | kcal/mol |
 
-## lipophilicity/data.json - Nb entries: 410
+## lipophilicity/data.json - Nb entries: 1555
 
 [Link to the data](https://cheminfo.github.io/molecule-features/lipophilicity/data.json)
 
@@ -100,7 +100,7 @@
 | -------- | ----------- | ----- |
 | experimental | experimentally measured log D at pH 7.4 |  |
 
-## mp/data.json - Nb entries: 483
+## mp/data.json - Nb entries: 21049
 
 [Link to the data](https://cheminfo.github.io/molecule-features/mp/data.json)
 
@@ -113,7 +113,7 @@
 | -------- | ----------- | ----- |
 | experimental | experimentally measured melting point | C |
 
-## opv/data.json - Nb entries: 7
+## opv/data.json - Nb entries: 8
 
 [Link to the data](https://cheminfo.github.io/molecule-features/opv/data.json)
 
@@ -131,7 +131,7 @@
 | shortCircuitCurrentDensity | short circuit current density | mA/cm^2 |
 | fillFactor | fill factor |  |
 
-## somas/data.json - Nb entries: 496
+## somas/data.json - Nb entries: 11294
 
 [Link to the data](https://cheminfo.github.io/molecule-features/somas/data.json)
 
