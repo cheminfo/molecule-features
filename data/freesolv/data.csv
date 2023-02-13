@@ -1,0 +1,628 @@
+iupac,smiles,expt,calc,inchi,selfies,iupac_name,expt_cat,target_2,target_5
+"4-methoxy-N,N-dimethyl-benzamide",CN(C)C(=O)c1ccc(cc1)OC,-11.01,-9.625,"InChI=1S/C10H13NO2/c1-11(2)10(12)8-4-6-9(13-3)7-5-8/h4-7H,1-3H3",[C][N][Branch1][C][C][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O][C],"4-methoxy-n,n-dimethylbenzamide",medium,0,0
+methanesulfonyl chloride,CS(=O)(=O)Cl,-4.87,-6.219,"InChI=1S/CH3ClO2S/c1-5(2,3)4/h1H3",[C][S][=Branch1][C][=O][=Branch1][C][=O][Cl],methanesulfonyl chloride,large,0,1
+3-methylbut-1-ene,CC(C)C=C,1.83,2.452,"InChI=1S/C5H10/c1-4-5(2)3/h4-5H,1H2,2-3H3",[C][C][Branch1][C][C][C][=C],3-methylbut-1-ene,very large,1,4
+2-ethylpyrazine,CCc1cnccn1,-5.45,-5.809,"InChI=1S/C6H8N2/c1-2-6-5-7-3-4-8-6/h3-5H,2H2,1H3",[C][C][C][=C][N][=C][C][=N][Ring1][=Branch1],2-ethylpyrazine,large,0,1
+heptan-1-ol,CCCCCCCO,-4.21,-2.917,"InChI=1S/C7H16O/c1-2-3-4-5-6-7-8/h8H,2-7H2,1H3",[C][C][C][C][C][C][C][O],heptan-1-ol,large,0,2
+"3,5-dimethylphenol",Cc1cc(cc(c1)O)C,-6.27,-5.444,"InChI=1S/C8H10O/c1-6-3-7(2)5-8(9)4-6/h3-5,9H,1-2H3",[C][C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C],"3,5-dimethylphenol",large,0,0
+"2,3-dimethylbutane",CC(C)C(C)C,2.34,2.468,"InChI=1S/C6H14/c1-5(2)6(3)4/h5-6H,1-4H3",[C][C][Branch1][C][C][C][Branch1][C][C][C],"2,3-dimethylbutane",very large,1,4
+2-methylpentan-2-ol,CCCC(C)(C)O,-3.92,-2.779,"InChI=1S/C6H14O/c1-4-5-6(2,3)7/h7H,4-5H2,1-3H3",[C][C][C][C][Branch1][C][C][Branch1][C][C][O],2-methylpentan-2-ol,large,0,2
+"1,2-dimethylcyclohexane",C[C@@H]1CCCC[C@@H]1C,1.58,1.685,"InChI=1S/C8H16/c1-7-5-3-4-6-8(7)2/h7-8H,3-6H2,1-2H3/t7-,8+",[C][C@@H1][C][C][C][C][C@@H1][Ring1][=Branch1][C],"(1s,2r)-1,2-dimethylcyclohexane",very large,1,4
+butan-2-ol,CC[C@H](C)O,-4.62,-3.145,"InChI=1S/C4H10O/c1-3-4(2)5/h4-5H,3H2,1-2H3/t4-/m0/s1",[C][C][C@H1][Branch1][C][C][O],(2s)-butan-2-ol,large,0,1
+dibromomethane,C(Br)Br,-1.96,-0.405,InChI=1S/CH2Br2/c2-1-3/h1H2,[C][Branch1][C][Br][Br],dibromomethane,very large,1,3
+2-methylpentan-3-ol,CC[C@H](C(C)C)O,-3.88,-2.416,"InChI=1S/C6H14O/c1-4-6(7)5(2)3/h5-7H,4H2,1-3H3/t6-/m1/s1",[C][C][C@H1][Branch1][=Branch1][C][Branch1][C][C][C][O],(3r)-2-methylpentan-3-ol,large,0,2
+2-ethylpyridine,CCc1ccccn1,-4.33,-3.31,"InChI=1S/C7H9N/c1-2-7-5-3-4-6-8-7/h3-6H,2H2,1H3",[C][C][C][=C][C][=C][C][=N][Ring1][=Branch1],2-ethylpyridine,large,0,2
+ethyl pentanoate,CCCCC(=O)OCC,-2.49,-3.11,"InChI=1S/C7H14O2/c1-3-5-6-7(8)9-4-2/h3-6H2,1-2H3",[C][C][C][C][C][=Branch1][C][=O][O][C][C],ethyl pentanoate,large,1,3
+benzenethiol,c1ccc(cc1)S,-2.55,-1.501,"InChI=1S/C6H6S/c7-6-4-2-1-3-5-6/h1-5,7H",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][S],benzenethiol,large,1,3
+"(2Z)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C\CO)/C)C,-4.78,-2.597,"InChI=1S/C10H18O/c1-9(2)5-4-6-10(3)7-8-11/h5,7,11H,4,6,8H2,1-3H3/b10-7-",[C][C][=Branch1][O][=C][C][C][/C][=Branch1][Ring2][=C][\C][O][/C][C],"(2z)-3,7-dimethylocta-2,6-dien-1-ol",large,0,1
+indane,c1ccc2c(c1)CCC2,-1.46,-1.752,"InChI=1S/C9H10/c1-2-5-9-7-3-6-8(9)4-1/h1-2,4-5H,3,6-7H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][C][Ring1][=Branch1],"2,3-dihydro-1h-indene",very large,1,3
+ethoxybenzene,CCOc1ccccc1,-2.22,-2.254,"InChI=1S/C8H10O/c1-2-9-8-6-4-3-5-7-8/h3-7H,2H2,1H3",[C][C][O][C][=C][C][=C][C][=C][Ring1][=Branch1],ethoxybenzene,very large,1,3
+4-bromophenol,c1cc(ccc1O)Br,-5.85,-5.833,"InChI=1S/C6H5BrO/c7-5-1-3-6(8)4-2-5/h1-4,8H",[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][O][Br],4-bromophenol,large,0,1
+"2,2-dimethylpentane",CCCC(C)(C)C,2.88,2.686,"InChI=1S/C7H16/c1-5-6-7(2,3)4/h5-6H2,1-4H3",[C][C][C][C][Branch1][C][C][Branch1][C][C][C],"2,2-dimethylpentane",very large,1,4
+2-acetoxyethyl acetate,CC(=O)OCCOC(=O)C,-6.34,-8.292,"InChI=1S/C6H10O4/c1-5(7)9-3-4-10-6(2)8/h3-4H2,1-2H3",[C][C][=Branch1][C][=O][O][C][C][O][C][=Branch1][C][=O][C],2-acetyloxyethyl acetate,large,0,0
+ethion,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,-6.1,-10.644,"InChI=1S/C9H22O4P2S4/c1-5-10-14(16,11-6-2)18-9-19-15(17,12-7-3)13-8-4/h5-9H2,1-4H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][S][C][S][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][O][C][C],diethoxyphosphinothioylsulfanylmethylsulfanyl-diethoxy-sulfanylidenephosphorane,large,0,1
+cycloheptanol,C1CCCC(CC1)O,-5.48,-4.345,"InChI=1S/C7H14O/c8-7-5-3-1-2-4-6-7/h7-8H,1-6H2",[C][C][C][C][C][Branch1][Branch1][C][C][Ring1][#Branch1][O],cycloheptanol,large,0,1
+methyl cyclopropanecarboxylate,COC(=O)C1CC1,-4.1,-3.604,"InChI=1S/C5H8O2/c1-7-5(6)4-2-3-4/h4H,2-3H2,1H3",[C][O][C][=Branch1][C][=O][C][C][C][Ring1][Ring1],methyl cyclopropanecarboxylate,large,0,2
+2-methylpropan-2-ol,CC(C)(C)O,-4.47,-3.288,"InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3",[C][C][Branch1][C][C][Branch1][C][C][O],2-methylpropan-2-ol,large,0,1
+"2,4-dimethylpentan-3-one",CC(C)C(=O)C(C)C,-2.74,-2.629,"InChI=1S/C7H14O/c1-5(2)7(8)6(3)4/h5-6H,1-4H3",[C][C][Branch1][C][C][C][=Branch1][C][=O][C][Branch1][C][C][C],"2,4-dimethylpentan-3-one",large,1,2
+propanal,CCC=O,-3.43,-3.148,"InChI=1S/C3H6O/c1-2-3-4/h3H,2H2,1H3",[C][C][C][=O],propanal,large,1,2
+"N,N-dimethylformamide",CN(C)C=O,-7.81,-6.932,"InChI=1S/C3H7NO/c1-4(2)3-5/h3H,1-2H3",[C][N][Branch1][C][C][C][=O],"n,n-dimethylformamide",large,0,0
+p-xylene,Cc1ccc(cc1)C,-0.8,-0.658,"InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C],"1,4-dimethylbenzene",very large,1,3
+"penta-1,4-diene",C=CCC=C,0.93,2.357,"InChI=1S/C5H8/c1-3-5-4-2/h3-4H,1-2,5H2",[C][=C][C][C][=C],"penta-1,4-diene",very large,1,4
+"2-(2,3-dimethylphenyl)aminobenzoic acid",Cc1cccc(c1C)Nc2ccccc2C(=O)O,-6.78,-7.665,"InChI=1S/C15H15NO2/c1-10-6-5-9-13(11(10)2)16-14-8-4-3-7-12(14)15(17)18/h3-9,16H,1-2H3,(H,17,18)",[C][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][C][N][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][O],"2-[(2,3-dimethylphenyl)amino]benzoic acid",large,0,0
+"N,N-dimethylbenzamide",CN(C)C(=O)c1ccccc1,-9.29,-8.113,"InChI=1S/C9H11NO/c1-10(2)9(11)8-6-4-3-5-7-8/h3-7H,1-2H3",[C][N][Branch1][C][C][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1],"n,n-dimethylbenzamide",medium,0,0
+N-ethylethanamine,CCNCC,-4.07,-2.986,"InChI=1S/C4H11N/c1-3-5-4-2/h5H,3-4H2,1-2H3",[C][C][N][C][C],n-ethylethanamine,large,0,2
+4-tert-butylphenol,CC(C)(C)c1ccc(cc1)O,-5.91,-5.543,"InChI=1S/C10H14O/c1-10(2,3)8-4-6-9(11)7-5-8/h4-7,11H,1-3H3",[C][C][Branch1][C][C][Branch1][C][C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],4-tert-butylphenol,large,0,1
+isopentyl formate,CC(C)CCOC=O,-2.13,-3.414,"InChI=1S/C6H12O2/c1-6(2)3-4-8-5-7/h5-6H,3-4H2,1-2H3",[C][C][Branch1][C][C][C][C][O][C][=O],3-methylbutyl formate,very large,1,3
+decan-1-ol,CCCCCCCCCCO,-3.64,-2.446,"InChI=1S/C10H22O/c1-2-3-4-5-6-7-8-9-10-11/h11H,2-10H2,1H3",[C][C][C][C][C][C][C][C][C][C][O],decan-1-ol,large,0,2
+ethyl propanoate,CCC(=O)OCC,-2.68,-3.221,"InChI=1S/C5H10O2/c1-3-5(6)7-4-2/h3-4H2,1-2H3",[C][C][C][=Branch1][C][=O][O][C][C],ethyl propanoate,large,1,3
+nonane,CCCCCCCCC,3.13,3.221,"InChI=1S/C9H20/c1-3-5-7-9-8-6-4-2/h3-9H2,1-2H3",[C][C][C][C][C][C][C][C][C],nonane,very large,1,4
+N-methylacetamide,CC(=O)NC,-10.0,-8.276,"InChI=1S/C3H7NO/c1-3(5)4-2/h1-2H3,(H,4,5)",[C][C][=Branch1][C][=O][N][C],n-methylacetamide,medium,0,0
+non-1-ene,CCCCCCCC=C,2.06,2.995,"InChI=1S/C9H18/c1-3-5-7-9-8-6-4-2/h3H,1,4-9H2,2H3",[C][C][C][C][C][C][C][C][=C],non-1-ene,very large,1,4
+naphthalen-2-ol,c1ccc2cc(ccc2c1)O,-8.11,-7.849,"InChI=1S/C10H8O/c11-10-6-5-8-3-1-2-4-9(8)7-10/h1-7,11H",[C][=C][C][=C][C][=C][Branch1][=Branch2][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][O],naphthalen-2-ol,large,0,0
+"1,2,4-trichlorobenzene",c1cc(c(cc1Cl)Cl)Cl,-1.12,-0.117,InChI=1S/C6H3Cl3/c7-4-1-2-5(8)6(9)3-4/h1-3H,[C][=C][C][=Branch1][#Branch2][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][Cl][Cl],"1,2,4-trichlorobenzene",very large,1,3
+"(2R,3R,4R,5R)-Hexan-1,2,3,4,5,6-hexol",C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,-23.62,-18.162,"InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4-,5-,6-/m1/s1",[C][Branch2][Ring1][Ring1][C@H1][Branch1][#C][C@H1][Branch1][O][C@@H1][Branch1][#Branch1][C@@H1][Branch1][Ring1][C][O][O][O][O][O][O],"(2r,3r,4r,5r)-hexane-1,2,3,4,5,6-hexol",very small,0,0
+methyl butanoate,CCCC(=O)OC,-2.83,-3.552,"InChI=1S/C5H10O2/c1-3-4-5(6)7-2/h3-4H2,1-2H3",[C][C][C][C][=Branch1][C][=O][O][C],methyl butanoate,large,1,2
+2-hydroxybenzaldehyde,c1ccc(c(c1)C=O)O,-4.68,-8.809,"InChI=1S/C7H6O2/c8-5-6-3-1-2-4-7(6)9/h1-5,9H",[C][=C][C][=C][Branch1][=Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=O][O],2-hydroxybenzaldehyde,large,0,1
+azetidine,C1CNC1,-5.56,-3.861,"InChI=1S/C3H7N/c1-2-4-3-1/h4H,1-3H2",[C][C][N][C][Ring1][Ring2],azetidine,large,0,1
+N-propylpropan-1-amine,CCCNCCC,-3.65,-2.233,"InChI=1S/C6H15N/c1-3-5-7-6-4-2/h7H,3-6H2,1-2H3",[C][C][C][N][C][C][C],n-propylpropan-1-amine,large,0,2
+aniline,c1ccc(cc1)N,-5.49,-5.543,"InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N],aniline,large,0,1
+tetrafluoromethane,C(F)(F)(F)F,3.12,2.489,"InChI=1S/CF4/c2-1(3,4)5",[C][Branch1][C][F][Branch1][C][F][Branch1][C][F][F],tetrafluoromethane,very large,1,4
+2-methylbutan-1-ol,CC[C@@H](C)CO,-4.42,-2.995,"InChI=1S/C5H12O/c1-3-5(2)4-6/h5-6H,3-4H2,1-2H3/t5-/m1/s1",[C][C][C@@H1][Branch1][C][C][C][O],(2r)-2-methylbutan-1-ol,large,0,1
+2-iodophenol,c1ccc(c(c1)O)I,-6.2,-3.221,"InChI=1S/C6H5IO/c7-5-3-1-2-4-6(5)8/h1-4,8H",[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][I],2-iodophenol,large,0,1
+"2,6-dimethoxyphenol",COc1cccc(c1O)OC,-6.96,-7.393,"InChI=1S/C8H10O3/c1-10-6-4-3-5-7(11-2)8(6)9/h3-5,9H,1-2H3",[C][O][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][O][O][C],"2,6-dimethoxyphenol",large,0,0
+trifluoromethylbenzene,c1ccc(cc1)C(F)(F)F,-0.25,-0.57,"InChI=1S/C7H5F3/c8-7(9,10)6-4-2-1-3-5-6/h1-5H",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][Branch1][C][F][Branch1][C][F][F],trifluoromethylbenzene,very large,1,4
+hydrazine,NN,-9.3,-6.508,InChI=1S/H4N2/c1-2/h1-2H2,[N][N],hydrazine,medium,0,0
+2-methylpyridine,Cc1ccccn1,-4.63,-3.501,"InChI=1S/C6H7N/c1-6-4-2-3-5-7-6/h2-5H,1H3",[C][C][=C][C][=C][C][=N][Ring1][=Branch1],2-methylpyridine,large,0,1
+simazine,CCNc1nc(nc(n1)Cl)NCC,-10.22,-10.914,"InChI=1S/C7H12ClN5/c1-3-9-6-11-5(8)12-7(13-6)10-4-2/h3-4H2,1-2H3,(H2,9,10,11,12,13)",[C][C][N][C][=N][C][=Branch1][=Branch2][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][Cl][N][C][C],"6-chloro-n,n'-diethyl-1,3,5-triazine-2,4-diamine",medium,0,0
+"2,3-dichlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3cc(c(cc3O2)Cl)Cl,-3.56,-3.59,InChI=1S/C12H6Cl2O2/c13-7-5-11-12(6-8(7)14)16-10-4-2-1-3-9(10)15-11/h1-6H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][C][=Branch1][N][=C][Branch1][Branch2][C][=C][Ring1][=Branch1][O][Ring1][O][Cl][Cl],"2,3-dichlorooxanthrene",large,0,2
+octan-1-amine,CCCCCCCCN,-3.65,-2.589,"InChI=1S/C8H19N/c1-2-3-4-5-6-7-8-9/h2-9H2,1H3",[C][C][C][C][C][C][C][C][N],octan-1-amine,large,0,2
+ammonia,N,-4.29,-4.018,InChI=1S/H3N/h1H3,[N],"$l^{1}-azane
+azane",large,0,2
+"1,2-bis(trifluoromethyl)benzene",c1ccc(c(c1)C(F)(F)F)C(F)(F)F,1.07,-1.441,"InChI=1S/C8H4F6/c9-7(10,11)5-3-1-2-4-6(5)8(12,13)14/h1-4H",[C][=C][C][=C][Branch1][#C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][F][Branch1][C][F][F][C][Branch1][C][F][Branch1][C][F][F],"1,2-bis(trifluoromethyl)benzene",very large,1,4
+methyl paraben,COC(=O)c1ccc(cc1)O,-9.51,-9.785,"InChI=1S/C8H8O3/c1-11-8(10)6-2-4-7(9)5-3-6/h2-5,9H,1H3",[C][O][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],methyl 4-hydroxybenzoate,medium,0,0
+pentylbenzene,CCCCCc1ccccc1,-0.23,-0.094,"InChI=1S/C11H16/c1-2-3-5-8-11-9-6-4-7-10-11/h4,6-7,9-10H,2-3,5,8H2,1H3",[C][C][C][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],pentylbenzene,very large,1,4
+"1,1-difluoroethane",CC(F)F,-0.11,0.226,"InChI=1S/C2H4F2/c1-2(3)4/h2H,1H3",[C][C][Branch1][C][F][F],"1,1-difluoroethane",very large,1,4
+5-Amino-4-chloro-2-phenylpyridazin-3(2H)-one,c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl,-16.43,-16.039,"InChI=1S/C10H8ClN3O/c11-9-8(12)6-13-14(10(9)15)7-4-2-1-3-5-7/h1-6H,12H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N][C][=Branch1][C][=O][C][=Branch1][=Branch2][=C][Branch1][Branch1][C][=N][Ring1][#Branch1][N][Cl],5-amino-4-chloro-2-phenylpyridazin-3-one,small,0,0
+butadiene,C=CC=C,0.56,1.955,"InChI=1S/C4H6/c1-3-4-2/h3-4H,1-2H2",[C][=C][C][=C],"buta-1,3-diene",very large,1,4
+"N,N-dimethylmethanamine",CN(C)C,-3.2,-2.636,InChI=1S/C3H9N/c1-4(2)3/h1-3H3,[C][N][Branch1][C][C][C],"n,n-dimethylmethanamine",large,1,2
+hexanamide,CCCCCC(=O)N,-9.31,-8.103,"InChI=1S/C6H13NO/c1-2-3-4-5-6(7)8/h2-5H2,1H3,(H2,7,8)",[C][C][C][C][C][C][=Branch1][C][=O][N],hexanamide,medium,0,0
+isobutyl nitrate,CC(C)CO[N+](=O)[O-],-1.88,-1.835,"InChI=1S/C4H9NO3/c1-4(2)3-8-5(6)7/h4H,3H2,1-2H3",[C][C][Branch1][C][C][C][O][N+1][=Branch1][C][=O][O-1],2-methylpropyl nitrate,very large,1,3
+"1-(2-hydroxyethylamino)-9,10-anthraquinone",c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO,-14.21,-13.599,"InChI=1S/C16H13NO3/c18-9-8-17-13-7-3-6-12-14(13)16(20)11-5-2-1-4-10(11)15(12)19/h1-7,17-18H,8-9H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][C][=C][C][=Branch1][Branch2][=C][Ring1][=Branch1][C][Ring1][N][=O][N][C][C][O],"1-(2-hydroxyethylamino)anthracene-9,10-dione",small,0,0
+2-(nitrooxy)ethan-1-ol,C(CO[N+](=O)[O-])O,-8.18,-6.676,"InChI=1S/C2H5NO4/c4-1-2-7-3(5)6/h4H,1-2H2",[C][Branch1][Branch2][C][O][N+1][=Branch1][C][=O][O-1][O],2-hydroxyethyl nitrate,medium,0,0
+octan-2-one,CCCCCCC(=O)C,-2.88,-2.758,"InChI=1S/C8H16O/c1-3-4-5-6-7-8(2)9/h3-7H2,1-2H3",[C][C][C][C][C][C][C][=Branch1][C][=O][C],octan-2-one,large,1,2
+1-methylpiperazine,CN1CCNCC1,-7.77,-8.173,"InChI=1S/C5H12N2/c1-7-4-2-6-3-5-7/h6H,2-5H2,1H3",[C][N][C][C][N][C][C][Ring1][=Branch1],1-methylpiperazine,large,0,0
+ethanamine,CCN,-4.5,-3.156,"InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3",[C][C][N],ethanamine,large,0,1
+"cyclohepta-1,3,5-triene",C1C=CC=CC=C1,-0.99,-0.098,"InChI=1S/C7H8/c1-2-4-6-7-5-3-1/h1-6H,7H2",[C][C][=C][C][=C][C][=C][Ring1][#Branch1],"cyclohepta-1,3,5-triene
+cyclohepta-1,2,4,6-tetraene",very large,1,3
+"9,10-dihydroanthracene",c1ccc2c(c1)Cc3ccccc3C2,-3.78,-4.304,"InChI=1S/C14H12/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-8H,9-10H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][Ring1][O],"9,10-dihydroanthracene",large,0,2
+"1,1-dichloroethane",CC(Cl)Cl,-0.84,0.187,"InChI=1S/C2H4Cl2/c1-2(3)4/h2H,1H3",[C][C][Branch1][C][Cl][Cl],"1,1-dichloroethane",very large,1,3
+3-methoxyphenol,COc1cccc(c1)O,-7.66,-6.969,"InChI=1S/C7H8O2/c1-9-7-4-2-3-6(8)5-7/h2-5,8H,1H3",[C][O][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O],3-methoxyphenol,large,0,0
+acenaphthene,c1cc2cccc3c2c(c1)CC3,-3.15,-4.198,"InChI=1S/C12H10/c1-3-9-4-2-6-11-8-7-10(5-1)12(9)11/h1-6H,7-8H2",[C][=C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=Branch1][Ring2][=C][Ring1][#Branch2][C][C][Ring1][=Branch1],acenaphthene,large,1,2
+1-bromooctane,CCCCCCCCBr,0.52,1.352,"InChI=1S/C8H17Br/c1-2-3-4-5-6-7-8-9/h2-8H2,1H3",[C][C][C][C][C][C][C][C][Br],1-bromooctane,very large,1,4
+phenylmethanol,c1ccc(cc1)CO,-6.62,-5.133,"InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][O],phenylmethanol,large,0,0
+5-bromouracil,c1c(c(=O)[nH]c(=O)[nH]1)Br,-18.17,-17.298,"InChI=1S/C4H3BrN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",[C][=C][Branch1][=N][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][Branch2][Br],"5-bromo-1h-pyrimidine-2,4-dione",small,0,0
+n-butane,CCCC,2.1,2.588,"InChI=1S/C4H10/c1-3-4-2/h3-4H2,1-2H3",[C][C][C][C],butane,very large,1,4
+chloromethane,CCl,-0.55,0.764,InChI=1S/CH3Cl/c1-2/h1H3,[C][Cl],chloromethane,very large,1,4
+1-bromo-2-methyl-propane,CC(C)CBr,-0.03,0.756,"InChI=1S/C4H9Br/c1-4(2)3-5/h4H,3H2,1-2H3",[C][C][Branch1][C][C][C][Br],1-bromo-2-methylpropane,very large,1,4
+2-isopropylsulfanylpropane,CC(C)SC(C)C,-1.21,0.14,"InChI=1S/C6H14S/c1-5(2)7-6(3)4/h5-6H,1-4H3",[C][C][Branch1][C][C][S][C][Branch1][C][C][C],2-propan-2-ylsulfanylpropane,very large,1,3
+heptane,CCCCCCC,2.67,2.925,"InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3",[C][C][C][C][C][C][C],heptane,very large,1,4
+imidazole,c1cnc[nH]1,-9.63,-7.972,"InChI=1S/C3H4N2/c1-2-5-3-4-1/h1-3H,(H,4,5)",[C][=C][N][=C][NH1][Ring1][Branch1],1h-imidazole,medium,0,0
+"1,2,3,7-tetrachlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3cc(c(c(c3O2)Cl)Cl)Cl,-3.84,-2.66,InChI=1S/C12H4Cl4O2/c13-5-1-2-7-8(3-5)17-9-4-6(14)10(15)11(16)12(9)18-7/h1-4H,[C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][O][C][=C][C][=Branch1][#C][=C][Branch1][O][C][=Branch1][#Branch1][=C][Ring1][=Branch1][O][Ring1][=N][Cl][Cl][Cl],"1,2,3,7-tetrachlorooxanthrene",large,0,2
+diiodomethane,C(I)I,-2.49,-1.882,InChI=1S/CH2I2/c2-1-3/h1H2,[C][Branch1][C][I][I],diiodomethane,large,1,3
+"N,N-dipropyl(propylsulfanyl)formamide",CCCN(CCC)C(=O)SCCC,-4.13,-4.569,"InChI=1S/C10H21NOS/c1-4-7-11(8-5-2)10(12)13-9-6-3/h4-9H2,1-3H3",[C][C][C][N][Branch1][Ring2][C][C][C][C][=Branch1][C][=O][S][C][C][C],s-propyl (dipropylamino)methanethioate,large,0,2
+nitromethane,C[N+](=O)[O-],-4.02,-2.075,InChI=1S/CH3NO2/c1-2(3)4/h1H3,[C][N+1][=Branch1][C][=O][O-1],"n,n-dihydroxymethanamine
+nitromethane",large,0,2
+methoxyethane,CCOC,-2.1,-0.71,"InChI=1S/C3H8O/c1-3-4-2/h3H2,1-2H3",[C][C][O][C],methoxyethane,very large,1,3
+"2-chloro-1,1,1-trimethoxy-ethane",COC(CCl)(OC)OC,-4.59,-3.638,"InChI=1S/C5H11ClO3/c1-7-5(4-6,8-2)9-3/h4H2,1-3H3",[C][O][C][Branch1][Ring1][C][Cl][Branch1][Ring1][O][C][O][C],"2-chloro-1,1,1-trimethoxyethane",large,0,1
+isobutane,CC(C)C,2.3,2.535,"InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",[C][C][Branch1][C][C][C],2-methylpropane,very large,1,4
+3-methylbutanoic acid,CC(C)CC(=O)O,-6.09,-8.844,"InChI=1S/C5H10O2/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H,6,7)",[C][C][Branch1][C][C][C][C][=Branch1][C][=O][O],3-methylbutanoic acid,large,0,1
+"2-chloro-1-(2,4-dichlorophenyl)ethenyl diethyl phosphate",CCOP(=O)(OCC)O/C(=C/Cl)/c1ccc(cc1Cl)Cl,-7.07,-9.029,"InChI=1S/C12H14Cl3O4P/c1-3-17-20(16,18-4-2)19-12(8-13)10-6-5-9(14)7-11(10)15/h5-8H,3-4H2,1-2H3/b12-8+",[C][C][O][P][=Branch1][C][=O][Branch1][Ring2][O][C][C][O][/C][=Branch1][Ring1][=C][/Cl][/C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][Cl],"[(e)-2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate",large,0,0
+1-chloropropane,CCCCl,-0.33,0.973,"InChI=1S/C3H7Cl/c1-2-3-4/h2-3H2,1H3",[C][C][C][Cl],1-chloropropane,very large,1,4
+1-propylsulfanylpropane,CCCSCCC,-1.28,0.64,"InChI=1S/C6H14S/c1-3-5-7-6-4-2/h3-6H2,1-2H3",[C][C][C][S][C][C][C],1-propylsulfanylpropane,very large,1,3
+hexan-3-ol,CCC[C@H](CC)O,-4.06,-2.585,"InChI=1S/C6H14O/c1-3-5-6(7)4-2/h6-7H,3-5H2,1-2H3/t6-/m0/s1",[C][C][C][C@H1][Branch1][Ring1][C][C][O],(3s)-hexan-3-ol,large,0,2
+"N-methyl-N-(2,2,2-trifluoroethyl)aniline",CN(CC(F)(F)F)c1ccccc1,-1.92,-3.964,"InChI=1S/C9H10F3N/c1-13(7-9(10,11)12)8-5-3-2-4-6-8/h2-6H,7H2,1H3",[C][N][Branch1][#Branch2][C][C][Branch1][C][F][Branch1][C][F][F][C][=C][C][=C][C][=C][Ring1][=Branch1],"n-methyl-n-(2,2,2-trifluoroethyl)aniline",very large,1,3
+"2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-ethane",[C@@H](C(F)(F)F)(OC(F)F)Cl,0.1,-1.156,"InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H/t1-/m0/s1",[C@@H1][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][Branch1][#Branch1][O][C][Branch1][C][F][F][Cl],"(2r)-2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane",very large,1,4
+"hexa-1,5-diene",C=CCCC=C,1.01,2.487,"InChI=1S/C6H10/c1-3-5-6-4-2/h3-4H,1-2,5-6H2",[C][=C][C][C][C][=C],"hexa-1,5-diene",very large,1,4
+m-xylene,Cc1cccc(c1)C,-0.83,-0.697,"InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3",[C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C],"1,3-dimethylbenzene",very large,1,3
+methyl acetate,CC(=O)OC,-3.13,-3.83,InChI=1S/C3H6O2/c1-3(4)5-2/h1-2H3,[C][C][=Branch1][C][=O][O][C],methyl acetate,large,1,2
+trimethoxymethylbenzene,COC(c1ccccc1)(OC)OC,-4.04,-5.559,"InChI=1S/C10H14O3/c1-11-10(12-2,13-3)9-7-5-4-6-8-9/h4-8H,1-3H3",[C][O][C][Branch1][=Branch2][C][=C][C][=C][C][=C][Ring1][=Branch1][Branch1][Ring1][O][C][O][C],trimethoxymethylbenzene,large,0,2
+ethyl benzoate,CCOC(=O)c1ccccc1,-3.64,-4.597,"InChI=1S/C9H10O2/c1-2-11-9(10)8-6-4-3-5-7-8/h3-7H,2H2,1H3",[C][C][O][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1],ethyl benzoate,large,0,2
+propanethiol,CCCS,-1.1,-0.182,"InChI=1S/C3H8S/c1-2-3-4/h4H,2-3H2,1H3",[C][C][C][S],propane-1-thiol,very large,1,3
+heptan-2-one,CCCCCC(=O)C,-3.04,-2.945,"InChI=1S/C7H14O/c1-3-4-5-6-7(2)8/h3-6H2,1-2H3",[C][C][C][C][C][C][=Branch1][C][=O][C],heptan-2-one,large,1,2
+carbofuran,CC1(Cc2cccc(c2O1)OC(=O)NC)C,-9.61,-11.126,"InChI=1S/C12H15NO3/c1-12(2)7-8-5-4-6-9(10(8)16-12)15-11(14)13-3/h4-6H,7H2,1-3H3,(H,13,14)",[C][C][Branch2][Ring1][=Branch1][C][C][=C][C][=C][C][=Branch1][#Branch1][=C][Ring1][=Branch1][O][Ring1][=Branch2][O][C][=Branch1][C][=O][N][C][C],"(2,2-dimethyl-3h-1-benzofuran-7-yl) n-methylcarbamate",medium,0,0
+ethyl hexanoate,CCCCCC(=O)OCC,-2.23,-2.929,"InChI=1S/C8H16O2/c1-3-5-6-7-8(9)10-4-2/h3-7H2,1-2H3",[C][C][C][C][C][C][=Branch1][C][=O][O][C][C],ethyl hexanoate,very large,1,3
+1-methoxypropane,CCCOC,-1.66,-0.598,"InChI=1S/C4H10O/c1-3-4-5-2/h3-4H2,1-2H3",[C][C][C][O][C],1-methoxypropane,very large,1,3
+4-methylmorpholine,CN1CCOCC1,-6.32,-5.774,"InChI=1S/C5H11NO/c1-6-2-4-7-5-3-6/h2-5H2,1H3",[C][N][C][C][O][C][C][Ring1][=Branch1],4-methylmorpholine,large,0,0
+"1,2,4,5-tetrachloro-3-(3,4-dichlorophenyl)benzene",c1cc(c(cc1c2c(c(cc(c2Cl)Cl)Cl)Cl)Cl)Cl,-4.38,-0.705,InChI=1S/C12H4Cl6/c13-6-2-1-5(3-7(6)14)10-11(17)8(15)4-9(16)12(10)18/h1-4H,[C][=C][C][=Branch2][Ring1][N][=C][Branch2][Ring1][#Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][=C][C][=Branch1][#Branch2][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl][Cl],"1,2,4,5-tetrachloro-3-(3,4-dichlorophenyl)benzene",large,0,1
+propylbenzene,CCCc1ccccc1,-0.53,-0.511,"InChI=1S/C9H12/c1-2-6-9-7-4-3-5-8-9/h3-5,7-8H,2,6H2,1H3",[C][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],propylbenzene,very large,1,4
+caffeine,Cn1cnc2c1c(=O)n(c(=O)n2C)C,-12.64,-17.621,"InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3",[C][N][C][=N][C][=C][Ring1][Branch1][C][=Branch1][C][=O][N][Branch1][=Branch2][C][=Branch1][C][=O][N][Ring1][Branch2][C][C],"1,3,7-trimethylpurine-2,6-dione",medium,0,0
+N-methylmethanamine,CNC,-4.29,-2.991,"InChI=1S/C2H7N/c1-3-2/h3H,1-2H3",[C][N][C],n-methylmethanamine,large,0,2
+"1,1,2,3,3,3-hexafluoroprop-1-ene",C(=C(F)F)(C(F)(F)F)F,2.93,2.305,"InChI=1S/C3F6/c4-1(2(5)6)3(7,8)9",[C][=Branch1][=Branch1][=C][Branch1][C][F][F][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][F],"1,1,2,3,3,3-hexafluoroprop-1-ene",very large,1,4
+4-chlorophenol,c1cc(ccc1O)Cl,-7.03,-5.373,"InChI=1S/C6H5ClO/c7-5-1-3-6(8)4-2-5/h1-4,8H",[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][O][Cl],4-chlorophenol,large,0,0
+piperidine,C1CCNCC1,-5.11,-3.873,"InChI=1S/C5H11N/c1-2-4-6-5-3-1/h6H,1-5H2",[C][C][C][N][C][C][Ring1][=Branch1],piperidine,large,0,1
+phenanthrene,c1ccc2c(c1)ccc3c2cccc3,-3.88,-5.264,InChI=1S/C14H10/c1-3-7-13-11(5-1)9-10-12-6-2-4-8-14(12)13/h1-10H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][#Branch1][C][=C][C][=C][Ring1][=Branch1],phenanthrene,large,0,2
+iodomethane,CI,-0.89,-0.641,InChI=1S/CH3I/c1-2/h1H3,[C][I],iodomethane,very large,1,3
+"3,5-dichloro-2,6-dimethoxyphenol",COc1c(cc(c(c1O)OC)Cl)Cl,-6.44,-5.98,"InChI=1S/C8H8Cl2O3/c1-12-7-4(9)3-5(10)8(13-2)6(7)11/h3,11H,1-2H3",[C][O][C][=C][Branch1][#C][C][=C][Branch1][#Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][O][O][C][Cl][Cl],"3,5-dichloro-2,6-dimethoxyphenol",large,0,0
+"(E)-1,2-dichloroethylene",C(=C/Cl)\Cl,-0.78,1.024,InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1+,[C][=Branch1][Ring1][=C][/Cl][\Cl],"1,2-dichloroethene
+(e)-1,2-dichloroethene",very large,1,4
+n-pentane,CCCCC,2.3,2.673,"InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3",[C][C][C][C][C],pentane,very large,1,4
+2-isobutylpyrazine,CC(C)Cc1cnccn1,-5.04,-5.495,"InChI=1S/C8H12N2/c1-7(2)5-8-6-9-3-4-10-8/h3-4,6-7H,5H2,1-2H3",[C][C][Branch1][C][C][C][C][=C][N][=C][C][=N][Ring1][=Branch1],2-(2-methylpropyl)pyrazine,large,0,1
+"1,4-dichloro-2-phenyl-benzene",c1ccc(cc1)c2cc(ccc2Cl)Cl,-2.46,-1.903,InChI=1S/C12H8Cl2/c13-10-6-7-12(14)11(8-10)9-4-2-1-3-5-9/h1-8H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][Cl][Cl],"1,4-dichloro-2-phenylbenzene",large,1,3
+"1,2,3,4-tetrachloro-5-phenyl-benzene",c1ccc(cc1)c2cc(c(c(c2Cl)Cl)Cl)Cl,-3.48,-1.31,InChI=1S/C12H6Cl4/c13-9-6-8(7-4-2-1-3-5-7)10(14)12(16)11(9)15/h1-6H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachloro-5-phenylbenzene",large,1,2
+"2,3-dimethylpentane",CC[C@@H](C)C(C)C,2.52,2.625,"InChI=1S/C7H16/c1-5-7(4)6(2)3/h6-7H,5H2,1-4H3/t7-/m1/s1",[C][C][C@@H1][Branch1][C][C][C][Branch1][C][C][C],"(3r)-2,3-dimethylpentane",very large,1,4
+4-methylpentan-2-ol,C[C@H](CC(C)C)O,-3.73,-2.907,"InChI=1S/C6H14O/c1-5(2)4-6(3)7/h5-7H,4H2,1-3H3/t6-/m1/s1",[C][C@H1][Branch1][#Branch1][C][C][Branch1][C][C][C][O],(2r)-4-methylpentan-2-ol,large,0,2
+tetrahydropyran,C1CCOCC1,-3.12,-1.809,InChI=1S/C5H10O/c1-2-4-6-5-3-1/h1-5H2,[C][C][C][O][C][C][Ring1][=Branch1],"oxane
+2,3,4,5-tetrahydropyran",large,1,2
+cyclopropane,C1CC1,0.75,2.485,InChI=1S/C3H6/c1-2-3-1/h1-3H2,[C][C][C][Ring1][Ring1],cyclopropane,very large,1,4
+"1,2,3,4-tetrachloro-5-(3,4,5-trichlorophenyl)benzene",c1c(cc(c(c1Cl)Cl)Cl)c2cc(c(c(c2Cl)Cl)Cl)Cl,-3.17,-0.822,InChI=1S/C12H3Cl7/c13-6-1-4(2-7(14)10(6)17)5-3-8(15)11(18)12(19)9(5)16/h1-3H,[C][=C][Branch1][=C][C][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][C][=C][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachloro-5-(3,4,5-trichlorophenyl)benzene",large,1,2
+"1,1-dichloroethylene",C=C(Cl)Cl,0.25,1.108,InChI=1S/C2H2Cl2/c1-2(3)4/h1H2,[C][=C][Branch1][C][Cl][Cl],"1,1-dichloroethene",very large,1,4
+2-methylpropan-1-ol,CC(C)CO,-4.5,-3.13,"InChI=1S/C4H10O/c1-4(2)3-5/h4-5H,3H2,1-2H3",[C][C][Branch1][C][C][C][O],2-methylpropan-1-ol,large,0,1
+propyl propanoate,CCCOC(=O)CC,-2.44,-2.453,"InChI=1S/C6H12O2/c1-3-5-8-6(7)4-2/h3-5H2,1-2H3",[C][C][C][O][C][=Branch1][C][=O][C][C],propyl propanoate,large,1,3
+hexachloroethane,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,-0.64,0.885,"InChI=1S/C2Cl6/c3-1(4,5)2(6,7)8",[C][Branch1][=Branch2][C][Branch1][C][Cl][Branch1][C][Cl][Cl][Branch1][C][Cl][Branch1][C][Cl][Cl],"1,1,1,2,2,2-hexachloroethane",very large,1,4
+methylsulfanylbenzene,CSc1ccccc1,-2.73,-1.325,"InChI=1S/C7H8S/c1-8-7-5-3-2-4-6-7/h2-6H,1H3",[C][S][C][=C][C][=C][C][=C][Ring1][=Branch1],methylsulfanylbenzene,large,1,2
+2-ethylphenol,CCc1ccccc1O,-5.66,-4.768,"InChI=1S/C8H10O/c1-2-7-5-3-4-6-8(7)9/h3-6,9H,2H2,1H3",[C][C][C][=C][C][=C][C][=C][Ring1][=Branch1][O],2-ethylphenol,large,0,1
+2-chloro-2-methyl-propane,CC(C)(C)Cl,1.09,0.826,"InChI=1S/C4H9Cl/c1-4(2,3)5/h1-3H3",[C][C][Branch1][C][C][Branch1][C][C][Cl],2-chloro-2-methylpropane,very large,1,4
+isoprene,CC(=C)C=C,0.68,1.824,"InChI=1S/C5H8/c1-4-5(2)3/h4H,1-2H2,3H3",[C][C][=Branch1][C][=C][C][=C],"2-methylbuta-1,3-diene",very large,1,4
+1-isopropyl-4-methyl-benzene,Cc1ccc(cc1)C(C)C,-0.68,-0.456,"InChI=1S/C10H14/c1-8(2)10-6-4-9(3)5-7-10/h4-8H,1-3H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][Branch1][C][C][C],1-methyl-4-propan-2-ylbenzene,very large,1,4
+1-methylimidazole,Cn1ccnc1,-8.41,-6.282,"InChI=1S/C4H6N2/c1-6-3-2-5-4-6/h2-4H,1H3",[C][N][C][=C][N][=C][Ring1][Branch1],1-methylimidazole,medium,0,0
+ethylene glycol,C(CO)O,-9.3,-7.266,"InChI=1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2",[C][Branch1][Ring1][C][O][O],"ethane-1,2-diol",medium,0,0
+"1,2-dichlorobenzene",c1ccc(c(c1)Cl)Cl,-1.36,-0.553,InChI=1S/C6H4Cl2/c7-5-3-1-2-4-6(5)8/h1-4H,[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][Cl],"1,2-dichlorobenzene",very large,1,3
+6-chlorouracil,c1c(=O)[nH]c(=O)[nH]c1Cl,-15.83,-15.128,"InChI=1S/C4H3ClN2O2/c5-2-1-3(8)7-4(9)6-2/h1H,(H2,6,7,8,9)",[C][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][C][=Ring1][Branch2][Cl],"6-chloro-1h-pyrimidine-2,4-dione",small,0,0
+propyl formate,CCCOC=O,-2.48,-3.699,"InChI=1S/C4H8O2/c1-2-3-6-4-5/h4H,2-3H2,1H3",[C][C][C][O][C][=O],propyl formate,large,1,3
+2-chlorodibenzo-p-dioxin,c1ccc2c(c1)Oc3ccc(cc3O2)Cl,-3.1,-4.054,InChI=1S/C12H7ClO2/c13-8-5-6-11-12(7-8)15-10-4-2-1-3-9(10)14-11/h1-7H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][C][=C][Branch1][Branch2][C][=C][Ring1][=Branch1][O][Ring1][O][Cl],2-chlorooxanthrene,large,1,2
+hexanoic acid,CCCCCC(=O)O,-6.21,-7.878,"InChI=1S/C6H12O2/c1-2-3-4-5-6(7)8/h2-5H2,1H3,(H,7,8)",[C][C][C][C][C][C][=Branch1][C][=O][O],hexanoic acid,large,0,1
+diethyl butanedioate,CCOC(=O)CCC(=O)OCC,-5.71,-8.683,"InChI=1S/C8H14O4/c1-3-11-7(9)5-6-8(10)12-4-2/h3-6H2,1-2H3",[C][C][O][C][=Branch1][C][=O][C][C][C][=Branch1][C][=O][O][C][C],diethyl butanedioate,large,0,1
+"2,4-dimethylpyridine",Cc1ccnc(c1)C,-4.86,-3.282,"InChI=1S/C7H9N/c1-6-3-4-8-7(2)5-6/h3-5H,1-2H3",[C][C][=C][C][=N][C][=Branch1][Ring2][=C][Ring1][=Branch1][C],"2,4-dimethylpyridine",large,0,1
+cyclohexene,C1CCC=CC1,0.14,1.175,"InChI=1S/C6H10/c1-2-4-6-5-3-1/h1-2H,3-6H2",[C][C][C][C][=C][C][Ring1][=Branch1],cyclohexene,very large,1,4
+"1,4-dimethylpiperazine",CN1CCN(CC1)C,-7.58,-7.874,"InChI=1S/C6H14N2/c1-7-3-5-8(2)6-4-7/h3-6H2,1-2H3",[C][N][C][C][N][Branch1][Branch1][C][C][Ring1][=Branch1][C],"1,4-dimethylpiperazine",large,0,0
+"1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene",c1cc(c(cc1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl,-3.04,-1.083,InChI=1S/C12H4Cl6/c13-7-2-1-5(3-8(7)14)6-4-9(15)11(17)12(18)10(6)16/h1-4H,[C][=C][C][=Branch2][Ring1][N][=C][Branch2][Ring1][#Branch1][C][=C][Ring1][=Branch1][C][=C][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachloro-5-(3,4-dichlorophenyl)benzene",large,1,2
+quinone,C1=CC(=O)C=CC1=O,-6.5,-6.96,InChI=1S/C6H4O2/c7-5-1-2-6(8)4-3-5/h1-4H,[C][=C][C][=Branch1][C][=O][C][=C][C][Ring1][#Branch1][=O],"cyclohexa-2,5-diene-1,4-dione",large,0,0
+methyl 2-chloroacetate,COC(=O)CCl,-4.0,-3.816,"InChI=1S/C3H5ClO2/c1-6-3(5)2-4/h2H2,1H3",[C][O][C][=Branch1][C][=O][C][Cl],methyl 2-chloroacetate,large,0,2
+butanal,CCCC=O,-3.18,-3.044,"InChI=1S/C4H8O/c1-2-3-4-5/h4H,2-3H2,1H3",[C][C][C][C][=O],butanal,large,1,2
+ethylbenzene,CCc1ccccc1,-0.79,-0.606,"InChI=1S/C8H10/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3",[C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],ethylbenzene,very large,1,4
+"1,1,2-trichloroethylene",C(=C(Cl)Cl)Cl,-0.44,0.818,InChI=1S/C2HCl3/c3-1-2(4)5/h1H,[C][=Branch1][=Branch1][=C][Branch1][C][Cl][Cl][Cl],"1,1,2-trichloroethene",very large,1,4
+"N,N-diethylethanamine",CCN(CC)CC,-3.22,-1.955,"InChI=1S/C6H15N/c1-4-7(5-2)6-3/h4-6H2,1-3H3",[C][C][N][Branch1][Ring1][C][C][C][C],"n,n-diethylethanamine",large,1,2
+"1,2,3,4,7-pentachlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-4.15,-2.31,InChI=1S/C12H3Cl5O2/c13-4-1-2-5-6(3-4)19-12-10(17)8(15)7(14)9(16)11(12)18-5/h1-3H,[C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][O][C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][O][Ring1][P],"1,2,3,4,7-pentachlorooxanthrene",large,0,2
+"3,4-dimethylpyridine",Cc1ccncc1C,-5.22,-3.201,"InChI=1S/C7H9N/c1-6-3-4-8-5-7(6)2/h3-5H,1-2H3",[C][C][=C][C][=N][C][=C][Ring1][=Branch1][C],"3,4-dimethylpyridine",large,0,1
+cyanuric acid,c1(=O)[nH]c(=O)[nH]c(=O)[nH]1,-18.06,-21.762,"InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)",[C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][=Branch2],"1,3,5-triazinane-2,4,6-trione",small,0,0
+benzaldehyde,c1ccc(cc1)C=O,-4.02,-5.058,InChI=1S/C7H6O/c8-6-7-4-2-1-3-5-7/h1-6H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=O],benzaldehyde,large,0,2
+2-chloropyridine,c1ccnc(c1)Cl,-4.39,-3.873,InChI=1S/C5H4ClN/c6-5-3-1-2-4-7-5/h1-4H,[C][=C][C][=N][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl],2-chloropyridine,large,0,1
+1-(p-tolyl)ethanone,Cc1ccc(cc1)C(=O)C,-4.7,-4.91,"InChI=1S/C9H10O/c1-7-3-5-9(6-4-7)8(2)10/h3-6H,1-2H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][C],1-(4-methylphenyl)ethanone,large,0,1
+formaldehyde,C=O,-2.75,-3.155,InChI=1S/CH2O/c1-2/h1H2,[C][=O],formaldehyde,large,1,2
+1-chloro-2-methyl-benzene,Cc1ccccc1Cl,-1.14,-0.473,"InChI=1S/C7H7Cl/c1-6-4-2-3-5-7(6)8/h2-5H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][Cl],1-chloro-2-methylbenzene,very large,1,3
+1-pyrrolidin-1-ylethanone,CC(=O)N1CCCC1,-9.8,-7.831,"InChI=1S/C6H11NO/c1-6(8)7-4-2-3-5-7/h2-5H2,1H3",[C][C][=Branch1][C][=O][N][C][C][C][C][Ring1][Branch1],1-pyrrolidin-1-ylethanone,medium,0,0
+"1,1,1-trimethoxyethane",CC(OC)(OC)OC,-4.42,-3.7,"InChI=1S/C5H12O3/c1-5(6-2,7-3)8-4/h1-4H3",[C][C][Branch1][Ring1][O][C][Branch1][Ring1][O][C][O][C],"1,1,1-trimethoxyethane",large,0,1
+butylbenzene,CCCCc1ccccc1,-0.4,-0.227,"InChI=1S/C10H14/c1-2-3-7-10-8-5-4-6-9-10/h4-6,8-9H,2-3,7H2,1H3",[C][C][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],butylbenzene,very large,1,4
+"N,N-dimethylaniline",CN(C)c1ccccc1,-3.45,-4.426,"InChI=1S/C8H11N/c1-9(2)8-6-4-3-5-7-8/h3-7H,1-2H3",[C][N][Branch1][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],"n,n-dimethylaniline",large,1,2
+2-methoxypropane,CC(C)OC,-2.01,-0.657,"InChI=1S/C4H10O/c1-4(2)5-3/h4H,1-3H3",[C][C][Branch1][C][C][O][C],2-methoxypropane,very large,1,3
+"1,2,3,4,6,7,8,9-octachlorodibenzo-p-dioxin",c12c(c(c(c(c1Cl)Cl)Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-4.53,-1.147,InChI=1S/C12Cl8O2/c13-1-2(14)6(18)10-9(5(1)17)21-11-7(19)3(15)4(16)8(20)12(11)22-10,[C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][O][C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][O][Ring2][Ring1][=Branch1],"1,2,3,4,6,7,8,9-octachlorooxanthrene",large,0,1
+"1,2,3,4,5-pentachloro-6-(2,3,4,5,6-pentachlorophenyl)benzene",c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl,-2.98,0.76,InChI=1S/C12Cl10/c13-3-1(4(14)8(18)11(21)7(3)17)2-5(15)9(19)12(22)10(20)6(2)16,[C][=Branch2][Ring1][Branch1][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl][C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl],"1,2,3,4,5-pentachloro-6-(2,3,4,5,6-pentachlorophenyl)benzene",large,1,2
+"1,1,2-trichloroethane",C(C(Cl)Cl)Cl,-1.99,-0.384,"InChI=1S/C2H3Cl3/c3-1-2(4)5/h2H,1H2",[C][Branch1][=Branch1][C][Branch1][C][Cl][Cl][Cl],"1,1,2-trichloroethane",very large,1,3
+N-methylaniline,CNc1ccccc1,-4.69,-5.719,"InChI=1S/C7H9N/c1-8-7-5-3-2-4-6-7/h2-6,8H,1H3",[C][N][C][=C][C][=C][C][=C][Ring1][=Branch1],n-methylaniline,large,0,1
+isopropyl acetate,CC(C)OC(=O)C,-2.64,-3.371,"InChI=1S/C5H10O2/c1-4(2)7-5(3)6/h4H,1-3H3",[C][C][Branch1][C][C][O][C][=Branch1][C][=O][C],propan-2-yl acetate,large,1,3
+benzene,c1ccccc1,-0.9,-0.806,InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H,[C][=C][C][=C][C][=C][Ring1][=Branch1],benzene,very large,1,3
+"1,2,3-trichlorobenzene",c1cc(c(c(c1)Cl)Cl)Cl,-1.24,-0.51,InChI=1S/C6H3Cl3/c7-4-2-1-3-5(8)6(4)9/h1-3H,[C][=C][C][=Branch1][N][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][Cl][Cl],"1,2,3-trichlorobenzene",very large,1,3
+4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-thioxo-$l^{5}-phosphane,CCOP(=S)(OCC)SCSc1ccc(cc1)Cl,-6.5,-7.024,"InChI=1S/C11H16ClO2PS3/c1-3-13-15(16,14-4-2)18-9-17-11-7-5-10(12)6-8-11/h5-8H,3-4,9H2,1-2H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][S][C][S][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][Cl],(4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-sulfanylidenephosphorane,large,0,0
+"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",COP(=S)(OC)SCn1c(=O)c2ccccc2nn1,-10.03,-14.106,"InChI=1S/C10H12N3O3PS2/c1-15-17(18,16-2)19-7-13-10(14)8-5-3-4-6-9(8)11-12-13/h3-6H,7H2,1-2H3",[C][O][P][=Branch1][C][=S][Branch1][Ring1][O][C][S][C][N][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1][N][=N][Ring1][O],"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",medium,0,0
+"1,2,4-trichlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3c(cc(c(c3O2)Cl)Cl)Cl,-4.05,-3.16,InChI=1S/C12H5Cl3O2/c13-6-5-7(14)11-12(10(6)15)17-9-4-2-1-3-8(9)16-11/h1-5H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][Branch1][S][C][=C][Branch1][O][C][=Branch1][#Branch1][=C][Ring1][=Branch1][O][Ring1][O][Cl][Cl][Cl],"1,2,4-trichlorooxanthrene",large,0,2
+"2,3-dimethylbuta-1,3-diene",CC(=C)C(=C)C,0.4,1.862,"InChI=1S/C6H10/c1-5(2)6(3)4/h1,3H2,2,4H3",[C][C][=Branch1][C][=C][C][=Branch1][C][=C][C],"2,3-dimethylbuta-1,3-diene",very large,1,4
+hex-1-ene,CCCCC=C,1.58,2.628,"InChI=1S/C6H12/c1-3-5-6-4-2/h3H,1,4-6H2,2H3",[C][C][C][C][C][=C],hex-1-ene,very large,1,4
+hydrogen sulfide,S,-0.7,-1.135,InChI=1S/H2S/h1H2,[S],hydrogen sulfide,very large,1,4
+ethoxyethane,CCOCC,-1.59,-0.617,"InChI=1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3",[C][C][O][C][C],ethoxyethane,very large,1,3
+"2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine",CCNc1nc(nc(n1)SC)NC(C)C,-7.65,-10.552,"InChI=1S/C9H17N5S/c1-5-10-7-12-8(11-6(2)3)14-9(13-7)15-4/h6H,5H2,1-4H3,(H2,10,11,12,13,14)",[C][C][N][C][=N][C][=Branch1][#Branch2][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][S][C][N][C][Branch1][C][C][C],"n'-ethyl-6-methylsulfanyl-n-propan-2-yl-1,3,5-triazine-2,4-diamine",large,0,0
+butyl paraben,CCCCOC(=O)c1ccc(cc1)O,-8.72,-8.771,"InChI=1S/C11H14O3/c1-2-3-8-14-11(13)9-4-6-10(12)7-5-9/h4-7,12H,2-3,8H2,1H3",[C][C][C][C][O][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],butyl 4-hydroxybenzoate,medium,0,0
+hexyl acetate,CCCCCCOC(=O)C,-2.26,-2.219,"InChI=1S/C8H16O2/c1-3-4-5-6-7-10-8(2)9/h3-7H2,1-2H3",[C][C][C][C][C][C][O][C][=Branch1][C][=O][C],hexyl acetate,very large,1,3
+cyclopentanone,C1CCC(=O)C1,-4.7,-3.889,InChI=1S/C5H8O/c6-5-3-1-2-4-5/h1-4H2,[C][C][C][C][=Branch1][C][=O][C][Ring1][=Branch1],cyclopentanone,large,0,1
+pentanoic acid,CCCCC(=O)O,-6.16,-9.053,"InChI=1S/C5H10O2/c1-2-3-4-5(6)7/h2-4H2,1H3,(H,6,7)",[C][C][C][C][C][=Branch1][C][=O][O],pentanoic acid,large,0,1
+bromoethane,CCBr,-0.74,0.487,"InChI=1S/C2H5Br/c1-2-3/h2H2,1H3",[C][C][Br],bromoethane,very large,1,4
+"2,6-dimethylnaphthalene",Cc1ccc2cc(ccc2c1)C,-2.63,-2.848,"InChI=1S/C12H12/c1-9-3-5-12-8-10(2)4-6-11(12)7-9/h3-8H,1-2H3",[C][C][=C][C][=C][C][=C][Branch1][=Branch2][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][C],"2,6-dimethylnaphthalene",large,1,3
+hexan-1-ol,CCCCCCO,-4.4,-3.0,"InChI=1S/C6H14O/c1-2-3-4-5-6-7/h7H,2-6H2,1H3",[C][C][C][C][C][C][O],hexan-1-ol,large,0,1
+1-chloro-2-phenyl-benzene,c1ccc(cc1)c2ccccc2Cl,-2.69,-2.508,InChI=1S/C12H9Cl/c13-12-9-5-4-8-11(12)10-6-2-1-3-7-10/h1-9H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1][Cl],1-chloro-2-phenylbenzene,large,1,2
+1-methylcyclohexene,CC1=CCCCC1,0.67,1.338,"InChI=1S/C7H12/c1-7-5-3-2-4-6-7/h5H,2-4,6H2,1H3",[C][C][=C][C][C][C][C][Ring1][=Branch1],1-methylcyclohexene,very large,1,4
+hexyl nitrate,CCCCCCO[N+](=O)[O-],-1.66,-1.596,"InChI=1S/C6H13NO3/c1-2-3-4-5-6-10-7(8)9/h2-6H2,1H3",[C][C][C][C][C][C][O][N+1][=Branch1][C][=O][O-1],hexyl nitrate,very large,1,3
+bromoform,C(Br)(Br)Br,-2.13,-0.531,InChI=1S/CHBr3/c2-1(3)4/h1H,[C][Branch1][C][Br][Branch1][C][Br][Br],bromoform,very large,1,3
+4-ethylphenol,CCc1ccc(cc1)O,-6.13,-5.453,"InChI=1S/C8H10O/c1-2-7-3-5-8(9)6-4-7/h3-6,9H,2H2,1H3",[C][C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],4-ethylphenol,large,0,1
+2-propoxyethanol,CCCOCCO,-6.4,-3.94,"InChI=1S/C5H12O2/c1-2-4-7-5-3-6/h6H,2-5H2,1H3",[C][C][C][O][C][C][O],2-propoxyethanol,large,0,0
+phenyl formate,c1ccc(cc1)OC=O,-3.82,-5.442,InChI=1S/C7H6O2/c8-6-9-7-4-2-1-3-5-7/h1-6H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O][C][=O],phenyl formate,large,0,2
+5-iodouracil,c1c(c(=O)[nH]c(=O)[nH]1)I,-18.72,-17.742,"InChI=1S/C4H3IN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",[C][=C][Branch1][=N][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][Branch2][I],"5-iodo-1h-pyrimidine-2,4-dione",small,0,0
+butyric acid,CCCC(=O)O,-6.35,-9.434,"InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)",[C][C][C][C][=Branch1][C][=O][O],butanoic acid,large,0,0
+"1,1,1-trifluoro-2,2,2-trimethoxyethane",COC(C(F)(F)F)(OC)OC,-0.8,-2.319,"InChI=1S/C5H9F3O3/c1-9-5(10-2,11-3)4(6,7)8/h1-3H3",[C][O][C][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][Branch1][Ring1][O][C][O][C],"1,1,1-trifluoro-2,2,2-trimethoxyethane",very large,1,3
+"(2S,3R,4S,5R)-oxane-2,3,4,5-tetrol",C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O,-20.52,-14.148,"InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5+/m1/s1",[C][C@H1][Branch1][S][C@@H1][Branch1][N][C@H1][Branch1][Branch2][C@H1][Branch1][Ring2][O][Ring1][=Branch1][O][O][O][O],"(2s,3r,4s,5r)-oxane-2,3,4,5-tetrol",very small,0,0
+bromo-trifluoro-methane,C(F)(F)(F)Br,1.79,1.564,"InChI=1S/CBrF3/c2-1(3,4)5",[C][Branch1][C][F][Branch1][C][F][Branch1][C][F][Br],bromo-trifluoromethane,very large,1,4
+butan-1-ol,CCCCO,-4.72,-3.232,"InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",[C][C][C][C][O],butan-1-ol,large,0,1
+fluorobenzene,c1ccc(cc1)F,-0.8,-0.041,InChI=1S/C6H5F/c7-6-4-2-1-3-5-6/h1-5H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][F],fluorobenzene,very large,1,3
+ethyl acetate,CCOC(=O)C,-2.94,-3.745,"InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",[C][C][O][C][=Branch1][C][=O][C],ethyl acetate,large,1,2
+isobutyl 2-methylpropanoate,CC(C)COC(=O)C(C)C,-1.69,-2.58,"InChI=1S/C8H16O2/c1-6(2)5-10-8(9)7(3)4/h6-7H,5H2,1-4H3",[C][C][Branch1][C][C][C][O][C][=Branch1][C][=O][C][Branch1][C][C][C],2-methylpropyl 2-methylpropanoate,very large,1,3
+2-methoxy-2-methyl-propane,CC(C)(C)OC,-2.21,-0.691,"InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3",[C][C][Branch1][C][C][Branch1][C][C][O][C],2-methoxy-2-methylpropane,very large,1,3
+pentan-3-one,CCC(=O)CC,-3.41,-3.05,"InChI=1S/C5H10O/c1-3-5(6)4-2/h3-4H2,1-2H3",[C][C][C][=Branch1][C][=O][C][C],pentan-3-one,large,1,2
+"methyl 2,2,2-trifluoroacetate",COC(=O)C(F)(F)F,-1.1,-1.353,"InChI=1S/C3H3F3O2/c1-8-2(7)3(4,5)6/h1H3",[C][O][C][=Branch1][C][=O][C][Branch1][C][F][Branch1][C][F][F],"methyl 2,2,2-trifluoroacetate",very large,1,3
+naphthalene,c1ccc2ccccc2c1,-2.4,-3.213,InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H,[C][=C][C][=C][C][=C][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2],naphthalene,large,1,3
+"1,2,3,4-tetrachloro-5-(2,3,4-trichlorophenyl)benzene",c1cc(c(c(c1c2cc(c(c(c2Cl)Cl)Cl)Cl)Cl)Cl)Cl,-4.4,-0.805,InChI=1S/C12H3Cl7/c13-6-2-1-4(8(15)10(6)17)5-3-7(14)11(18)12(19)9(5)16/h1-3H,[C][=C][C][=Branch2][Ring1][S][=C][Branch2][Ring1][O][C][=Branch2][Ring1][=Branch1][=C][Ring1][=Branch1][C][=C][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachloro-5-(2,3,4-trichlorophenyl)benzene",large,0,1
+acetylsalicylic acid,CC(=O)Oc1ccccc1C(=O)O,-9.94,-9.399,"InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",[C][C][=Branch1][C][=O][O][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][O],2-acetyloxybenzoic acid,medium,0,0
+"3,3-dimethylbutan-2-one",CC(=O)C(C)(C)C,-3.11,-3.234,"InChI=1S/C6H12O/c1-5(7)6(2,3)4/h1-4H3",[C][C][=Branch1][C][=O][C][Branch1][C][C][Branch1][C][C][C],"3,3-dimethylbutan-2-one",large,1,2
+methyl methanesulfonate,COS(=O)(=O)C,-4.87,-8.824,"InChI=1S/C2H6O3S/c1-5-6(2,3)4/h1-2H3",[C][O][S][=Branch1][C][=O][=Branch1][C][=O][C],methyl methanesulfonate,large,0,1
+4-ethylpyridine,CCc1ccncc1,-4.73,-3.19,"InChI=1S/C7H9N/c1-2-7-3-5-8-6-4-7/h3-6H,2H2,1H3",[C][C][C][=C][C][=N][C][=C][Ring1][=Branch1],4-ethylpyridine,large,0,1
+N-isopropylpropan-2-amine,CC(C)NC(C)C,-3.22,-1.985,"InChI=1S/C6H15N/c1-5(2)7-6(3)4/h5-7H,1-4H3",[C][C][Branch1][C][C][N][C][Branch1][C][C][C],n-propan-2-ylpropan-2-amine,large,1,2
+"2,7-dichlorodibenzo-p-dioxin",c1cc2c(cc1Cl)Oc3ccc(cc3O2)Cl,-3.67,-3.321,InChI=1S/C12H6Cl2O2/c13-7-1-3-9-11(5-7)16-10-4-2-8(14)6-12(10)15-9/h1-6H,[C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][O][C][=C][C][=C][Branch1][Branch2][C][=C][Ring1][=Branch1][O][Ring1][=N][Cl],"2,7-dichlorooxanthrene",large,0,2
+heptan-1-amine,CCCCCCCN,-3.79,-2.554,"InChI=1S/C7H17N/c1-2-3-4-5-6-7-8/h2-8H2,1H3",[C][C][C][C][C][C][C][N],heptan-1-amine,large,0,2
+methylcyclopentane,CC1CCCC1,1.59,1.785,"InChI=1S/C6H12/c1-6-4-2-3-5-6/h6H,2-5H2,1H3",[C][C][C][C][C][C][Ring1][Branch1],methylcyclopentane,very large,1,4
+propane,CCC,2.0,2.495,"InChI=1S/C3H8/c1-3-2/h3H2,1-2H3",[C][C][C],propane,very large,1,4
+2-methyltetrahydrofuran,C[C@H]1CCCO1,-3.3,-1.984,"InChI=1S/C5H10O/c1-5-3-2-4-6-5/h5H,2-4H2,1H3/t5-/m0/s1",[C][C@H1][C][C][C][O][Ring1][Branch1],(2s)-2-methyloxolane,large,1,2
+naphthalen-1-yl N-methylcarbamate,CNC(=O)Oc1cccc2c1cccc2,-9.45,-10.436,"InChI=1S/C12H11NO2/c1-13-12(14)15-11-8-4-6-9-5-2-3-7-10(9)11/h2-8H,1H3,(H,13,14)",[C][N][C][=Branch1][C][=O][O][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][=Branch1],naphthalen-1-yl n-methylcarbamate,medium,0,0
+3-hydroxybenzaldehyde,c1cc(cc(c1)O)C=O,-9.52,-9.369,"InChI=1S/C7H6O2/c8-5-6-2-1-3-7(9)4-6/h1-5,9H",[C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=O],3-hydroxybenzaldehyde,medium,0,0
+anthracene,c1ccc2cc3ccccc3cc2c1,-3.95,-5.187,InChI=1S/C14H10/c1-2-6-12-10-14-8-4-3-7-13(14)9-11(12)5-1/h1-10H,[C][=C][C][=C][C][=C][C][=C][C][=C][C][Ring1][=Branch1][=C][C][Ring1][#Branch2][=C][Ring1][=C],anthracene,large,0,2
+dichloromethane,C(Cl)Cl,-1.31,0.038,InChI=1S/CH2Cl2/c2-1-3/h1H2,[C][Branch1][C][Cl][Cl],dichloromethane,very large,1,3
+"methyl 2,2-dimethylpropanoate",CC(C)(C)C(=O)OC,-2.4,-3.304,"InChI=1S/C6H12O2/c1-6(2,3)5(7)8-4/h1-4H3",[C][C][Branch1][C][C][Branch1][C][C][C][=Branch1][C][=O][O][C],"methyl 2,2-dimethylpropanoate",large,1,3
+trichloro(nitro)methane,C([N+](=O)[O-])(Cl)(Cl)Cl,-1.45,-0.379,"InChI=1S/CCl3NO2/c2-1(3,4)5(6)7",[C][Branch1][=Branch1][N+1][=Branch1][C][=O][O-1][Branch1][C][Cl][Branch1][C][Cl][Cl],trichloro-nitromethane,very large,1,3
+sulfolane,C1CC[S+2](C1)([O-])[O-],-8.61,-9.624,InChI=1S/C4H8O2S/c5-7(6)3-1-2-4-7/h1-4H2,[C][C][C][S+2][Branch1][Ring2][C][Ring1][Branch1][Branch1][C][O-1][O-1],"thiolane 1,1-dioxide",medium,0,0
+"2,6-dimethylphenol",Cc1cccc(c1O)C,-5.26,-4.308,"InChI=1S/C8H10O/c1-6-4-3-5-7(2)8(6)9/h3-5,9H,1-2H3",[C][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][O][C],"2,6-dimethylphenol",large,0,1
+m-cresol,Cc1cccc(c1)O,-5.49,-5.378,"InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",[C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O],3-methylphenol,large,0,1
+"1-amino-4-hydroxy-9,10-anthracenedione",c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)O)N,-9.53,-10.984,"InChI=1S/C14H9NO3/c15-9-5-6-10(16)12-11(9)13(17)7-3-1-2-4-8(7)14(12)18/h1-6,16H,15H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][Branch1][=C][C][=C][C][=Branch1][Branch2][=C][Ring1][=Branch1][C][Ring1][N][=O][O][N],"1-amino-4-hydroxyanthracene-9,10-dione",medium,0,0
+"1,4-diamino-9,10-anthracenedione",c1ccc2c(c1)C(=O)c3c(ccc(c3C2=O)N)N,-11.85,-15.252,"InChI=1S/C14H10N2O2/c15-9-5-6-10(16)12-11(9)13(17)7-3-1-2-4-8(7)14(12)18/h1-6H,15-16H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][Branch1][=C][C][=C][C][=Branch1][Branch2][=C][Ring1][=Branch1][C][Ring1][N][=O][N][N],"1,4-diaminoanthracene-9,10-dione",medium,0,0
+nonan-2-one,CCCCCCCC(=O)C,-2.49,-2.563,"InChI=1S/C9H18O/c1-3-4-5-6-7-8-9(2)10/h3-8H2,1-2H3",[C][C][C][C][C][C][C][C][=Branch1][C][=O][C],nonan-2-one,large,1,3
+butan-1-amine,CCCCN,-4.24,-2.961,"InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3",[C][C][C][C][N],butan-1-amine,large,0,2
+ethyl butanoate,CCCC(=O)OCC,-2.49,-3.381,"InChI=1S/C6H12O2/c1-3-5-6(7)8-4-2/h3-5H2,1-2H3",[C][C][C][C][=Branch1][C][=O][O][C][C],ethyl butanoate,large,1,3
+4-methylaniline,Cc1ccc(cc1)N,-5.57,-5.494,"InChI=1S/C7H9N/c1-6-2-4-7(8)5-3-6/h2-5H,8H2,1H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N],4-methylaniline,large,0,1
+1-iodohexane,CCCCCCI,0.08,0.043,"InChI=1S/C6H13I/c1-2-3-4-5-6-7/h2-6H2,1H3",[C][C][C][C][C][C][I],1-iodohexane,very large,1,4
+"1,1,2-trichloro-1,2,2-trifluoro-ethane",C(C(F)(Cl)Cl)(F)(F)Cl,1.77,1.691,"InChI=1S/C2Cl3F3/c3-1(4,6)2(5,7)8",[C][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][Cl][Cl][Branch1][C][F][Branch1][C][F][Cl],"1,1,2-trichloro-1,2,2-trifluoroethane",very large,1,4
+trimethyl phosphate,COP(=O)(OC)OC,-8.7,-10.642,"InChI=1S/C3H9O4P/c1-5-8(4,6-2)7-3/h1-3H3",[C][O][P][=Branch1][C][=O][Branch1][Ring1][O][C][O][C],"hydroxy-trimethoxyphosphanium
+trimethyl phosphate",medium,0,0
+"1,3-dichlorobenzene",c1cc(cc(c1)Cl)Cl,-0.98,-0.11,InChI=1S/C6H4Cl2/c7-5-2-1-3-6(8)4-5/h1-4H,[C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][Cl],"1,3-dichlorobenzene",very large,1,3
+"1,3-dimethylnaphthalene",Cc1cc(c2ccccc2c1)C,-2.47,-2.995,"InChI=1S/C12H12/c1-9-7-10(2)12-6-4-3-5-11(12)8-9/h3-8H,1-2H3",[C][C][=C][C][=Branch1][N][=C][C][=C][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][C],"1,3-dimethylnaphthalene",large,1,3
+isohexane,CCCC(C)C,2.51,2.808,"InChI=1S/C6H14/c1-4-5-6(2)3/h6H,4-5H2,1-3H3",[C][C][C][C][Branch1][C][C][C],2-methylpentane,very large,1,4
+chlorpyrifos,CCOP(=S)(OCC)Oc1c(cc(c(n1)Cl)Cl)Cl,-5.04,-9.625,"InChI=1S/C9H11Cl3NO3PS/c1-3-14-17(18,15-4-2)16-9-7(11)5-6(10)8(12)13-9/h5H,3-4H2,1-2H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][O][C][=C][Branch1][=N][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=N][Ring1][=Branch1][Cl][Cl][Cl],"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxyphosphorane",large,0,1
+"2-chloro-1,1,1-trifluoro-ethane",C(C(F)(F)F)Cl,0.06,0.233,"InChI=1S/C2H2ClF3/c3-1-2(4,5)6/h1H2",[C][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][Cl],"2-chloro-1,1,1-trifluoroethane",very large,1,4
+ethylene,C=C,1.28,2.328,InChI=1S/C2H4/c1-2/h1-2H2,[C][=C],ethene,very large,1,4
+1-iodopentane,CCCCCI,-0.14,-0.111,"InChI=1S/C5H11I/c1-2-3-4-5-6/h2-5H2,1H3",[C][C][C][C][C][I],1-iodopentane,very large,1,4
+trimethoxymethane,COC(OC)OC,-4.42,-4.625,"InChI=1S/C4H10O3/c1-5-4(6-2)7-3/h4H,1-3H3",[C][O][C][Branch1][Ring1][O][C][O][C],trimethoxymethane,large,0,1
+decane,CCCCCCCCCC,3.16,3.335,"InChI=1S/C10H22/c1-3-5-7-9-10-8-6-4-2/h3-10H2,1-2H3",[C][C][C][C][C][C][C][C][C][C],decane,very large,1,4
+"1,2-dinitroxypropane",C[C@@H](CO[N+](=O)[O-])O[N+](=O)[O-],-4.95,-5.646,"InChI=1S/C3H6N2O6/c1-3(11-5(8)9)2-10-4(6)7/h3H,2H2,1H3/t3-/m0/s1",[C][C@@H1][Branch1][Branch2][C][O][N+1][=Branch1][C][=O][O-1][O][N+1][=Branch1][C][=O][O-1],[(2s)-1-nitrooxypropan-2-yl] nitrate,large,0,1
+prop-1-ene,CC=C,1.32,2.328,"InChI=1S/C3H6/c1-3-2/h3H,1H2,2H3",[C][C][=C],prop-1-ene,very large,1,4
+3-methyl-1H-indole,Cc1c[nH]c2c1cccc2,-5.88,-8.161,"InChI=1S/C9H9N/c1-7-6-10-9-5-3-2-4-8(7)9/h2-6,10H,1H3",[C][C][=C][NH1][C][=C][Ring1][Branch1][C][=C][C][=C][Ring1][=Branch1],3-methyl-1h-indole,large,0,1
+"(1R)-2,2,2-trichloro-1-dimethoxyphosphoryl-ethanol",COP(=O)([C@H](C(Cl)(Cl)Cl)O)OC,-12.74,-13.424,"InChI=1S/C4H8Cl3O4P/c1-10-12(9,11-2)3(8)4(5,6)7/h3,8H,1-2H3/t3-/m1/s1",[C][O][P][=Branch1][C][=O][Branch1][=N][C@H1][Branch1][=Branch2][C][Branch1][C][Cl][Branch1][C][Cl][Cl][O][O][C],"(1r)-2,2,2-trichloro-1-dimethoxyphosphorylethanol",medium,0,0
+cyclohexane,C1CCCCC1,1.23,1.503,InChI=1S/C6H12/c1-2-4-6-5-3-1/h1-6H2,[C][C][C][C][C][C][Ring1][=Branch1],cyclohexane,very large,1,4
+"(2E)-3,7-dimethylocta-2,6-dien-1-ol",CC(=CCC/C(=C/CO)/C)C,-4.45,-2.518,"InChI=1S/C10H18O/c1-9(2)5-4-6-10(3)7-8-11/h5,7,11H,4,6,8H2,1-3H3/b10-7+",[C][C][=Branch1][O][=C][C][C][/C][=Branch1][Ring2][=C][/C][O][/C][C],"(2e)-3,7-dimethylocta-2,6-dien-1-ol
+3,7-dimethylocta-2,6-dien-1-ol",large,0,1
+"2,3,4-trimethylpentane",CC(C)C(C)C(C)C,2.56,2.674,"InChI=1S/C8H18/c1-6(2)8(5)7(3)4/h6-8H,1-5H3",[C][C][Branch1][C][C][C][Branch1][C][C][C][Branch1][C][C][C],"2,3,4-trimethylpentane",very large,1,4
+3-methylbutan-2-one,CC(C)C(=O)C,-3.24,-3.078,"InChI=1S/C5H10O/c1-4(2)5(3)6/h4H,1-3H3",[C][C][Branch1][C][C][C][=Branch1][C][=O][C],3-methylbutan-2-one,large,1,2
+N-butylbutan-1-amine,CCCCNCCCC,-3.24,-2.076,"InChI=1S/C8H19N/c1-3-5-7-9-8-6-4-2/h9H,3-8H2,1-2H3",[C][C][C][C][N][C][C][C][C],n-butylbutan-1-amine,large,1,2
+butane-1-thiol,CCCCS,-0.99,-0.174,"InChI=1S/C4H10S/c1-2-3-4-5/h5H,2-4H2,1H3",[C][C][C][C][S],butane-1-thiol,very large,1,3
+"1,2,3,4-tetrachlorodibenzo-p-dioxin",c1ccc2c(c1)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-3.81,-2.775,InChI=1S/C12H4Cl4O2/c13-7-8(14)10(16)12-11(9(7)15)17-5-3-1-2-4-6(5)18-12/h1-4H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][O][Ring1][#C],"1,2,3,4-tetrachlorooxanthrene",large,0,2
+"2,6-dichlorosyringaldehyde",COc1c(c(c(c(c1Cl)C=O)Cl)OC)O,-8.68,-9.846,"InChI=1S/C9H8Cl2O4/c1-14-8-5(10)4(3-12)6(11)9(15-2)7(8)13/h3,13H,1-2H3",[C][O][C][=C][Branch2][Ring1][Ring1][C][=Branch1][=C][=C][Branch1][#Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][C][=O][Cl][O][C][O],"2,6-dichloro-4-hydroxy-3,5-dimethoxybenzaldehyde",medium,0,0
+cyclohexanamine,C1CCC(CC1)N,-4.59,-3.953,"InChI=1S/C6H13N/c7-6-4-2-1-3-5-6/h6H,1-5,7H2",[C][C][C][C][Branch1][Branch1][C][C][Ring1][=Branch1][N],cyclohexanamine,large,0,1
+chloro-difluoro-methane,C(F)(F)Cl,-0.5,-0.067,InChI=1S/CHClF2/c2-1(3)4/h1H,[C][Branch1][C][F][Branch1][C][F][Cl],chloro-difluoromethane,very large,1,4
+methyl 4-nitrobenzoate,COC(=O)c1ccc(cc1)[N+](=O)[O-],-6.88,-6.588,"InChI=1S/C8H7NO4/c1-13-8(10)6-2-4-7(5-3-6)9(11)12/h2-5H,1H3",[C][O][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],methyl 4-nitrobenzoate,large,0,0
+1-(3-pyridyl)ethanone,CC(=O)c1cccnc1,-8.26,-7.844,"InChI=1S/C7H7NO/c1-6(9)7-3-2-4-8-5-7/h2-5H,1H3",[C][C][=Branch1][C][=O][C][=C][C][=C][N][=C][Ring1][=Branch1],1-pyridin-3-ylethanone,medium,0,0
+nonanal,CCCCCCCCC=O,-2.07,-2.336,"InChI=1S/C9H18O/c1-2-3-4-5-6-7-8-9-10/h9H,2-8H2,1H3",[C][C][C][C][C][C][C][C][C][=O],nonanal,very large,1,3
+propionic acid,CCC(=O)O,-6.46,-9.088,"InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)",[C][C][C][=Branch1][C][=O][O],propanoic acid,large,0,0
+chloroform,C(Cl)(Cl)Cl,-1.08,0.285,InChI=1S/CHCl3/c2-1(3)4/h1H,[C][Branch1][C][Cl][Branch1][C][Cl][Cl],chloroform,very large,1,3
+"1,2,3-trimethylbenzene",Cc1cccc(c1C)C,-1.21,-0.883,"InChI=1S/C9H12/c1-7-5-4-6-8(2)9(7)3/h4-6H,1-3H3",[C][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][C][C],"1,2,3-trimethylbenzene",very large,1,3
+methane,C,2.0,2.446,InChI=1S/CH4/h1H4,[C],methane,very large,1,4
+benzyl chloride,c1ccc(cc1)CCl,-1.93,-1.742,"InChI=1S/C7H7Cl/c8-6-7-4-2-1-3-5-7/h1-5H,6H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][Cl],chloromethylbenzene,very large,1,3
+methylcyclohexane,CC1CCCCC1,1.7,1.679,"InChI=1S/C7H14/c1-7-5-3-2-4-6-7/h7H,2-6H2,1H3",[C][C][C][C][C][C][C][Ring1][=Branch1],methylcyclohexane,very large,1,4
+2-methylthiophene,Cc1cccs1,-1.38,-0.3,"InChI=1S/C5H6S/c1-5-3-2-4-6-5/h2-4H,1H3",[C][C][=C][C][=C][S][Ring1][Branch1],2-methylthiophene,very large,1,3
+pyridine,c1ccncc1,-4.69,-3.508,InChI=1S/C5H5N/c1-2-4-6-5-3-1/h1-5H,[C][=C][C][=N][C][=C][Ring1][=Branch1],pyridine,large,0,1
+1-chlorobutane,CCCCCl,-0.16,0.993,"InChI=1S/C4H9Cl/c1-2-3-4-5/h2-4H2,1H3",[C][C][C][C][Cl],1-chlorobutane,very large,1,4
+"2,5-dimethyltetrahydrofuran",C[C@H]1CC[C@@H](O1)C,-2.92,-1.787,"InChI=1S/C6H12O/c1-5-3-4-6(2)7-5/h5-6H,3-4H2,1-2H3/t5-,6-/m0/s1",[C][C@H1][C][C][C@@H1][Branch1][Ring2][O][Ring1][Branch1][C],"(2s,5s)-2,5-dimethyloxolane",large,1,2
+4-methyl-2-methoxyphenol,Cc1ccc(c(c1)OC)O,-5.8,-4.547,"InChI=1S/C8H10O2/c1-6-3-4-7(9)8(5-6)10-2/h3-5,9H,1-2H3",[C][C][=C][C][=C][Branch1][=Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][O],2-methoxy-4-methylphenol,large,0,1
+toluene,Cc1ccccc1,-0.9,-0.79,"InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1],methylbenzene,very large,1,3
+isobutyl formate,CC(C)COC=O,-2.22,-3.458,"InChI=1S/C5H10O2/c1-5(2)3-7-4-6/h4-5H,3H2,1-2H3",[C][C][Branch1][C][C][C][O][C][=O],2-methylpropyl formate,very large,1,3
+ethyl paraben,CCOC(=O)c1ccc(cc1)O,-9.2,-9.535,"InChI=1S/C9H10O3/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6,10H,2H2,1H3",[C][C][O][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],ethyl 4-hydroxybenzoate,medium,0,0
+"1,2-diethoxyethane",CCOCCOCC,-3.54,-3.42,"InChI=1S/C6H14O2/c1-3-7-5-6-8-4-2/h3-6H2,1-2H3",[C][C][O][C][C][O][C][C],"1,2-diethoxyethane",large,0,2
+pentyl propanoate,CCCCCOC(=O)CC,-2.11,-2.176,"InChI=1S/C8H16O2/c1-3-5-6-7-10-8(9)4-2/h3-7H2,1-2H3",[C][C][C][C][C][O][C][=Branch1][C][=O][C][C],pentyl propanoate,very large,1,3
+4-propylphenol,CCCc1ccc(cc1)O,-5.21,-5.211,"InChI=1S/C9H12O/c1-2-3-8-4-6-9(10)7-5-8/h4-7,10H,2-3H2,1H3",[C][C][C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],4-propylphenol,large,0,1
+2-methylbut-2-ene,CC=C(C)C,1.31,2.272,"InChI=1S/C5H10/c1-4-5(2)3/h4H,1-3H3",[C][C][=C][Branch1][C][C][C],2-methylbut-2-ene,very large,1,4
+"1,2-dichloroethane",C(CCl)Cl,-1.79,-0.363,InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2,[C][Branch1][Ring1][C][Cl][Cl],"1,2-dichloroethane
+1,2-dichloroethyne",very large,1,3
+"3,3-dimethylpentane",CCC(C)(C)CC,2.56,2.593,"InChI=1S/C7H16/c1-5-7(3,4)6-2/h5-6H2,1-4H3",[C][C][C][Branch1][C][C][Branch1][C][C][C][C],"3,3-dimethylpentane",very large,1,4
+"2,3-dimethylnaphthalene",Cc1cc2ccccc2cc1C,-2.78,-2.953,"InChI=1S/C12H12/c1-9-7-11-5-3-4-6-12(11)8-10(9)2/h3-8H,1-2H3",[C][C][=C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][Ring1][#Branch2][C],"2,3-dimethylnaphthalene",large,1,2
+"2,6-dimethylpyridine",Cc1cccc(n1)C,-4.59,-3.443,"InChI=1S/C7H9N/c1-6-4-3-5-7(2)8-6/h3-5H,1-2H3",[C][C][=C][C][=C][C][=Branch1][Ring2][=N][Ring1][=Branch1][C],"2,6-dimethylpyridine",large,0,1
+"2,2-dichloro-1,1-difluoro-1-methoxy-ethane",COC(C(Cl)Cl)(F)F,-1.12,-0.685,"InChI=1S/C3H4Cl2F2O/c1-8-3(6,7)2(4)5/h2H,1H3",[C][O][C][Branch1][=Branch1][C][Branch1][C][Cl][Cl][Branch1][C][F][F],"2,2-dichloro-1,1-difluoro-1-methoxyethane",very large,1,3
+2-ethoxyethyl acetate,CCOCCOC(=O)C,-5.31,-5.751,"InChI=1S/C6H12O3/c1-3-8-4-5-9-6(2)7/h3-5H2,1-2H3",[C][C][O][C][C][O][C][=Branch1][C][=O][C],2-ethoxyethyl acetate,large,0,1
+3-methoxyaniline,COc1cccc(c1)N,-7.29,-7.201,"InChI=1S/C7H9NO/c1-9-7-4-2-3-6(8)5-7/h2-5H,8H2,1H3",[C][O][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N],3-methoxyaniline,large,0,0
+pyridine-3-carbaldehyde,c1cc(cnc1)C=O,-7.1,-7.425,InChI=1S/C6H5NO/c8-5-6-2-1-3-7-4-6/h1-5H,[C][=C][C][=Branch1][=Branch1][=C][N][=C][Ring1][=Branch1][C][=O],pyridine-3-carbaldehyde,large,0,0
+2-methylbutan-2-ol,CCC(C)(C)O,-4.43,-2.933,"InChI=1S/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H3",[C][C][C][Branch1][C][C][Branch1][C][C][O],2-methylbutan-2-ol,large,0,1
+alachlor,CCc1cccc(c1N(COC)C(=O)CCl)CC,-8.21,-6.851,"InChI=1S/C14H20ClNO2/c1-4-11-7-6-8-12(5-2)14(11)16(10-18-3)13(17)9-15/h6-8H,4-5,9-10H2,1-3H3",[C][C][C][=C][C][=C][C][=Branch1][S][=C][Ring1][=Branch1][N][Branch1][Ring2][C][O][C][C][=Branch1][C][=O][C][Cl][C][C],"2-chloro-n-(2,6-diethylphenyl)-n-(methoxymethyl)acetamide",medium,0,0
+1-methylpyrrole,Cn1cccc1,-2.89,-2.374,"InChI=1S/C5H7N/c1-6-4-2-3-5-6/h2-5H,1H3",[C][N][C][=C][C][=C][Ring1][Branch1],1-methylpyrrole,large,1,2
+dimethoxymethane,COCOC,-2.93,-3.221,"InChI=1S/C3H8O2/c1-4-3-5-2/h3H2,1-2H3",[C][O][C][O][C],dimethoxymethane,large,1,2
+pentan-3-ol,CCC(CC)O,-4.35,-2.786,"InChI=1S/C5H12O/c1-3-5(6)4-2/h5-6H,3-4H2,1-2H3",[C][C][C][Branch1][Ring1][C][C][O],pentan-3-ol,large,0,1
+undecan-2-one,CCCCCCCCCC(=O)C,-2.15,-2.201,"InChI=1S/C11H22O/c1-3-4-5-6-7-8-9-10-11(2)12/h3-10H2,1-2H3",[C][C][C][C][C][C][C][C][C][C][=Branch1][C][=O][C],undecan-2-one,very large,1,3
+1-bromo-2-chloro-ethane,C(CBr)Cl,-1.95,-0.8,InChI=1S/C2H4BrCl/c3-1-2-4/h1-2H2,[C][Branch1][Ring1][C][Br][Cl],"1-bromo-2-chloroethyne
+1-bromo-2-chloroethane",very large,1,3
+iodobenzene,c1ccc(cc1)I,-1.74,-1.057,InChI=1S/C6H5I/c7-6-4-2-1-3-5-6/h1-5H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][I],iodobenzene,very large,1,3
+"3,5,5-trimethylcyclohex-2-en-1-one",CC1=CC(=O)CC(C1)(C)C,-5.18,-4.088,"InChI=1S/C9H14O/c1-7-4-8(10)6-9(2,3)5-7/h4H,5-6H2,1-3H3",[C][C][=C][C][=Branch1][C][=O][C][C][Branch1][Ring2][C][Ring1][#Branch1][Branch1][C][C][C],"3,5,5-trimethylcyclohex-2-en-1-one",large,0,1
+iodoethane,CCI,-0.74,-0.609,"InChI=1S/C2H5I/c1-2-3/h2H2,1H3",[C][C][I],iodoethane,very large,1,4
+4-propylguaiacol,CCCc1ccc(c(c1)OC)O,-5.26,-4.127,"InChI=1S/C10H14O2/c1-3-4-8-5-6-9(11)10(7-8)12-2/h5-7,11H,3-4H2,1-2H3",[C][C][C][C][=C][C][=C][Branch1][=Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][O],2-methoxy-4-propylphenol,large,0,1
+2-bromopropane,CC(C)Br,-0.48,0.448,"InChI=1S/C3H7Br/c1-3(2)4/h3H,1-2H3",[C][C][Branch1][C][C][Br],2-bromopropane,very large,1,4
+1-bromo-4-methyl-benzene,Cc1ccc(cc1)Br,-1.39,-0.894,"InChI=1S/C7H7Br/c1-6-2-4-7(8)5-3-6/h2-5H,1H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][Br],1-bromo-4-methylbenzene,very large,1,3
+methylsulfonylmethane,CS(=O)(=O)C,-10.08,-10.559,"InChI=1S/C2H6O2S/c1-5(2,3)4/h1-2H3",[C][S][=Branch1][C][=O][=Branch1][C][=O][C],methylsulfonylmethane,medium,0,0
+3-ethylphenol,CCc1cccc(c1)O,-6.25,-5.272,"InChI=1S/C8H10O/c1-2-7-4-3-5-8(9)6-7/h3-6,9H,2H2,1H3",[C][C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O],3-ethylphenol,large,0,0
+"(1S,5R)-2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",CC1=CC[C@H](C[C@@H]1O)C(=C)C,-4.44,-3.257,"InChI=1S/C10H16O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9-11H,1,5-6H2,2-3H3/t9-,10+/m1/s1",[C][C][=C][C][C@H1][Branch1][=Branch1][C][C@@H1][Ring1][=Branch1][O][C][=Branch1][C][=C][C],"(1s,5r)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol",large,0,1
+"1,4-dibromobenzene",c1cc(ccc1Br)Br,-2.3,-1.091,InChI=1S/C6H4Br2/c7-5-1-2-6(8)4-3-5/h1-4H,[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][Br][Br],"1,4-dibromobenzene",very large,1,3
+dicamba,COc1c(ccc(c1C(=O)O)Cl)Cl,-9.86,-8.658,"InChI=1S/C8H6Cl2O3/c1-13-7-5(10)3-2-4(9)6(7)8(11)12/h2-3H,1H3,(H,11,12)",[C][O][C][=C][Branch1][#C][C][=C][C][=Branch1][=Branch2][=C][Ring1][=Branch1][C][=Branch1][C][=O][O][Cl][Cl],"3,6-dichloro-2-methoxybenzoic acid",medium,0,0
+pent-2-ene,CC/C=C\C,1.31,2.374,"InChI=1S/C5H10/c1-3-5-4-2/h3,5H,4H2,1-2H3/b5-3-",[C][C][/C][=C][\C],(z)-pent-2-ene,very large,1,4
+ethane,CC,1.83,2.465,InChI=1S/C2H6/c1-2/h1-2H3,[C][C],ethane,very large,1,4
+"1,2-dimethoxybenzene",COc1ccccc1OC,-5.33,-4.055,"InChI=1S/C8H10O2/c1-9-7-5-3-4-6-8(7)10-2/h3-6H,1-2H3",[C][O][C][=C][C][=C][C][=C][Ring1][=Branch1][O][C],"1,2-dimethoxybenzene",large,0,1
+ethylsulfanylethane,CCSCC,-1.46,0.299,"InChI=1S/C4H10S/c1-3-5-4-2/h3-4H2,1-2H3",[C][C][S][C][C],ethylsulfanylethane,very large,1,3
+"3,4-dichlorophenol",c1cc(c(cc1O)Cl)Cl,-7.29,-5.139,"InChI=1S/C6H4Cl2O/c7-5-2-1-4(9)3-6(5)8/h1-3,9H",[C][=C][C][=Branch1][#Branch2][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][O][Cl][Cl],"3,4-dichlorophenol",large,0,0
+anisole,COc1ccccc1,-2.45,-2.318,"InChI=1S/C7H8O/c1-8-7-5-3-2-4-6-7/h2-6H,1H3",[C][O][C][=C][C][=C][C][=C][Ring1][=Branch1],methoxybenzene,large,1,3
+"2,5-dimethylphenol",Cc1ccc(c(c1)O)C,-5.91,-5.014,"InChI=1S/C8H10O/c1-6-3-4-7(2)8(9)5-6/h3-5,9H,1-2H3",[C][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C],"2,5-dimethylphenol",large,0,1
+"1,4-dichlorobenzene",c1cc(ccc1Cl)Cl,-1.01,-0.19,InChI=1S/C6H4Cl2/c7-5-1-2-6(8)4-3-5/h1-4H,[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][Cl][Cl],"1,4-dichlorobenzene",very large,1,3
+chloro-fluoro-methane,C(F)Cl,-0.77,-0.171,InChI=1S/CH2ClF/c2-1-3/h1H2,[C][Branch1][C][F][Cl],chloro-fluoromethane,very large,1,4
+pent-1-ene,CCCC=C,1.68,2.532,"InChI=1S/C5H10/c1-3-5-4-2/h3H,1,4-5H2,2H3",[C][C][C][C][=C],pent-1-ene,very large,1,4
+"1,2,3,4-tetrachlorobenzene",c1cc(c(c(c1Cl)Cl)Cl)Cl,-1.34,-0.304,InChI=1S/C6H2Cl4/c7-3-1-2-4(8)6(10)5(3)9/h1-2H,[C][=C][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachlorobenzene",very large,1,3
+chlorobenzene,c1ccc(cc1)Cl,-1.12,-0.475,InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][Cl],chlorobenzene,very large,1,3
+[2-benzhydryloxyethyl]-dimethyl-amine,CN(C)CCOC(c1ccccc1)c2ccccc2,-9.34,-7.873,"InChI=1S/C17H21NO/c1-18(2)13-14-19-17(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,17H,13-14H2,1-2H3",[C][N][Branch1][C][C][C][C][O][C][Branch1][=Branch2][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1],"2-[di(phenyl)methoxy]-n,n-dimethylethanamine",medium,0,0
+pentanal,CCCCC=O,-3.03,-2.927,"InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",[C][C][C][C][C][=O],pentanal,large,1,2
+diphenyl ether,c1ccc(cc1)Oc2ccccc2,-2.87,-2.81,InChI=1S/C12H10O/c1-3-7-11(8-4-1)13-12-9-5-2-6-10-12/h1-10H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O][C][=C][C][=C][C][=C][Ring1][=Branch1],phenoxybenzene,large,1,2
+cyclohexanone,C1CCC(=O)CC1,-4.91,-4.18,InChI=1S/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2,[C][C][C][C][=Branch1][C][=O][C][C][Ring1][#Branch1],cyclohexanone,large,0,1
+1-nitrobutane,CCCC[N+](=O)[O-],-3.09,-1.449,"InChI=1S/C4H9NO2/c1-2-3-4-5(6)7/h2-4H2,1H3",[C][C][C][C][N+1][=Branch1][C][=O][O-1],"1-nitrobutane
+n-hydroxybutan-1-amine oxide
+n-butyl-n-oxidohydroxylamine",large,1,2
+pyridine-4-carbaldehyde,c1cnccc1C=O,-7.0,-7.338,InChI=1S/C6H5NO/c8-5-6-1-3-7-4-2-6/h1-5H,[C][=C][N][=C][C][=C][Ring1][=Branch1][C][=O],pyridine-4-carbaldehyde,large,0,0
+1-chloro-2-(2-chloroethoxy)ethane,C(CCl)OCCCl,-4.23,-2.248,InChI=1S/C4H8Cl2O/c5-1-3-7-4-2-6/h1-4H2,[C][Branch1][Ring1][C][Cl][O][C][C][Cl],1-chloro-2-(2-chloroethoxy)ethane,large,0,2
+1-nitroethane,CC[N+](=O)[O-],-3.71,-1.839,"InChI=1S/C2H5NO2/c1-2-3(4)5/h2H2,1H3",[C][C][N+1][=Branch1][C][=O][O-1],"ethyl-dihydroxyazanium
+n,n-dihydroxyethanamine
+1-nitroethane",large,0,2
+3-chloropyridine,c1cc(cnc1)Cl,-4.01,-2.767,InChI=1S/C5H4ClN/c6-5-2-1-3-7-4-5/h1-4H,[C][=C][C][=Branch1][=Branch1][=C][N][=C][Ring1][=Branch1][Cl],3-chloropyridine,large,0,2
+bromomethane,CBr,-0.82,0.46,InChI=1S/CH3Br/c1-2/h1H3,[C][Br],bromomethane,very large,1,3
+methanol,CO,-5.1,-3.491,"InChI=1S/CH4O/c1-2/h2H,1H3",[C][O],methanol,large,0,1
+heptanal,CCCCCCC=O,-2.67,-2.704,"InChI=1S/C7H14O/c1-2-3-4-5-6-7-8/h7H,2-6H2,1H3",[C][C][C][C][C][C][C][=O],heptanal,large,1,3
+"1,3-dichloro-2-(2,6-dichlorophenyl)benzene",c1cc(c(c(c1)Cl)c2c(cccc2Cl)Cl)Cl,-2.28,-1.226,InChI=1S/C12H6Cl4/c13-7-3-1-4-8(14)11(7)12-9(15)5-2-6-10(12)16/h1-6H,[C][=C][C][=Branch2][Ring1][#Branch1][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][C][=C][Branch1][Branch2][C][=C][C][=C][Ring1][=Branch1][Cl][Cl][Cl],"1,3-dichloro-2-(2,6-dichlorophenyl)benzene",very large,1,3
+2-nitroaniline,c1ccc(c(c1)N)[N+](=O)[O-],-7.37,-7.66,"InChI=1S/C6H6N2O2/c7-5-3-1-2-4-6(5)8(9)10/h1-4H,7H2",[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][N+1][=Branch1][C][=O][O-1],2-nitroaniline,large,0,0
+1-methylpiperidine,CN1CCCCC1,-3.88,-3.467,"InChI=1S/C6H13N/c1-7-5-3-2-4-6-7/h2-6H2,1H3",[C][N][C][C][C][C][C][Ring1][=Branch1],1-methylpiperidine,large,0,2
+octanal,CCCCCCCC=O,-2.29,-2.57,"InChI=1S/C8H16O/c1-2-3-4-5-6-7-8-9/h8H,2-7H2,1H3",[C][C][C][C][C][C][C][C][=O],octanal,very large,1,3
+nitrobenzene,c1ccc(cc1)[N+](=O)[O-],-4.12,-3.46,InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],"nitrobenzene
+n-oxido-n-phenylhydroxylamine
+n,n-dihydroxyaniline",large,0,2
+"(2S,5R)-2-isopropyl-5-methylcyclohexanone",C[C@@H]1CC[C@H](C(=O)C1)C(C)C,-2.53,-3.523,"InChI=1S/C10H18O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-9H,4-6H2,1-3H3/t8-,9+/m1/s1",[C][C@@H1][C][C][C@H1][Branch1][Branch2][C][=Branch1][C][=O][C][Ring1][#Branch1][C][Branch1][C][C][C],"(2s,5r)-5-methyl-2-propan-2-ylcyclohexan-1-one",large,1,3
+"(2R,3R,4S,5S,6R)-6-(hydroxymethyl)tetrahydropyran-2,3,4,5-tetrol",C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O,-25.47,-18.095,"InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1",[C][Branch2][Ring1][Branch1][C@@H1][C@H1][Branch1][S][C@@H1][Branch1][N][C@H1][Branch1][Branch2][C@@H1][Branch1][Ring2][O][Ring1][=Branch1][O][O][O][O][O],"(2r,3r,4s,5s,6r)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol",very small,0,0
+fluoromethane,CF,-0.22,0.881,InChI=1S/CH3F/c1-2/h1H3,[C][F],fluoromethane,very large,1,4
+methylsulfinylmethane,CS(=O)C,-9.28,-8.243,InChI=1S/C2H6OS/c1-4(2)3/h1-2H3,[C][S][=Branch1][C][=O][C],methylsulfinylmethane,medium,0,0
+dibenzo-p-dioxin,c1ccc2c(c1)Oc3ccccc3O2,-3.15,-4.9,InChI=1S/C12H8O2/c1-2-6-10-9(5-1)13-11-7-3-4-8-12(11)14-10/h1-8H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][C][=C][C][=C][Ring1][=Branch1][O][Ring1][O],oxanthrene,large,1,2
+2-methylaniline,Cc1ccccc1N,-5.53,-5.325,"InChI=1S/C7H9N/c1-6-4-2-3-5-7(6)8/h2-5H,8H2,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][N],2-methylaniline,large,0,1
+1-bromobutane,CCCCBr,-0.4,0.705,"InChI=1S/C4H9Br/c1-2-3-4-5/h2-4H2,1H3",[C][C][C][C][Br],1-bromobutane,very large,1,4
+nonan-1-ol,CCCCCCCCCO,-3.88,-2.564,"InChI=1S/C9H20O/c1-2-3-4-5-6-7-8-9-10/h10H,2-9H2,1H3",[C][C][C][C][C][C][C][C][C][O],nonan-1-ol,large,0,2
+4-methylpyridine,Cc1ccncc1,-4.93,-3.343,"InChI=1S/C6H7N/c1-6-2-4-7-5-3-6/h2-5H,1H3",[C][C][=C][C][=N][C][=C][Ring1][=Branch1],4-methylpyridine,large,0,1
+"1,1,2,2-tetrachloroethylene",C(=C(Cl)Cl)(Cl)Cl,0.1,1.328,InChI=1S/C2Cl4/c3-1(4)2(5)6,[C][=Branch1][=Branch1][=C][Branch1][C][Cl][Cl][Branch1][C][Cl][Cl],"1,1,2,2-tetrachloroethene",very large,1,4
+2-bromo-2-methyl-propane,CC(C)(C)Br,0.84,0.438,"InChI=1S/C4H9Br/c1-4(2,3)5/h1-3H3",[C][C][Branch1][C][C][Branch1][C][C][Br],2-bromo-2-methylpropane,very large,1,4
+"1,1-diphenylethene",C=C(c1ccccc1)c2ccccc2,-2.78,-2.47,"InChI=1S/C14H12/c1-12(13-8-4-2-5-9-13)14-10-6-3-7-11-14/h2-11H,1H2",[C][=C][Branch1][=Branch2][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1],1-phenylethenylbenzene,large,1,2
+1-ethyl-4-methyl-benzene,CCc1ccc(cc1)C,-0.95,-0.575,"InChI=1S/C9H12/c1-3-9-6-4-8(2)5-7-9/h4-7H,3H2,1-2H3",[C][C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C],1-ethyl-4-methylbenzene,very large,1,3
+3-methylpyridine,Cc1cccnc1,-4.77,-3.221,"InChI=1S/C6H7N/c1-6-3-2-4-7-5-6/h2-5H,1H3",[C][C][=C][C][=C][N][=C][Ring1][=Branch1],3-methylpyridine,large,0,1
+"1,1,1,2-tetramethoxyethane",COCC(OC)(OC)OC,-5.73,-5.436,"InChI=1S/C6H14O4/c1-7-5-6(8-2,9-3)10-4/h5H2,1-4H3",[C][O][C][C][Branch1][Ring1][O][C][Branch1][Ring1][O][C][O][C],"1,1,1,2-tetramethoxyethane",large,0,1
+9H-fluorene,c1ccc-2c(c1)Cc3c2cccc3,-3.35,-4.269,"InChI=1S/C13H10/c1-3-7-12-10(5-1)9-11-6-2-4-8-13(11)12/h1-8H,9H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][=Branch1],9h-fluorene,large,1,2
+acetamide,CC(=O)N,-9.71,-8.82,"InChI=1S/C2H5NO/c1-2(3)4/h1H3,(H2,3,4)",[C][C][=Branch1][C][=O][N],acetamide,medium,0,0
+dimethyl sulfate,COS(=O)(=O)OC,-5.1,-8.411,"InChI=1S/C2H6O4S/c1-5-7(3,4)6-2/h1-2H3",[C][O][S][=Branch1][C][=O][=Branch1][C][=O][O][C],dimethyl sulfate,large,0,1
+"1,1,2,2-tetrachloroethane",C(C(Cl)Cl)(Cl)Cl,-2.37,-0.534,InChI=1S/C2H2Cl4/c3-1(4)2(5)6/h1-2H,[C][Branch1][=Branch1][C][Branch1][C][Cl][Cl][Branch1][C][Cl][Cl],"1,1,2,2-tetrachloroethane",large,1,3
+methyl cyclohexanecarboxylate,COC(=O)C1CCCCC1,-3.3,-4.376,"InChI=1S/C8H14O2/c1-10-8(9)7-5-3-2-4-6-7/h7H,2-6H2,1H3",[C][O][C][=Branch1][C][=O][C][C][C][C][C][C][Ring1][=Branch1],methyl cyclohexanecarboxylate,large,1,2
+1-bromohexane,CCCCCCBr,0.18,1.076,"InChI=1S/C6H13Br/c1-2-3-4-5-6-7/h2-6H2,1H3",[C][C][C][C][C][C][Br],1-bromohexane,very large,1,4
+1-bromoheptane,CCCCCCCBr,0.34,1.223,"InChI=1S/C7H15Br/c1-2-3-4-5-6-7-8/h2-7H2,1H3",[C][C][C][C][C][C][C][Br],1-bromoheptane,very large,1,4
+1-chlorodibenzo-p-dioxin,c1ccc2c(c1)Oc3cccc(c3O2)Cl,-3.52,-4.473,InChI=1S/C12H7ClO2/c13-8-4-3-7-11-12(8)15-10-6-2-1-5-9(10)14-11/h1-7H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][C][=C][C][=C][C][=Branch1][#Branch1][=C][Ring1][=Branch1][O][Ring1][O][Cl],1-chlorooxanthrene,large,0,2
+2-chlorobutane,CC[C@H](C)Cl,0.0,0.927,"InChI=1S/C4H9Cl/c1-3-4(2)5/h4H,3H2,1-2H3/t4-/m0/s1",[C][C][C@H1][Branch1][C][C][Cl],(2s)-2-chlorobutane,very large,1,4
+hexylbenzene,CCCCCCc1ccccc1,-0.04,-0.1,"InChI=1S/C12H18/c1-2-3-4-6-9-12-10-7-5-8-11-12/h5,7-8,10-11H,2-4,6,9H2,1H3",[C][C][C][C][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],hexylbenzene,very large,1,4
+2-chlorosyringaldehyde,COc1cc(c(c(c1O)OC)Cl)C=O,-7.78,-8.292,"InChI=1S/C9H9ClO4/c1-13-6-3-5(4-11)7(10)9(14-2)8(6)12/h3-4,12H,1-2H3",[C][O][C][=C][C][=Branch1][=C][=C][Branch1][#Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][O][O][C][Cl][C][=O],"2-chloro-4-hydroxy-3,5-dimethoxybenzaldehyde",large,0,0
+m-bis(trifluoromethyl)benzene,c1cc(cc(c1)C(F)(F)F)C(F)(F)F,1.07,-0.34,"InChI=1S/C8H4F6/c9-7(10,11)5-2-1-3-6(4-5)8(12,13)14/h1-4H",[C][=C][C][=Branch1][S][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][Branch1][C][F][Branch1][C][F][F][C][Branch1][C][F][Branch1][C][F][F],"1,3-bis(trifluoromethyl)benzene",very large,1,4
+1-benzylimidazole,c1ccc(cc1)Cn2ccnc2,-7.63,-7.997,"InChI=1S/C10H10N2/c1-2-4-10(5-3-1)8-12-7-6-11-9-12/h1-7,9H,8H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][N][C][=C][N][=C][Ring1][Branch1],1-(phenylmethyl)imidazole,large,0,0
+naphthalen-1-amine,c1ccc2c(c1)cccc2N,-7.28,-7.777,"InChI=1S/C10H9N/c11-10-7-3-5-8-4-1-2-6-9(8)10/h1-7H,11H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][#Branch1][N],naphthalen-1-amine,large,0,0
+diethyl propanedioate,CCOC(=O)CC(=O)OCC,-6.0,-6.716,"InChI=1S/C7H12O4/c1-3-10-6(8)5-7(9)11-4-2/h3-5H2,1-2H3",[C][C][O][C][=Branch1][C][=O][C][C][=Branch1][C][=O][O][C][C],diethyl propanedioate,large,0,1
+1-cyclopropylethanone,CC(=O)C1CC1,-4.61,-3.043,"InChI=1S/C5H8O/c1-4(6)5-2-3-5/h5H,2-3H2,1H3",[C][C][=Branch1][C][=O][C][C][C][Ring1][Ring1],1-cyclopropylethanone,large,0,1
+pyrrole,c1cc[nH]c1,-4.78,-4.014,InChI=1S/C4H5N/c1-2-4-5-3-1/h1-5H,[C][C][=C][NH1][C][=Ring1][Branch1],1h-pyrrole,large,0,1
+diflunisal,c1cc(c(cc1c2ccc(cc2F)F)C(=O)O)O,-9.4,-6.613,"InChI=1S/C13H8F2O3/c14-8-2-3-9(11(15)6-8)7-1-4-12(16)10(5-7)13(17)18/h1-6,16H,(H,17,18)",[C][=C][C][=Branch2][Ring1][=Branch2][=C][Branch1][P][C][=C][Ring1][=Branch1][C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][F][F][C][=Branch1][C][=O][O][O],"5-(2,4-difluorophenyl)-2-hydroxybenzoic acid",medium,0,0
+"1,4-dimethylcyclohexane",CC1CCC(CC1)C,2.11,1.918,"InChI=1S/C8H16/c1-7-3-5-8(2)6-4-7/h7-8H,3-6H2,1-2H3",[C][C][C][C][C][Branch1][Branch1][C][C][Ring1][=Branch1][C],"1,4-dimethylcyclohexane",very large,1,4
+cyclohexanol,C1CCC(CC1)O,-5.46,-4.178,"InChI=1S/C6H12O/c7-6-4-2-1-3-5-6/h6-7H,1-5H2",[C][C][C][C][Branch1][Branch1][C][C][Ring1][=Branch1][O],cyclohexanol,large,0,1
+4-fluorophenol,c1cc(ccc1O)F,-6.19,-4.955,"InChI=1S/C6H5FO/c7-5-1-3-6(8)4-2-5/h1-4,8H",[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][O][F],4-fluorophenol,large,0,1
+2-chloroaniline,c1ccc(c(c1)N)Cl,-4.91,-4.847,"InChI=1S/C6H6ClN/c7-5-3-1-2-4-6(5)8/h1-4H,8H2",[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][N][Cl],2-chloroaniline,large,0,1
+"1,2,4-trimethylbenzene",Cc1ccc(c(c1)C)C,-0.86,-0.795,"InChI=1S/C9H12/c1-7-4-5-8(2)9(3)6-7/h4-6H,1-3H3",[C][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C],"1,2,4-trimethylbenzene",very large,1,3
+1-ethyl-2-methylbenzene,CCc1ccccc1C,-0.85,-0.761,"InChI=1S/C9H12/c1-3-9-7-5-4-6-8(9)2/h4-7H,3H2,1-2H3",[C][C][C][=C][C][=C][C][=C][Ring1][=Branch1][C],1-ethyl-2-methylbenzene,very large,1,3
+"(2R,5R)-2-methyl-5-(1-methylethenyl)-cyclohexanone",C[C@@H]1CC[C@H](CC1=O)C(=C)C,-3.75,-3.344,"InChI=1S/C10H16O/c1-7(2)9-5-4-8(3)10(11)6-9/h8-9H,1,4-6H2,2-3H3/t8-,9-/m1/s1",[C][C@@H1][C][C][C@H1][Branch1][=Branch1][C][C][Ring1][=Branch1][=O][C][=Branch1][C][=C][C],"(2r,5r)-2-methyl-5-prop-1-en-2-ylcyclohexan-1-one",large,0,2
+biphenyl,c1ccc(cc1)c2ccccc2,-2.7,-3.143,InChI=1S/C12H10/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1-10H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][C][=C][C][=C][Ring1][=Branch1],phenylbenzene,large,1,2
+"2,3-dimethylphenol",Cc1cccc(c1C)O,-6.16,-5.148,"InChI=1S/C8H10O/c1-6-4-3-5-8(9)7(6)2/h3-5,9H,1-2H3",[C][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][C][O],"2,3-dimethylphenol",large,0,1
+methylparathion,COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-],-7.19,-10.466,"InChI=1S/C8H10NO5PS/c1-12-15(16,13-2)14-8-5-3-7(4-6-8)9(10)11/h3-6H,1-2H3",[C][O][P][=Branch1][C][=S][Branch1][Ring1][O][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],dimethoxy-(4-nitrophenoxy)-sulfanylidenephosphorane,large,0,0
+diethoxy-(4-nitrophenoxy)-thioxo-$l^{5}-phosphane,CCOP(=S)(OCC)Oc1ccc(cc1)[N+](=O)[O-],-6.74,-9.211,"InChI=1S/C10H14NO5PS/c1-3-14-17(18,15-4-2)16-10-7-5-9(6-8-10)11(12)13/h5-8H,3-4H2,1-2H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],diethoxy-(4-nitrophenoxy)-sulfanylidenephosphorane,large,0,0
+"1-N,1-N-diethyl-2,6-dinitro-4-(trifluoromethyl)benzene-1,3-diamine",CCN(CC)c1c(cc(c(c1[N+](=O)[O-])N)C(F)(F)F)[N+](=O)[O-],-5.66,-7.503,"InChI=1S/C11H13F3N4O4/c1-3-16(4-2)9-7(17(19)20)5-6(11(12,13)14)8(15)10(9)18(21)22/h5H,3-4,15H2,1-2H3",[C][C][N][Branch1][Ring1][C][C][C][=C][Branch2][Ring1][=Branch2][C][=C][Branch1][=N][C][=Branch1][=Branch2][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][N][C][Branch1][C][F][Branch1][C][F][F][N+1][=Branch1][C][=O][O-1],"n',n'-diethyl-2,4-dinitro-6-(trifluoromethyl)benzene-1,3-diamine",large,0,1
+methylsulfanylmethane,CSC,-1.61,0.44,InChI=1S/C2H6S/c1-3-2/h1-2H3,[C][S][C],methylsulfanylmethane,very large,1,3
+ketoprofen,C[C@@H](c1cccc(c1)C(=O)c2ccccc2)C(=O)O,-10.78,-17.242,"InChI=1S/C16H14O3/c1-11(16(18)19)13-8-5-9-14(10-13)15(17)12-6-3-2-4-7-12/h2-11H,1H3,(H,18,19)/t11-/m0/s1",[C][C@@H1][Branch2][Ring1][#Branch1][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][O],(2s)-2-[3-(benzoyl)phenyl]propanoic acid,medium,0,0
+cyclopentanol,C1CCC(C1)O,-5.49,-4.29,"InChI=1S/C5H10O/c6-5-3-1-2-4-5/h5-6H,1-4H2",[C][C][C][C][Branch1][Ring2][C][Ring1][Branch1][O],cyclopentanol,large,0,1
+methyl pentanoate,CCCCC(=O)OC,-2.56,-3.492,"InChI=1S/C6H12O2/c1-3-4-5-6(7)8-2/h3-5H2,1-2H3",[C][C][C][C][C][=Branch1][C][=O][O][C],methyl pentanoate,large,1,3
+2-methylpent-1-ene,CCCC(=C)C,1.47,2.486,"InChI=1S/C6H12/c1-4-5-6(2)3/h2,4-5H2,1,3H3",[C][C][C][C][=Branch1][C][=C][C],2-methylpent-1-ene,very large,1,4
+flurbiprofen,C[C@@H](c1ccc(c(c1)F)c2ccccc2)C(=O)O,-8.42,-13.953,"InChI=1S/C15H13FO2/c1-10(15(17)18)12-7-8-13(14(16)9-12)11-5-3-2-4-6-11/h2-10H,1H3,(H,17,18)/t10-/m0/s1",[C][C@@H1][Branch2][Ring1][=Branch1][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][F][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][O],(2s)-2-(3-fluoro-4-phenylphenyl)propanoic acid,medium,0,0
+nitralin,CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-],-7.98,-11.246,"InChI=1S/C13H19N3O6S/c1-4-6-14(7-5-2)13-11(15(17)18)8-10(23(3,21)22)9-12(13)16(19)20/h8-9H,4-7H2,1-3H3",[C][C][C][N][Branch1][Ring2][C][C][C][C][=C][Branch2][Ring1][=Branch1][C][=C][Branch1][#Branch2][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][S][=Branch1][C][=O][=Branch1][C][=O][C][N+1][=Branch1][C][=O][O-1],"4-methylsulfonyl-2,6-dinitro-n,n-dipropylaniline",large,0,0
+chloroethylene,C=CCl,-0.59,1.162,"InChI=1S/C2H3Cl/c1-2-3/h2H,1H2",[C][=C][Cl],chloroethene,very large,1,4
+"N,N-4-trimethylbenzamide",Cc1ccc(cc1)C(=O)N(C)C,-9.76,-8.081,"InChI=1S/C10H13NO/c1-8-4-6-9(7-5-8)10(12)11(2)3/h4-7H,1-3H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][N][Branch1][C][C][C],"n,n,4-trimethylbenzamide",medium,0,0
+heptan-4-one,CCCC(=O)CCC,-2.92,-2.704,"InChI=1S/C7H14O/c1-3-5-7(8)6-4-2/h3-6H2,1-2H3",[C][C][C][C][=Branch1][C][=O][C][C][C],heptan-4-one,large,1,2
+methyl benzoate,COC(=O)c1ccccc1,-3.92,-4.921,"InChI=1S/C8H8O2/c1-10-8(9)7-5-3-2-4-6-7/h2-6H,1H3",[C][O][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1],methyl benzoate,large,0,2
+4-methylbenzaldehyde,Cc1ccc(cc1)C=O,-4.27,-5.014,"InChI=1S/C8H8O/c1-7-2-4-8(6-9)5-3-7/h2-6H,1H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=O],4-methylbenzaldehyde,large,0,2
+propyl butanoate,CCCC(=O)OCCC,-2.28,-2.754,"InChI=1S/C7H14O2/c1-3-5-7(8)9-6-4-2/h3-6H2,1-2H3",[C][C][C][C][=Branch1][C][=O][O][C][C][C],propyl butanoate,very large,1,3
+piperazine,C1CNCCN1,-7.4,-8.481,"InChI=1S/C4H10N2/c1-2-6-4-3-5-1/h5-6H,1-4H2",[C][C][N][C][C][N][Ring1][=Branch1],piperazine,large,0,0
+2-ethoxyethanol,CCOCCO,-6.69,-4.407,"InChI=1S/C4H10O2/c1-2-6-4-3-5/h5H,2-4H2,1H3",[C][C][O][C][C][O],2-ethoxyethanol,large,0,0
+3-methylpentane,CCC(C)CC,2.51,2.613,"InChI=1S/C6H14/c1-4-6(3)5-2/h6H,4-5H2,1-3H3",[C][C][C][Branch1][C][C][C][C],3-methylpentane,very large,1,4
+2-methylpyrazine,Cc1cnccn1,-5.51,-6.161,"InChI=1S/C5H6N2/c1-5-4-6-2-3-7-5/h2-4H,1H3",[C][C][=C][N][=C][C][=N][Ring1][=Branch1],2-methylpyrazine,large,0,1
+1-nitropropane,CCC[N+](=O)[O-],-3.34,-1.632,"InChI=1S/C3H7NO2/c1-2-3-4(5)6/h2-3H2,1H3",[C][C][C][N+1][=Branch1][C][=O][O-1],"1-nitropropane
+dihydroxy-propylazanium
+n,n-dihydroxypropan-1-amine
+n-hydroxypropan-1-amine oxide
+n-oxido-n-propylhydroxylamine",large,1,2
+mesitylene,Cc1cc(cc(c1)C)C,-0.9,-0.553,"InChI=1S/C9H12/c1-7-4-8(2)6-9(3)5-7/h4-6H,1-3H3",[C][C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][C],"1,3,5-trimethylbenzene",very large,1,3
+5-fluorouracil,c1c(c(=O)[nH]c(=O)[nH]1)F,-16.92,-16.371,"InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",[C][=C][Branch1][=N][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][Branch2][F],"5-fluoro-1h-pyrimidine-2,4-dione",small,0,0
+ethanol,CCO,-5.0,-3.394,"InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",[C][C][O],ethanol,large,0,1
+"1,4-dimethylnaphthalene",Cc1ccc(c2c1cccc2)C,-2.82,-3.081,"InChI=1S/C12H12/c1-9-7-8-10(2)12-6-4-3-5-11(9)12/h3-8H,1-2H3",[C][C][=C][C][=C][Branch1][O][C][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][=Branch1][C],"1,4-dimethylnaphthalene",large,1,2
+"2,3,7,8-tetrachlorodibenzo-p-dioxin",c1c2c(cc(c1Cl)Cl)Oc3cc(c(cc3O2)Cl)Cl,-3.37,-2.54,InChI=1S/C12H4Cl4O2/c13-5-1-9-10(2-6(5)14)18-12-4-8(16)7(15)3-11(12)17-9/h1-4H,[C][=C][C][=Branch1][#Branch2][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][O][C][=C][C][=Branch1][N][=C][Branch1][Branch2][C][=C][Ring1][=Branch1][O][Ring1][#C][Cl][Cl],"2,3,7,8-tetrachlorooxanthrene",large,1,2
+ethyl formate,CCOC=O,-2.56,-3.867,"InChI=1S/C3H6O2/c1-2-5-3-4/h3H,2H2,1H3",[C][C][O][C][=O],ethyl formate,large,1,3
+"1,2,4,5-tetrachlorobenzene",c1c(c(cc(c1Cl)Cl)Cl)Cl,-1.34,0.035,InChI=1S/C6H2Cl4/c7-3-1-4(8)6(10)2-5(3)9/h1-2H,[C][=C][Branch1][=C][C][=Branch1][#Branch2][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,4,5-tetrachlorobenzene",very large,1,3
+diethoxymethoxybenzene,CCOC(OCC)Oc1ccccc1,-5.23,-5.203,"InChI=1S/C11H16O3/c1-3-12-11(13-4-2)14-10-8-6-5-7-9-10/h5-9,11H,3-4H2,1-2H3",[C][C][O][C][Branch1][Ring2][O][C][C][O][C][=C][C][=C][C][=C][Ring1][=Branch1],diethoxymethoxybenzene,large,0,1
+3-nitrophenol,c1cc(cc(c1)O)[N+](=O)[O-],-9.62,-7.889,"InChI=1S/C6H5NO3/c8-6-3-1-2-5(4-6)7(9)10/h1-4,8H",[C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][N+1][=Branch1][C][=O][O-1],3-nitrophenol,medium,0,0
+octan-1-ol,CCCCCCCCO,-4.09,-2.69,"InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3",[C][C][C][C][C][C][C][C][O],octan-1-ol,large,0,2
+but-1-ene,CCC=C,1.38,2.367,"InChI=1S/C4H8/c1-3-4-2/h3H,1,4H2,2H3",[C][C][C][=C],but-1-ene,very large,1,4
+carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,0.08,1.185,"InChI=1S/CCl4/c2-1(3,4)5",[C][Branch1][C][Cl][Branch1][C][Cl][Branch1][C][Cl][Cl],tetrachloromethane,very large,1,4
+2-phenylethanol,c1ccc(cc1)CCO,-6.79,-5.28,"InChI=1S/C8H10O/c9-7-6-8-4-2-1-3-5-8/h1-5,9H,6-7H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][C][O],2-phenylethanol,large,0,0
+fenuron,CN(C)C(=O)Nc1ccccc1,-9.13,-11.81,"InChI=1S/C9H12N2O/c1-11(2)9(12)10-8-6-4-3-5-7-8/h3-7H,1-2H3,(H,10,12)",[C][N][Branch1][C][C][C][=Branch1][C][=O][N][C][=C][C][=C][C][=C][Ring1][=Branch1],"1,1-dimethyl-3-phenylurea",medium,0,0
+methyldisulfanylmethane,CSSC,-1.83,-0.093,InChI=1S/C2H6S2/c1-3-4-2/h1-2H3,[C][S][S][C],methyldisulfanylmethane,very large,1,3
+"2,3-diacetoxypropyl acetate",CC(=O)OCC(COC(=O)C)OC(=O)C,-8.84,-12.333,"InChI=1S/C9H14O6/c1-6(10)13-4-9(15-8(3)12)5-14-7(2)11/h9H,4-5H2,1-3H3",[C][C][=Branch1][C][=O][O][C][C][Branch1][Branch2][C][O][C][=Branch1][C][=O][C][O][C][=Branch1][C][=O][C],"1,3-diacetyloxypropan-2-yl acetate",medium,0,0
+methoxymethane,COC,-1.91,-0.853,InChI=1S/C2H6O/c1-3-2/h1-2H3,[C][O][C],methoxymethane,very large,1,3
+hexane,CCCCCC,2.48,2.851,"InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3",[C][C][C][C][C][C],hexane,very large,1,4
+"1,2-dibromoethane",C(CBr)Br,-2.33,-1.275,InChI=1S/C2H4Br2/c3-1-2-4/h1-2H2,[C][Branch1][Ring1][C][Br][Br],"1,2-dibromoethyne
+1,2-dibromoethane",very large,1,3
+"1,1,1,2,2-pentachloroethane",C(C(Cl)(Cl)Cl)(Cl)Cl,-1.23,0.059,"InChI=1S/C2HCl5/c3-1(4)2(5,6)7/h1H",[C][Branch1][=Branch2][C][Branch1][C][Cl][Branch1][C][Cl][Cl][Branch1][C][Cl][Cl],"1,1,1,2,2-pentachloroethane",very large,1,3
+5-trifluoromethyluracil,c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F,-15.46,-17.349,"InChI=1S/C5H3F3N2O2/c6-5(7,8)2-1-9-4(12)10-3(2)11/h1H,(H2,9,10,11,12)",[C][=C][Branch1][=N][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][Branch2][C][Branch1][C][F][Branch1][C][F][F],"5-(trifluoromethyl)-1h-pyrimidine-2,4-dione",small,0,0
+"2,6-dimethylaniline",Cc1cccc(c1N)C,-5.21,-5.57,"InChI=1S/C8H11N/c1-6-4-3-5-7(2)8(6)9/h3-5H,9H2,1-2H3",[C][C][=C][C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][N][C],"2,6-dimethylaniline",large,0,1
+propyl acetate,CCCOC(=O)C,-2.79,-3.486,"InChI=1S/C5H10O2/c1-3-4-7-5(2)6/h3-4H2,1-2H3",[C][C][C][O][C][=Branch1][C][=O][C],propyl acetate,large,1,2
+quinoline,c1ccc2c(c1)cccn2,-5.72,-4.989,InChI=1S/C9H7N/c1-2-6-9-8(4-1)5-3-7-10-9/h1-7H,[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=N][Ring1][#Branch1],quinoline,large,0,1
+ethanethiol,CCS,-1.14,-0.395,"InChI=1S/C2H6S/c1-2-3/h3H,2H2,1H3",[C][C][S],ethanethiol,very large,1,3
+ethyldisulfanylethane,CCSSCC,-1.64,-0.979,"InChI=1S/C4H10S2/c1-3-5-6-4-2/h3-4H2,1-2H3",[C][C][S][S][C][C],ethyldisulfanylethane,very large,1,3
+thiophene,c1ccsc1,-1.4,-0.359,InChI=1S/C4H4S/c1-2-4-5-3-1/h1-4H,[C][C][=C][S][C][=Ring1][Branch1],thiophene,very large,1,3
+1-ethylnaphthalene,CCc1cccc2c1cccc2,-2.4,-2.961,"InChI=1S/C12H12/c1-2-10-7-5-8-11-6-3-4-9-12(10)11/h3-9H,2H2,1H3",[C][C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][=Branch1],1-ethylnaphthalene,large,1,3
+pentan-2-one,CCCC(=O)C,-3.52,-3.166,"InChI=1S/C5H10O/c1-3-4-5(2)6/h3-4H2,1-2H3",[C][C][C][C][=Branch1][C][=O][C],pentan-2-one,large,0,2
+"1,2,3,4-tetrachloro-5-(2,3,4,6-tetrachlorophenyl)benzene",c1c(c(c(c(c1Cl)Cl)Cl)Cl)c2c(cc(c(c2Cl)Cl)Cl)Cl,-4.61,-0.039,InChI=1S/C12H2Cl8/c13-4-2-6(15)9(17)11(19)7(4)3-1-5(14)10(18)12(20)8(3)16/h1-2H,[C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][C][=C][Branch1][=C][C][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3,4-tetrachloro-5-(2,3,4,6-tetrachlorophenyl)benzene",large,0,1
+profluralin,CCC[N@@](CC1CC1)c2c(cc(cc2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],-2.45,-1.956,"InChI=1S/C14H16F3N3O4/c1-2-5-18(8-9-3-4-9)13-11(19(21)22)6-10(14(15,16)17)7-12(13)20(23)24/h6-7,9H,2-5,8H2,1H3",[C][C][C][N@@][Branch1][#Branch1][C][C][C][C][Ring1][Ring1][C][=C][Branch2][Ring1][=Branch1][C][=C][Branch1][#Branch2][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][C][Branch1][C][F][Branch1][C][F][F][N+1][=Branch1][C][=O][O-1],"n-(cyclopropylmethyl)-2,6-dinitro-n-propyl-4-(trifluoromethyl)aniline",large,1,3
+acetic acid,CC(=O)O,-6.69,-7.281,"InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",[C][C][=Branch1][C][=O][O],acetic acid,large,0,0
+acetaldehyde,CC=O,-3.5,-3.372,"InChI=1S/C2H4O/c1-2-3/h2H,1H3",[C][C][=O],acetaldehyde,large,1,2
+3-nitroaniline,c1cc(cc(c1)[N+](=O)[O-])N,-8.84,-8.204,"InChI=1S/C6H6N2O2/c7-5-2-1-3-6(4-5)8(9)10/h1-4H,7H2",[C][=C][C][=Branch1][=N][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][N],3-nitroaniline,medium,0,0
+2-methoxyaniline,COc1ccccc1N,-6.12,-6.771,"InChI=1S/C7H9NO/c1-9-7-5-3-2-4-6(7)8/h2-5H,8H2,1H3",[C][O][C][=C][C][=C][C][=C][Ring1][=Branch1][N],2-methoxyaniline,large,0,1
+phenol,c1ccc(cc1)O,-6.6,-5.707,"InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],phenol,large,0,0
+naphthalen-1-ol,c1ccc2c(c1)cccc2O,-7.67,-7.137,"InChI=1S/C10H8O/c11-10-7-3-5-8-4-1-2-6-9(8)10/h1-7,11H",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][#Branch1][O],naphthalen-1-ol,large,0,0
+butyl acetate,CCCCOC(=O)C,-2.64,-3.406,"InChI=1S/C6H12O2/c1-3-4-5-8-6(2)7/h3-5H2,1-2H3",[C][C][C][C][O][C][=Branch1][C][=O][C],butyl acetate,large,1,3
+o-cresol,Cc1ccccc1O,-5.9,-5.076,"InChI=1S/C7H8O/c1-6-4-2-3-5-7(6)8/h2-5,8H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][O],2-methylphenol,large,0,1
+2-methylpropanal,CC(C)C=O,-2.86,-2.968,"InChI=1S/C4H8O/c1-4(2)3-5/h3-4H,1-2H3",[C][C][Branch1][C][C][C][=O],2-methylpropanal,large,1,2
+propionamide,CCC(=O)N,-9.4,-8.31,"InChI=1S/C3H7NO/c1-2-3(4)5/h2H2,1H3,(H2,4,5)",[C][C][C][=Branch1][C][=O][N],propanamide,medium,0,0
+1-bromopropane,CCCBr,-0.56,0.579,"InChI=1S/C3H7Br/c1-2-3-4/h2-3H2,1H3",[C][C][C][Br],1-bromopropane,very large,1,4
+2-chloropropane,CC(C)Cl,-0.25,0.833,"InChI=1S/C3H7Cl/c1-3(2)4/h3H,1-2H3",[C][C][Branch1][C][C][Cl],2-chloropropane,very large,1,4
+"1,3-dichloropropane",C(CCl)CCl,-1.89,-0.416,InChI=1S/C3H6Cl2/c4-2-1-3-5/h1-3H2,[C][Branch1][Ring1][C][Cl][C][Cl],"1,3-dichloropropane",very large,1,3
+4-nitrophenol,c1cc(ccc1[N+](=O)[O-])O,-10.64,-8.472,"InChI=1S/C6H5NO3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H",[C][=C][C][=Branch1][O][=C][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][O],4-nitrophenol,medium,0,0
+4-chloroaniline,c1cc(ccc1N)Cl,-5.9,-5.281,"InChI=1S/C6H6ClN/c7-5-1-3-6(8)4-2-5/h1-4H,8H2",[C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][N][Cl],4-chloroaniline,large,0,1
+"1-amino-9,10-anthracenedione",c1ccc2c(c1)C(=O)c3cccc(c3C2=O)N,-9.44,-12.214,"InChI=1S/C14H9NO2/c15-11-7-3-6-10-12(11)14(17)9-5-2-1-4-8(9)13(10)16/h1-7H,15H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][C][=C][C][=Branch1][Branch2][=C][Ring1][=Branch1][C][Ring1][N][=O][N],"1-aminoanthracene-9,10-dione",medium,0,0
+"2,3-dimethylpyridine",Cc1cccnc1C,-4.82,-3.367,"InChI=1S/C7H9N/c1-6-4-3-5-8-7(6)2/h3-5H,1-2H3",[C][C][=C][C][=C][N][=C][Ring1][=Branch1][C],"2,3-dimethylpyridine",large,0,1
+diethoxy-(ethylsulfanylmethylsulfanyl)-thioxo-$l^{5}-phosphane,CCOP(=S)(OCC)SCSCC,-4.37,-6.427,"InChI=1S/C7H17O2PS3/c1-4-8-10(11,9-5-2)13-7-12-6-3/h4-7H2,1-3H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][S][C][S][C][C],diethoxy-(ethylsulfanylmethylsulfanyl)-sulfanylidenephosphorane,large,0,1
+1-cyclohexylethanone,CC(=O)C1CCCCC1,-3.9,-4.003,"InChI=1S/C8H14O/c1-7(9)8-5-3-2-4-6-8/h8H,2-6H2,1H3",[C][C][=Branch1][C][=O][C][C][C][C][C][C][Ring1][=Branch1],1-cyclohexylethanone,large,0,2
+2-methylbenzaldehyde,Cc1ccccc1C=O,-3.93,-4.554,"InChI=1S/C8H8O/c1-7-4-2-3-5-8(7)6-9/h2-6H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=O],2-methylbenzaldehyde,large,0,2
+1-(4-pyridyl)ethanone,CC(=O)c1ccncc1,-7.62,-7.566,"InChI=1S/C7H7NO/c1-6(9)7-2-4-8-5-3-7/h2-5H,1H3",[C][C][=Branch1][C][=O][C][=C][C][=N][C][=C][Ring1][=Branch1],1-pyridin-4-ylethanone,large,0,0
+"1,2,3,4,7,8-hexachlorodibenzo-p-dioxin",c1c2c(cc(c1Cl)Cl)Oc3c(c(c(c(c3Cl)Cl)Cl)Cl)O2,-3.71,-1.878,InChI=1S/C12H2Cl6O2/c13-3-1-5-6(2-4(3)14)20-12-10(18)8(16)7(15)9(17)11(12)19-5/h1-2H,[C][=C][C][=Branch1][#Branch2][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][O][C][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][O][Ring2][Ring1][Ring1],"1,2,3,4,7,8-hexachlorooxanthrene",large,0,2
+acetone,CC(=O)C,-3.8,-3.506,InChI=1S/C3H6O/c1-3(2)4/h1-2H3,[C][C][=Branch1][C][=O][C],propan-2-one,large,0,2
+2-methylprop-1-ene,CC(=C)C,1.16,2.327,"InChI=1S/C4H8/c1-4(2)3/h1H2,2-3H3",[C][C][=Branch1][C][=C][C],2-methylprop-1-ene,very large,1,4
+"1,2,3-trichloro-5-(2,5-dichlorophenyl)benzene",c1cc(c(cc1Cl)c2cc(c(c(c2)Cl)Cl)Cl)Cl,-3.61,-0.922,InChI=1S/C12H5Cl5/c13-7-1-2-9(14)8(5-7)6-3-10(15)12(17)11(16)4-6/h1-5H,[C][=C][C][=Branch2][Ring1][#Branch2][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][C][=C][C][=Branch1][N][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3-trichloro-5-(2,5-dichlorophenyl)benzene",large,0,2
+1-nitropentane,CCCCC[N+](=O)[O-],-2.82,-1.325,"InChI=1S/C5H11NO2/c1-2-3-4-5-6(7)8/h2-5H2,1H3",[C][C][C][C][C][N+1][=Branch1][C][=O][O-1],1-nitropentane,large,1,2
+(2E)-hex-2-enal,CCC/C=C/C=O,-3.68,-3.123,"InChI=1S/C6H10O/c1-2-3-4-5-6-7/h4-6H,2-3H2,1H3/b5-4+",[C][C][C][/C][=C][/C][=O],"(e)-hex-2-enal
+hex-2-enal",large,0,2
+"N,N-dimethyl-4-nitro-benzamide",CN(C)C(=O)c1ccc(cc1)[N+](=O)[O-],-11.95,-10.036,"InChI=1S/C9H10N2O3/c1-10(2)9(12)7-3-5-8(6-4-7)11(13)14/h3-6H,1-2H3",[C][N][Branch1][C][C][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],"n,n-dimethyl-4-nitrobenzamide",medium,0,0
+tetrahydrofuran,C1CCOC1,-3.47,-2.201,InChI=1S/C4H8O/c1-2-4-5-3-1/h1-4H2,[C][C][C][O][C][Ring1][Branch1],oxolane,large,1,2
+octane,CCCCCCCC,2.88,3.088,"InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",[C][C][C][C][C][C][C][C],octane,very large,1,4
+trifluralin,CCCN(CCC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],-3.25,-2.023,"InChI=1S/C13H16F3N3O4/c1-3-5-17(6-4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3",[C][C][C][N][Branch1][Ring2][C][C][C][C][=C][Branch2][Ring1][=Branch1][C][=C][Branch1][#Branch2][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][C][Branch1][C][F][Branch1][C][F][F][N+1][=Branch1][C][=O][O-1],"2,6-dinitro-n,n-dipropyl-4-(trifluoromethyl)aniline",large,1,2
+"(3R)-3,7-Dimethylocta-1,6-dien-3-yl acetate",CC(=CCC[C@](C)(C=C)OC(=O)C)C,-2.49,-2.964,"InChI=1S/C12H20O2/c1-6-12(5,14-11(4)13)9-7-8-10(2)3/h6,8H,1,7,9H2,2-5H3/t12-/m0/s1",[C][C][=Branch2][Ring1][C][=C][C][C][C@][Branch1][C][C][Branch1][Ring1][C][=C][O][C][=Branch1][C][=O][C][C],"[(3r)-3,7-dimethylocta-1,6-dien-3-yl] acetate",large,1,3
+2-isopropoxypropane,CC(C)OC(C)C,-0.53,-0.178,"InChI=1S/C6H14O/c1-5(2)7-6(3)4/h5-6H,1-4H3",[C][C][Branch1][C][C][O][C][Branch1][C][C][C],2-propan-2-yloxypropane,very large,1,4
+2-methylhexane,CCCCC(C)C,2.93,2.894,"InChI=1S/C7H16/c1-4-5-6-7(2)3/h7H,4-6H2,1-3H3",[C][C][C][C][C][Branch1][C][C][C],2-methylhexane,very large,1,4
+"2-bromo-2-chloro-1,1,1-trifluoro-ethane",[C@@H](C(F)(F)F)(Cl)Br,-0.11,0.206,"InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H/t1-/m0/s1",[C@@H1][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][Branch1][C][Cl][Br],"(2r)-2-bromo-2-chloro-1,1,1-trifluoroethane",very large,1,4
+1-butoxybutane,CCCCOCCCC,-0.83,0.139,"InChI=1S/C8H18O/c1-3-5-7-9-8-6-4-2/h3-8H2,1-2H3",[C][C][C][C][O][C][C][C][C],1-butoxybutane,very large,1,3
+pentylcyclopentane,CCCCCC1CCCC1,2.55,2.381,"InChI=1S/C10H20/c1-2-3-4-7-10-8-5-6-9-10/h10H,2-9H2,1H3",[C][C][C][C][C][C][C][C][C][C][Ring1][Branch1],pentylcyclopentane,very large,1,4
+"2,4-dimethylpentane",CC(C)CC(C)C,2.83,2.756,"InChI=1S/C7H16/c1-6(2)5-7(3)4/h6-7H,5H2,1-4H3",[C][C][Branch1][C][C][C][C][Branch1][C][C][C],"2,4-dimethylpentane",very large,1,4
+"2,5-dimethylpyridine",Cc1ccc(nc1)C,-4.72,-3.165,"InChI=1S/C7H9N/c1-6-3-4-7(2)8-5-6/h3-5H,1-2H3",[C][C][=C][C][=C][Branch1][Branch1][N][=C][Ring1][=Branch1][C],"2,5-dimethylpyridine",large,0,1
+but-2-enal,C/C=C/C=O,-4.22,-3.341,"InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+",[C][/C][=C][/C][=O],(e)-but-2-enal,large,0,2
+"1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene",c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl,-1.96,-0.477,InChI=1S/C12H5Cl5/c13-6-4-9(16)12(10(17)5-6)11-7(14)2-1-3-8(11)15/h1-5H,[C][=C][C][=Branch2][Ring1][#Branch2][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][C][=C][Branch1][O][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,3,5-trichloro-2-(2,6-dichlorophenyl)benzene",very large,1,3
+"1,2-dimethoxyethane",COCCOC,-4.84,-3.103,"InChI=1S/C4H10O2/c1-5-3-4-6-2/h3-4H2,1-2H3",[C][O][C][C][O][C],"1,2-dimethoxyethane",large,0,1
+sec-butylbenzene,CC[C@H](C)c1ccccc1,-0.45,-0.22,"InChI=1S/C10H14/c1-3-9(2)10-7-5-4-6-8-10/h4-9H,3H2,1-2H3/t9-/m0/s1",[C][C][C@H1][Branch1][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],[(2s)-butan-2-yl]benzene,very large,1,4
+3-phenylpropan-1-ol,c1ccc(cc1)CCCO,-6.92,-5.771,"InChI=1S/C9H12O/c10-8-4-7-9-5-2-1-3-6-9/h1-3,5-6,10H,4,7-8H2",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][C][C][O],3-phenylpropan-1-ol,large,0,0
+"2-[(1R)-1-methylpropyl]-4,6-dinitro-phenolate",CC[C@@H](C)c1cc(cc(c1O)[N+](=O)[O-])[N+](=O)[O-],-6.23,-5.378,"InChI=1S/C10H12N2O5/c1-3-6(2)8-4-7(11(14)15)5-9(10(8)13)12(16)17/h4-6,13H,3H2,1-2H3/t6-/m1/s1",[C][C][C@@H1][Branch1][C][C][C][=C][C][=Branch1][=C][=C][C][=Branch1][Branch1][=C][Ring1][=Branch1][O][N+1][=Branch1][C][=O][O-1][N+1][=Branch1][C][=O][O-1],"2-[(2r)-butan-2-yl]-4,6-dinitrophenol",large,0,1
+methyl 4-methoxybenzoate,COc1ccc(cc1)C(=O)OC,-5.33,-6.462,"InChI=1S/C9H10O3/c1-11-8-5-3-7(4-6-8)9(10)12-2/h3-6H,1-2H3",[C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][O][C],methyl 4-methoxybenzoate,large,0,1
+"N-(3,4-dichlorophenyl)propanimidic acid",CCC(=O)Nc1ccc(c(c1)Cl)Cl,-7.78,-9.409,"InChI=1S/C9H9Cl2NO/c1-2-9(13)12-6-3-4-7(10)8(11)5-6/h3-5H,2H2,1H3,(H,12,13)",[C][C][C][=Branch1][C][=O][N][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][Cl],"n-(3,4-dichlorophenyl)propanamide",large,0,0
+naproxen,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,-10.21,-12.199,"InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1",[C][C@@H1][Branch2][Ring1][Ring1][C][=C][C][=C][C][=C][Branch1][=Branch2][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][O][C][C][=Branch1][C][=O][O],(2s)-2-(6-methoxynaphthalen-2-yl)propanoic acid,medium,0,0
+octafluorocyclobutane,C1(C(C(C1(F)F)(F)F)(F)F)(F)F,3.43,3.077,"InChI=1S/C4F8/c5-1(6)2(7,8)4(11,12)3(1,9)10",[C][Branch2][Ring1][=Branch1][C][Branch1][#C][C][Branch1][Branch2][C][Ring1][Ring2][Branch1][C][F][F][Branch1][C][F][F][Branch1][C][F][F][Branch1][C][F][F],"1,1,2,2,3,3,4,4-octafluorocyclobutane",very large,1,4
+isopentyl acetate,CC(C)CCOC(=O)C,-2.21,-3.067,"InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3",[C][C][Branch1][C][C][C][C][O][C][=Branch1][C][=O][C],3-methylbutyl acetate,very large,1,3
+1-chlorohexane,CCCCCCCl,0.0,1.261,"InChI=1S/C6H13Cl/c1-2-3-4-5-6-7/h2-6H2,1H3",[C][C][C][C][C][C][Cl],1-chlorohexane,very large,1,4
+4-methylpentan-2-one,CC(C)CC(=O)C,-3.05,-3.116,"InChI=1S/C6H12O/c1-5(2)4-6(3)7/h5H,4H2,1-3H3",[C][C][Branch1][C][C][C][C][=Branch1][C][=O][C],4-methylpentan-2-one,large,1,2
+hexanal,CCCCCC=O,-2.81,-2.86,"InChI=1S/C6H12O/c1-2-3-4-5-6-7/h6H,2-5H2,1H3",[C][C][C][C][C][C][=O],hexanal,large,1,2
+3-chloroaniline,c1cc(cc(c1)Cl)N,-5.82,-5.138,"InChI=1S/C6H6ClN/c7-5-2-1-3-6(8)4-5/h1-4H,8H2",[C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][N],3-chloroaniline,large,0,1
+morpholine,C1COCCN1,-7.17,-6.116,"InChI=1S/C4H9NO/c1-3-6-4-2-5-1/h5H,1-4H2",[C][C][O][C][C][N][Ring1][=Branch1],morpholine,large,0,0
+"1,1-diethoxyethane",CCOC(C)OCC,-3.28,-1.795,"InChI=1S/C6H14O2/c1-4-7-6(3)8-5-2/h6H,4-5H2,1-3H3",[C][C][O][C][Branch1][C][C][O][C][C],"1,1-diethoxyethane",large,1,2
+"N-butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline",CCCC[N@](CC)c1c(cc(cc1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],-3.51,-2.303,"InChI=1S/C13H16F3N3O4/c1-3-5-6-17(4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3",[C][C][C][C][N@][Branch1][Ring1][C][C][C][=C][Branch2][Ring1][=Branch1][C][=C][Branch1][#Branch2][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][C][Branch1][C][F][Branch1][C][F][F][N+1][=Branch1][C][=O][O-1],"n-butyl-n-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline",large,0,2
+methanethiol,CS,-1.2,-0.273,"InChI=1S/CH4S/c1-2/h2H,1H3",[C][S],methanethiol,very large,1,3
+1-(4-methoxyphenyl)ethanone,CC(=O)c1ccc(cc1)OC,-4.4,-6.575,"InChI=1S/C9H10O2/c1-7(10)8-3-5-9(11-2)6-4-8/h3-6H,1-2H3",[C][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O][C],1-(4-methoxyphenyl)ethanone,large,0,1
+prop-2-en-1-ol,C=CCO,-5.03,-3.286,"InChI=1S/C3H6O/c1-2-3-4/h2,4H,1,3H2",[C][=C][C][O],prop-2-en-1-ol,large,0,1
+methylsulfanylethane,CCSC,-1.5,0.386,"InChI=1S/C3H8S/c1-3-4-2/h3H2,1-2H3",[C][C][S][C],methylsulfanylethane,very large,1,3
+pentyl acetate,CCCCCOC(=O)C,-2.51,-2.565,"InChI=1S/C7H14O2/c1-3-4-5-6-9-7(2)8/h3-6H2,1-2H3",[C][C][C][C][C][O][C][=Branch1][C][=O][C],pentyl acetate,large,1,3
+"1,2,3,5-tetrachlorobenzene",c1c(cc(c(c1Cl)Cl)Cl)Cl,-1.62,0.136,InChI=1S/C6H2Cl4/c7-3-1-4(8)6(10)5(9)2-3/h1-2H,[C][=C][Branch1][=C][C][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl],"1,2,3,5-tetrachlorobenzene",very large,1,3
+1-phenylethanone,CC(=O)c1ccccc1,-4.58,-5.078,"InChI=1S/C8H8O/c1-7(9)8-5-3-2-4-6-8/h2-6H,1H3",[C][C][=Branch1][C][=O][C][=C][C][=C][C][=C][Ring1][=Branch1],1-phenylethanone,large,0,1
+chloroethane,CCCl,-0.63,0.775,"InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3",[C][C][Cl],chloroethane,very large,1,4
+propylcyclopentane,CCCC1CCCC1,2.13,2.102,"InChI=1S/C8H16/c1-2-5-8-6-3-4-7-8/h8H,2-7H2,1H3",[C][C][C][C][C][C][C][C][Ring1][Branch1],propylcyclopentane,very large,1,4
+"1,3,5-trichlorobenzene",c1c(cc(cc1Cl)Cl)Cl,-0.78,0.326,InChI=1S/C6H3Cl3/c7-4-1-5(8)3-6(9)2-4/h1-3H,[C][=C][Branch1][O][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][Cl][Cl],"1,3,5-trichlorobenzene",very large,1,4
+propyl paraben,CCCOC(=O)c1ccc(cc1)O,-9.37,-8.945,"InChI=1S/C10H12O3/c1-2-7-13-10(12)8-3-5-9(11)6-4-8/h3-6,11H,2,7H2,1H3",[C][C][C][O][C][=Branch1][C][=O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],propyl 4-hydroxybenzoate,medium,0,0
+3-chlorophenol,c1cc(cc(c1)Cl)O,-6.62,-5.018,"InChI=1S/C6H5ClO/c7-5-2-1-3-6(8)4-5/h1-4,8H",[C][=C][C][=Branch1][=Branch2][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][Cl][O],3-chlorophenol,large,0,0
+3-methylbutan-1-ol,CC(C)CCO,-4.42,-3.237,"InChI=1S/C5H12O/c1-5(2)3-4-6/h5-6H,3-4H2,1-2H3",[C][C][Branch1][C][C][C][C][O],3-methylbutan-1-ol,large,0,1
+pentan-1-amine,CCCCCN,-4.09,-2.835,"InChI=1S/C5H13N/c1-2-3-4-5-6/h2-6H2,1H3",[C][C][C][C][C][N],pentan-1-amine,large,0,2
+terbacil,Cc1c(c(=O)n(c(=O)[nH]1)C(C)(C)C)Cl,-11.14,-13.769,"InChI=1S/C9H13ClN2O2/c1-5-6(10)7(13)12(8(14)11-5)9(2,3)4/h1-4H3,(H,11,14)",[C][C][=C][Branch2][Ring1][#Branch1][C][=Branch1][C][=O][N][Branch1][Branch2][C][=Branch1][C][=O][NH1][Ring1][Branch2][C][Branch1][C][C][Branch1][C][C][C][Cl],"3-tert-butyl-5-chloro-6-methyl-1h-pyrimidine-2,4-dione",medium,0,0
+"2,2,5-trimethylhexane",CC(C)CCC(C)(C)C,2.93,2.97,"InChI=1S/C9H20/c1-8(2)6-7-9(3,4)5/h8H,6-7H2,1-5H3",[C][C][Branch1][C][C][C][C][C][Branch1][C][C][Branch1][C][C][C],"2,2,5-trimethylhexane",very large,1,4
+2-butoxyethanol,CCCCOCCO,-6.25,-3.85,"InChI=1S/C6H14O2/c1-2-3-5-8-6-4-7/h7H,2-6H2,1H3",[C][C][C][C][O][C][C][O],2-butoxyethanol,large,0,0
+benzamide,c1ccc(cc1)C(=O)N,-11.0,-10.412,"InChI=1S/C7H7NO/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H2,8,9)",[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=Branch1][C][=O][N],benzamide,medium,0,0
+2-nitropropane,CC(C)[N+](=O)[O-],-3.13,-1.741,"InChI=1S/C3H7NO2/c1-3(2)4(5)6/h3H,1-2H3",[C][C][Branch1][C][C][N+1][=Branch1][C][=O][O-1],"2-nitropropane
+n-oxido-n-propan-2-ylhydroxylamine
+n,n-dihydroxypropan-2-amine",large,1,2
+glycerol,C(C(CO)O)O,-13.43,-10.14,"InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2",[C][Branch1][#Branch1][C][Branch1][Ring1][C][O][O][O],"propane-1,2,3-triol",medium,0,0
+1-iodopropane,CCCI,-0.53,-0.443,"InChI=1S/C3H7I/c1-2-3-4/h2-3H2,1H3",[C][C][C][I],1-iodopropane,very large,1,4
+2-methoxyethanamine,COCCN,-6.55,-5.027,"InChI=1S/C3H9NO/c1-5-3-2-4/h2-4H2,1H3",[C][O][C][C][N],2-methoxyethanamine,large,0,0
+"1,1,1,2-tetrachloroethane",C(C(Cl)(Cl)Cl)Cl,-1.43,-0.091,"InChI=1S/C2H2Cl4/c3-1-2(4,5)6/h1H2",[C][Branch1][=Branch2][C][Branch1][C][Cl][Branch1][C][Cl][Cl][Cl],"1,1,1,2-tetrachloroethane",very large,1,3
+methyl propanoate,CCC(=O)OC,-2.93,-3.652,"InChI=1S/C4H8O2/c1-3-4(5)6-2/h3H2,1-2H3",[C][C][C][=Branch1][C][=O][O][C],methyl propanoate,large,1,2
+cyclopentane,C1CCCC1,1.2,1.648,InChI=1S/C5H10/c1-2-4-5-3-1/h1-5H2,[C][C][C][C][C][Ring1][Branch1],cyclopentane,very large,1,4
+3-ethylpyridine,CCc1cccnc1,-4.59,-2.965,"InChI=1S/C7H9N/c1-2-7-4-3-5-8-6-7/h3-6H,2H2,1H3",[C][C][C][=C][C][=C][N][=C][Ring1][=Branch1],3-ethylpyridine,large,0,1
+"3,5-dimethylpyridine",Cc1cc(cnc1)C,-4.84,-2.869,"InChI=1S/C7H9N/c1-6-3-7(2)5-8-4-6/h3-5H,1-2H3",[C][C][=C][C][=Branch1][=Branch1][=C][N][=C][Ring1][=Branch1][C],"3,5-dimethylpyridine",large,0,1
+2-methoxyethanol,COCCO,-6.619999999999999,-4.686,"InChI=1S/C3H8O2/c1-5-3-2-4/h4H,2-3H2,1H3",[C][O][C][C][O],2-methoxyethanol,large,0,0
+methyl formate,COC=O,-2.78,-4.028,"InChI=1S/C2H4O2/c1-4-2-3/h2H,1H3",[C][O][C][=O],methyl formate,large,1,2
+naphthalen-2-amine,c1ccc2cc(ccc2c1)N,-7.47,-8.003,"InChI=1S/C10H9N/c11-10-6-5-8-3-1-2-4-9(8)7-10/h1-7H,11H2",[C][=C][C][=C][C][=C][Branch1][=Branch2][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][N],naphthalen-2-amine,large,0,0
+1-methyl-3-nitro-benzene,Cc1cccc(c1)[N+](=O)[O-],-3.45,-3.278,"InChI=1S/C7H7NO2/c1-6-3-2-4-7(5-6)8(9)10/h2-5H,1H3",[C][C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],1-methyl-3-nitrobenzene,large,1,2
+"1,4-dichlorobutane",C(CCCl)CCl,-2.32,-0.404,InChI=1S/C4H8Cl2/c5-3-1-2-4-6/h1-4H2,[C][Branch1][Ring2][C][C][Cl][C][Cl],"1,4-dichlorobuta-1,3-diyne
+1,4-dichlorobutane",very large,1,3
+nitroxyacetone,CC(=O)CO[N+](=O)[O-],-5.99,-5.362,"InChI=1S/C3H5NO4/c1-3(5)2-8-4(6)7/h2H2,1H3",[C][C][=Branch1][C][=O][C][O][N+1][=Branch1][C][=O][O-1],2-oxopropyl nitrate,large,0,1
+tert-butylbenzene,CC(C)(C)c1ccccc1,-0.44,-0.803,"InChI=1S/C10H14/c1-10(2,3)9-7-5-4-6-8-9/h4-8H,1-3H3",[C][C][Branch1][C][C][Branch1][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],tert-butylbenzene,very large,1,4
+methyl hexanoate,CCCCCC(=O)OC,-2.49,-3.299,"InChI=1S/C7H14O2/c1-3-4-5-6-7(8)9-2/h3-6H2,1-2H3",[C][C][C][C][C][C][=Branch1][C][=O][O][C],methyl hexanoate,large,1,3
+"1,1,1-trifluoropropan-2-ol",C[C@@H](C(F)(F)F)O,-4.16,-3.518,"InChI=1S/C3H5F3O/c1-2(7)3(4,5)6/h2,7H,1H3/t2-/m0/s1",[C][C@@H1][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][O],"(2s)-1,1,1-trifluoropropan-2-ol",large,0,2
+1-bromo-pentane,CCCCCBr,-0.1,0.824,"InChI=1S/C5H11Br/c1-2-3-4-5-6/h2-5H2,1H3",[C][C][C][C][C][Br],1-bromopentane,very large,1,4
+oct-1-ene,CCCCCCC=C,1.92,2.895,"InChI=1S/C8H16/c1-3-5-7-8-6-4-2/h3H,1,4-8H2,2H3",[C][C][C][C][C][C][C][=C],oct-1-ene,very large,1,4
+6-isopropyl-3-methyl-1-cyclohex-2-enone,CC1=CC(=O)[C@@H](CC1)C(C)C,-4.51,-3.825,"InChI=1S/C10H16O/c1-7(2)9-5-4-8(3)6-10(9)11/h6-7,9H,4-5H2,1-3H3/t9-/m0/s1",[C][C][=C][C][=Branch1][C][=O][C@@H1][Branch1][Branch1][C][C][Ring1][#Branch1][C][Branch1][C][C][C],(6s)-3-methyl-6-propan-2-ylcyclohex-2-en-1-one,large,0,1
+propan-2-ol,CC(C)O,-4.74,-3.427,"InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3",[C][C][Branch1][C][C][O],propan-2-ol,large,0,1
+hexan-1-amine,CCCCCCN,-3.95,-2.772,"InChI=1S/C6H15N/c1-2-3-4-5-6-7/h2-7H2,1H3",[C][C][C][C][C][C][N],hexan-1-amine,large,0,2
+3-nitrooxypropyl nitrate,C(CO[N+](=O)[O-])CO[N+](=O)[O-],-4.8,-5.322,InChI=1S/C3H6N2O6/c6-4(7)10-2-1-3-11-5(8)9/h1-3H2,[C][Branch1][Branch2][C][O][N+1][=Branch1][C][=O][O-1][C][O][N+1][=Branch1][C][=O][O-1],3-nitrooxypropyl nitrate,large,0,1
+"2,4-dimethylphenol",Cc1ccc(c(c1)C)O,-6.01,-4.98,"InChI=1S/C8H10O/c1-6-3-4-8(9)7(2)5-6/h3-5,9H,1-2H3",[C][C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][O],"2,4-dimethylphenol",large,0,1
+pentan-1-ol,CCCCCO,-4.57,-3.054,"InChI=1S/C5H12O/c1-2-3-4-5-6/h6H,2-5H2,1H3",[C][C][C][C][C][O],pentan-1-ol,large,0,1
+pentan-2-ol,CCC[C@@H](C)O,-4.39,-2.945,"InChI=1S/C5H12O/c1-3-4-5(2)6/h5-6H,3-4H2,1-2H3/t5-/m1/s1",[C][C][C][C@@H1][Branch1][C][C][O],(2r)-pentan-2-ol,large,0,1
+ibuprofen,C[C@@H](c1ccc(cc1)CC(C)C)C(=O)O,-7.0,-10.857,"InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)/t10-/m0/s1",[C][C@@H1][Branch1][P][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][C][Branch1][C][C][C][C][=Branch1][C][=O][O],(2s)-2-[4-(2-methylpropyl)phenyl]propanoic acid,large,0,0
+"3,4-dimethylphenol",Cc1ccc(cc1C)O,-6.5,-5.471,"InChI=1S/C8H10O/c1-6-3-4-8(9)5-7(6)2/h3-5,9H,1-2H3",[C][C][=C][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][C][O],"3,4-dimethylphenol",large,0,0
+4-chloro-3-methyl-phenol,Cc1cc(ccc1Cl)O,-6.79,-5.14,"InChI=1S/C7H7ClO/c1-5-4-6(9)2-3-7(5)8/h2-4,9H,1H3",[C][C][=C][C][=Branch1][#Branch1][=C][C][=C][Ring1][=Branch1][Cl][O],4-chloro-3-methylphenol,large,0,0
+hept-2-ene,CCCC/C=C/C,1.68,2.78,"InChI=1S/C7H14/c1-3-5-7-6-4-2/h3,5H,4,6-7H2,1-2H3/b5-3+",[C][C][C][C][/C][=C][/C],"hept-2-ene
+(e)-hept-2-ene",very large,1,4
+1-propoxypropane,CCCOCCC,-1.16,-0.004,"InChI=1S/C6H14O/c1-3-5-7-6-4-2/h3-6H2,1-2H3",[C][C][C][O][C][C][C],1-propoxypropane,very large,1,3
+"(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol",C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C,-3.2,-3.35,"InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m1/s1",[C][C@@H1][C][C][C@H1][Branch1][Branch2][C@@H1][Branch1][Ring2][C][Ring1][=Branch1][O][C][Branch1][C][C][C],"(1r,2s,5r)-5-methyl-2-propan-2-ylcyclohexan-1-ol",large,1,2
+terbutryn,CCNc1nc(nc(n1)SC)NC(C)(C)C,-6.68,-9.271,"InChI=1S/C10H19N5S/c1-6-11-7-12-8(15-10(2,3)4)14-9(13-7)16-5/h6H2,1-5H3,(H2,11,12,13,14,15)",[C][C][N][C][=N][C][=Branch1][#Branch2][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][S][C][N][C][Branch1][C][C][Branch1][C][C][C],"n-tert-butyl-n'-ethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",large,0,0
+"2,2,4-trimethylpentane",CC(C)CC(C)(C)C,2.89,2.542,"InChI=1S/C8H18/c1-7(2)6-8(3,4)5/h7H,6H2,1-5H3",[C][C][Branch1][C][C][C][C][Branch1][C][C][Branch1][C][C][C],"2,2,4-trimethylpentane",very large,1,4
+nonan-5-one,CCCCC(=O)CCCC,-2.64,-2.364,"InChI=1S/C9H18O/c1-3-5-7-9(10)8-6-4-2/h3-8H2,1-2H3",[C][C][C][C][C][=Branch1][C][=O][C][C][C][C],nonan-5-one,large,1,3
+pebulate,CCCCN(CC)C(=O)SCCC,-3.64,-4.573,"InChI=1S/C10H21NOS/c1-4-7-8-11(6-3)10(12)13-9-5-2/h4-9H2,1-3H3",[C][C][C][C][N][Branch1][Ring1][C][C][C][=Branch1][C][=O][S][C][C][C],s-propyl (butyl-ethylamino)methanethioate,large,0,2
+hept-1-ene,CCCCCC=C,1.66,2.761,"InChI=1S/C7H14/c1-3-5-7-6-4-2/h3H,1,4-7H2,2H3",[C][C][C][C][C][C][=C],hept-1-ene,very large,1,4
+isopropyl formate,CC(C)OC=O,-2.02,-3.591,"InChI=1S/C4H8O2/c1-4(2)6-3-5/h3-4H,1-2H3",[C][C][Branch1][C][C][O][C][=O],propan-2-yl formate,very large,1,3
+1-acetoxyethyl acetate,CC(OC(=O)C)OC(=O)C,-4.97,-8.006,"InChI=1S/C6H10O4/c1-4(7)9-6(3)10-5(2)8/h6H,1-3H3",[C][C][Branch1][#Branch1][O][C][=Branch1][C][=O][C][O][C][=Branch1][C][=O][C],1-acetyloxyethyl acetate,large,0,1
+5-chlorouracil,c1c(c(=O)[nH]c(=O)[nH]1)Cl,-17.74,-16.612,"InChI=1S/C4H3ClN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",[C][=C][Branch1][=N][C][=Branch1][C][=O][NH1][C][=Branch1][C][=O][NH1][Ring1][Branch2][Cl],"5-chloro-1h-pyrimidine-2,4-dione",small,0,0
+isopropenylbenzene,CC(=C)c1ccccc1,-1.24,-0.651,"InChI=1S/C9H10/c1-8(2)9-6-4-3-5-7-9/h3-7H,1H2,2H3",[C][C][=Branch1][C][=C][C][=C][C][=C][C][=C][Ring1][=Branch1],prop-1-en-2-ylbenzene,very large,1,3
+isopentane,CCC(C)C,2.38,2.59,"InChI=1S/C5H12/c1-4-5(2)3/h5H,4H2,1-3H3",[C][C][C][Branch1][C][C][C],2-methylbutane,very large,1,4
+butyl nitrate,CCCCO[N+](=O)[O-],-2.09,-1.938,"InChI=1S/C4H9NO3/c1-2-3-4-8-5(6)7/h2-4H2,1H3",[C][C][C][C][O][N+1][=Branch1][C][=O][O-1],butyl nitrate,very large,1,3
+bromobenzene,c1ccc(cc1)Br,-1.46,-0.947,InChI=1S/C6H5Br/c7-6-4-2-1-3-5-6/h1-5H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][Br],bromobenzene,very large,1,3
+"1,1,1-trichloroethane",CC(Cl)(Cl)Cl,-0.19,0.505,"InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3",[C][C][Branch1][C][Cl][Branch1][C][Cl][Cl],"1,1,1-trichloroethane",very large,1,4
+4-(1-Methylethenyl)-1-cyclohexene-1-carboxaldehyde,CC(=C)[C@H]1CCC(=CC1)C=O,-4.09,-3.591,"InChI=1S/C10H14O/c1-8(2)10-5-3-9(7-11)4-6-10/h3,7,10H,1,4-6H2,2H3/t10-/m1/s1",[C][C][=Branch1][C][=C][C@H1][C][C][C][=Branch1][Branch1][=C][C][Ring1][=Branch1][C][=O],(4s)-4-prop-1-en-2-ylcyclohexene-1-carbaldehyde,large,0,2
+1-methyl-2-nitro-benzene,Cc1ccccc1[N+](=O)[O-],-3.58,-3.133,"InChI=1S/C7H7NO2/c1-6-4-2-3-5-7(6)8(9)10/h2-5H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1],1-methyl-2-nitrobenzene,large,0,2
+1-iodoheptane,CCCCCCCI,0.27,0.228,"InChI=1S/C7H15I/c1-2-3-4-5-6-7-8/h2-7H2,1H3",[C][C][C][C][C][C][C][I],1-iodoheptane,very large,1,4
+pyrene,c1cc2ccc3cccc4c3c2c(c1)cc4,-4.52,-6.79,InChI=1S/C16H10/c1-3-11-7-9-13-5-2-6-14-10-8-12(4-1)15(11)16(13)14/h1-10H,[C][=C][C][=C][C][=C][C][=C][C][=C][C][Ring1][=Branch1][=C][Ring1][#Branch2][C][=Branch1][Ring2][=C][Ring1][=C][C][=C][Ring1][#Branch1],pyrene,large,0,1
+1-chloro-pentane,CCCCCCl,-0.1,1.084,"InChI=1S/C5H11Cl/c1-2-3-4-5-6/h2-5H2,1H3",[C][C][C][C][C][Cl],1-chloropentane,very large,1,4
+isobutyl acetate,CC(C)COC(=O)C,-2.36,-2.896,"InChI=1S/C6H12O2/c1-5(2)4-8-6(3)7/h5H,4H2,1-3H3",[C][C][Branch1][C][C][C][O][C][=Branch1][C][=O][C],2-methylpropyl acetate,large,1,3
+"2,2-dimethylbutane",CCC(C)(C)C,2.51,2.495,"InChI=1S/C6H14/c1-5-6(2,3)4/h5H2,1-4H3",[C][C][C][Branch1][C][C][Branch1][C][C][C],"2,2-dimethylbutane",very large,1,4
+4-methoxyaniline,COc1ccc(cc1)N,-7.48,-7.016,"InChI=1S/C7H9NO/c1-9-7-4-2-6(8)3-5-7/h2-5H,8H2,1H3",[C][O][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][N],4-methoxyaniline,large,0,0
+isobutylbenzene,CC(C)Cc1ccccc1,0.16,-0.257,"InChI=1S/C10H14/c1-9(2)8-10-6-4-3-5-7-10/h3-7,9H,8H2,1-2H3",[C][C][Branch1][C][C][C][C][=C][C][=C][C][=C][Ring1][=Branch1],2-methylpropylbenzene,very large,1,4
+"1,3,5-trichloro-2-phenyl-benzene",c1ccc(cc1)c2c(cc(cc2Cl)Cl)Cl,-2.16,-1.151,InChI=1S/C12H7Cl3/c13-9-6-10(14)12(11(15)7-9)8-4-2-1-3-5-8/h1-7H,[C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][C][=C][Branch1][O][C][=C][Branch1][=Branch1][C][=C][Ring1][=Branch1][Cl][Cl][Cl],"1,3,5-trichloro-2-phenylbenzene",very large,1,3
+methanamine,CN,-4.55,-3.583,"InChI=1S/CH5N/c1-2/h2H2,1H3",[C][N],methanamine,large,0,1
+2-chlorophenol,c1ccc(c(c1)O)Cl,-4.55,-3.317,"InChI=1S/C6H5ClO/c7-5-3-1-2-4-6(5)8/h1-4,8H",[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][Cl],2-chlorophenol,large,0,1
+"2-amino-9,10-anthraquinone",c1ccc2c(c1)C(=O)c3ccc(cc3C2=O)N,-11.53,-13.895,"InChI=1S/C14H9NO2/c15-8-5-6-11-12(7-8)14(17)10-4-2-1-3-9(10)13(11)16/h1-7H,15H2",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][C][=C][C][=C][Branch1][=Branch2][C][=C][Ring1][=Branch1][C][Ring1][N][=O][N],"2-aminoanthracene-9,10-dione",medium,0,0
+"(Z)-1,2-dichloroethylene",C(=C\Cl)\Cl,-1.17,1.156,InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1-,[C][=Branch1][Ring1][=C][\Cl][\Cl],"(z)-1,2-dichloroethene",very large,1,3
+hexan-2-one,CCCCC(=O)C,-3.28,-3.006,"InChI=1S/C6H12O/c1-3-4-5-6(2)7/h3-5H2,1-2H3",[C][C][C][C][C][=Branch1][C][=O][C],hexan-2-one,large,1,2
+"1,2-dinitroxyethane",C(CO[N+](=O)[O-])O[N+](=O)[O-],-5.73,-6.227,InChI=1S/C2H4N2O6/c5-3(6)9-1-2-10-4(7)8/h1-2H2,[C][Branch1][Branch2][C][O][N+1][=Branch1][C][=O][O-1][O][N+1][=Branch1][C][=O][O-1],2-nitrooxyethyl nitrate,large,0,1
+2-fluorophenol,c1ccc(c(c1)O)F,-5.29,-3.346,"InChI=1S/C6H5FO/c7-5-3-1-2-4-6(5)8/h1-4,8H",[C][=C][C][=C][Branch1][Branch2][C][=Branch1][Ring2][=C][Ring1][=Branch1][O][F],2-fluorophenol,large,0,1
+pirimor,Cc1c(nc(nc1OC(=O)N(C)C)N(C)C)C,-9.41,-13.87,InChI=1S/C11H18N4O2/c1-7-8(2)12-10(14(3)4)13-9(7)17-11(16)15(5)6/h1-6H3,[C][C][=C][Branch2][Ring1][Branch2][N][=C][Branch1][#C][N][=C][Ring1][=Branch1][O][C][=Branch1][C][=O][N][Branch1][C][C][C][N][Branch1][C][C][C][C],"(2-dimethylamino-5,6-dimethylpyrimidin-4-yl) n,n-dimethylcarbamate",medium,0,0
+styrene,C=Cc1ccccc1,-1.24,-1.078,"InChI=1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2",[C][=C][C][=C][C][=C][C][=C][Ring1][=Branch1],ethenylbenzene,very large,1,3
+triethylphosphate,CCOP(=O)(OCC)OCC,-7.5,-10.251,"InChI=1S/C6H15O4P/c1-4-8-11(7,9-5-2)10-6-3/h4-6H2,1-3H3",[C][C][O][P][=Branch1][C][=O][Branch1][Ring2][O][C][C][O][C][C],"triethoxy-hydroxyphosphanium
+triethyl phosphate",large,0,0
+"2,2,2-trifluoroethanol",C(C(F)(F)F)O,-4.31,-3.809,"InChI=1S/C2H3F3O/c3-2(4,5)1-6/h6H,1H2",[C][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][O],"2,2,2-trifluoroethanol",large,0,2
+propan-1-ol,CCCO,-4.85,-3.33,"InChI=1S/C3H8O/c1-2-3-4/h4H,2-3H2,1H3",[C][C][C][O],propan-1-ol,large,0,1
+o-xylene,Cc1ccccc1C,-0.9,-0.851,"InChI=1S/C8H10/c1-7-5-3-4-6-8(7)2/h3-6H,1-2H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][C],"1,2-dimethylbenzene",very large,1,3
+neopentane,CC(C)(C)C,2.51,2.506,"InChI=1S/C5H12/c1-5(2,3)4/h1-4H3",[C][C][Branch1][C][C][Branch1][C][C][C],"2,2-dimethylpropane",very large,1,4
+phthalimide,c1ccc2c(c1)C(=O)NC2=O,-9.61,-11.825,"InChI=1S/C8H5NO2/c10-7-5-3-1-2-4-6(5)8(11)9-7/h1-4H,(H,9,10,11)",[C][=C][C][=C][C][=Branch1][Ring2][=C][Ring1][=Branch1][C][=Branch1][C][=O][N][C][Ring1][#Branch1][=O],"isoindole-1,3-dione",medium,0,0
+1-iodobutane,CCCCI,-0.25,-0.223,"InChI=1S/C4H9I/c1-2-3-4-5/h2-4H2,1H3",[C][C][C][C][I],1-iodobutane,very large,1,4
+p-cresol,Cc1ccc(cc1)O,-6.13,-5.579,"InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3",[C][C][=C][C][=C][Branch1][Branch1][C][=C][Ring1][=Branch1][O],4-methylphenol,large,0,1
+2-iodopropane,CC(C)I,-0.46,-0.492,"InChI=1S/C3H7I/c1-3(2)4/h3H,1-2H3",[C][C][Branch1][C][C][I],2-iodopropane,very large,1,4
+2-methoxyphenol,COc1ccccc1O,-5.94,-4.746,"InChI=1S/C7H8O2/c1-9-7-5-3-2-4-6(7)8/h2-5,8H,1H3",[C][O][C][=C][C][=C][C][=C][Ring1][=Branch1][O],2-methoxyphenol,large,0,1
+cyclopentene,C1CC=CC1,0.56,1.23,"InChI=1S/C5H8/c1-2-4-5-3-1/h1-2H,3-5H2",[C][C][C][=C][C][Ring1][Branch1],cyclopentene,very large,1,4
+111-trifluoropropan-2-ol,C[C@H](C(F)(F)F)O,-4.2,-3.486,"InChI=1S/C3H5F3O/c1-2(7)3(4,5)6/h2,7H,1H3/t2-/m1/s1",[C][C@H1][Branch1][=Branch2][C][Branch1][C][F][Branch1][C][F][F][O],"(2r)-1,1,1-trifluoropropan-2-ol",large,0,2
+propan-1-amine,CCCN,-4.39,-3.053,"InChI=1S/C3H9N/c1-2-3-4/h2-4H2,1H3",[C][C][C][N],propan-1-amine,large,0,1
+2-nitrophenol,c1ccc(c(c1)[N+](=O)[O-])O,-4.58,-5.667,"InChI=1S/C6H5NO3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H",[C][=C][C][=C][Branch1][N][C][=Branch1][Ring2][=C][Ring1][=Branch1][N+1][=Branch1][C][=O][O-1][O],"2-(dihydroxyamino)phenol
+2-nitrophenol",large,0,1
+1-methylnaphthalene,Cc1cccc2c1cccc2,-2.44,-3.212,"InChI=1S/C11H10/c1-9-5-4-7-10-6-2-3-8-11(9)10/h2-8H,1H3",[C][C][=C][C][=C][C][=C][Ring1][=Branch1][C][=C][C][=C][Ring1][=Branch1],1-methylnaphthalene,large,1,3
+hexachlorobenzene,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl,-2.33,0.379,InChI=1S/C6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9,[C][=Branch2][Ring1][Branch1][=C][Branch1][P][C][=Branch1][=N][=C][Branch1][=Branch2][C][=Branch1][Branch1][=C][Ring1][=Branch1][Cl][Cl][Cl][Cl][Cl][Cl],"1,2,3,4,5,6-hexachlorobenzene",very large,1,3
+oct-2-enal,CCCCC/C=C/C=O,-3.43,-2.706,"InChI=1S/C8H14O/c1-2-3-4-5-6-7-8-9/h6-8H,2-5H2,1H3/b7-6+",[C][C][C][C][C][/C][=C][/C][=O],"oct-2-enal
+(e)-oct-2-enal",large,1,2
+diazinon,CCOP(=S)(OCC)Oc1cc(nc(n1)C(C)C)C,-6.48,-10.753,"InChI=1S/C12H21N2O3PS/c1-6-15-18(19,16-7-2)17-11-8-10(5)13-12(14-11)9(3)4/h8-9H,6-7H2,1-5H3",[C][C][O][P][=Branch1][C][=S][Branch1][Ring2][O][C][C][O][C][=C][C][=Branch1][=N][=N][C][=Branch1][Ring2][=N][Ring1][=Branch1][C][Branch1][C][C][C][C],diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidenephosphorane,large,0,0
+methyl octanoate,CCCCCCCC(=O)OC,-2.04,-3.035,"InChI=1S/C9H18O2/c1-3-4-5-6-7-8-9(10)11-2/h3-8H2,1-2H3",[C][C][C][C][C][C][C][C][=Branch1][C][=O][O][C],methyl octanoate,very large,1,3
+pyrrolidine,C1CCNC1,-5.48,-4.278,"InChI=1S/C4H9N/c1-2-4-5-3-1/h5H,1-4H2",[C][C][C][N][C][Ring1][Branch1],pyrrolidine,large,0,1
+4-hydroxybenzaldehyde,c1cc(ccc1C=O)O,-8.83,-10.05,"InChI=1S/C7H6O2/c8-5-6-1-3-7(9)4-2-6/h1-5,9H",[C][=C][C][=Branch1][Branch2][=C][C][=C][Ring1][=Branch1][C][=O][O],4-hydroxybenzaldehyde,medium,0,0
+1-chloroheptane,CCCCCCCCl,0.29,1.467,"InChI=1S/C7H15Cl/c1-2-3-4-5-6-7-8/h2-7H2,1H3",[C][C][C][C][C][C][C][Cl],1-chloroheptane,very large,1,4
+"1,4-dioxane",C1COCCO1,-5.06,-4.269,InChI=1S/C4H8O2/c1-2-6-4-3-5-1/h1-4H2,[C][C][O][C][C][O][Ring1][=Branch1],"1,4-dioxane",large,0,1

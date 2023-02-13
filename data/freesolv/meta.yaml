@@ -1,0 +1,31 @@
+name: freesolv
+smiles_col: smiles
+task: regression
+description: |
+  experimental and calculated small molecule hydration free energies
+targets:
+  - name: expt
+    description: experimentally measured hydration free energy
+    units: kcal/mol
+  - name: calc
+    description: calculated hydration free energy
+    units: kcal/mol
+links:
+  - name: dataset
+    url: https://github.com/MobleyLab/FreeSolv
+    description: Dataset and issue tracker
+bibtex:
+  - |
+    "@article{Mobley_2014,
+    doi = {10.1007/s10822-014-9747-x},
+    url = {https://doi.org/10.1007%2Fs10822-014-9747-x},
+    year = 2014,
+    month = {jun},
+    publisher = {Springer Science and Business Media {LLC}},
+    volume = {28},
+    number = {7},
+    pages = {711--720},
+    author = {David L. Mobley and J. Peter Guthrie},
+    title = {{FreeSolv}: a database of experimental and calculated hydration free energies, with input files},
+    journal = {J Comput Aided Mol Des}
+    }"

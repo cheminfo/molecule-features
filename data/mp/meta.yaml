@@ -1,0 +1,11 @@
+name: mp
+smiles_col: smiles
+task: regression
+description: |
+  Dataset compiled by Patiny et al.
+targets:
+  - name: mp
+    description: experimentally measured melting point
+    units: C
+bibtex:
+  - ""

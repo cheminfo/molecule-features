@@ -1,0 +1,35 @@
+name: opv
+smiles_col: smiles
+task: regression
+description: |
+  Manually curated databased of around 1000 experimental parameters for polymer-fullerence organic photovoltaic (OPV)
+  applications.
+targets:
+  - name: PCE_max(%)
+    description: maximum power conversion efficiency
+    units: "%"
+  - name: PCE_ave(%)
+    description: average power conversion efficiency
+    units: "%"
+  - name: Voc(V)
+    description: open circuit voltage
+    units: V
+  - name: Jsc(mA  cm^2)
+    description: short circuit current density
+    units: mA/cm^2
+  - name: FF
+    description: fill factor
+    units:
+bibtex:
+  - |
+    "@article{Nagasawa2018,
+    title   = {Computer-Aided Screening of Conjugated Polymers for Organic Solar Cell: Classification by Random Forest},
+    author  = {Shinji Nagasawa and Eman Al-Naamani and Akinori Saeki},
+    year    = 2018,
+    journal = {J. Phys. Chem. Lett.},
+    volume  = 9,
+    number  = 10,
+    pages   = {2639--2646},
+    doi     = {10.1021/acs.jpclett.8b00635},
+    url     = {https://doi.org/10.1021/acs.jpclett.8b00635}
+    }"

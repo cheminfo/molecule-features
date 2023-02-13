@@ -1,0 +1,66 @@
+name: somas
+smiles_col: SMILES
+task: regression
+description: |
+  Experimental and calculated solubilities for small molecules.
+  Originally proposed for the design of redox-flow batteries.
+targets:
+  - name: Experimental Solubility in Water
+    description: Experimental solubility in water
+    units: mg/mL
+  - name: Solvation Energy
+    description: COSMO based solvation energy by DFT calculation
+    units: kJ/mol
+  - name: Dipole Moment
+    description: Dipole moment of the molecule (DFT, PBE0 6–31 G**)
+    units: Debye
+  - name: Molecular Volumne
+    description: Molecular volume of the molecule (DFT, PBE0 6–31 G**)
+    units: A^3
+  - name: Molecular Surface Area
+    description: Molecular surface area of the molecule (DFT, PBE0 6–31 G**)
+    units: A^2
+  - name: HOMO
+    description: Highest occupied molecular orbital energy (DFT, PBE0 6–31 G**)
+    units: eV
+  - name: LUMO
+    description: Lowest unoccupied molecular orbital energy (DFT, PBE0 6–31 G**)
+    units: eV
+  - name: gap
+    description: HOMO-LUMO gap (DFT, PBE0 6–31 G**)
+    units: eV
+  - name: QXX
+    description: quadrupole moment of the molecule (DFT, PBE0 6–31 G**)
+    units: Debye^2
+  - name: QYY
+    description: quadrupole moment of the molecule (DFT, PBE0 6–31 G**)
+    units: Debye^2
+  - name: QZZ
+    description: quadrupole moment of the molecule (DFT, PBE0 6–31 G**)
+    units: Debye^2
+info:
+  - name: Temperature
+    description: Temperature of the experiment
+    units: K
+identifiers:
+  - name: CASRN
+    description: CAS Registry Number
+license: CC BY 4.0
+links:
+  - name: dataset
+    url: https://doi.org/10.6084/m9.figshare.14552697
+    description: Original dataset
+bibtex:
+  - |
+    "@article{Gao_2022,
+    doi = {10.1038/s41597-022-01814-4},
+    url = {https://doi.org/10.1038%2Fs41597-022-01814-4},
+    year = 2022,
+    month = {dec},
+    publisher = {Springer Science and Business Media {LLC}},
+    volume = {9},
+    number = {1},
+    author = {Peiyuan Gao and Amity Andersen and Jonathan Sepulveda and Gihan U. Panapitiya and Aaron Hollas and Emily G. Saldanha and Vijayakumar Murugesan and Wei Wang},
+    title = {{SOMAS}: a platform for data-driven material discovery in redox flow battery development},
+    journal = {Sci Data}
+    }"
