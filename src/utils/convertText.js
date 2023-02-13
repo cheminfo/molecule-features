@@ -30,7 +30,7 @@ export function convertText(text, options = {}) {
     },
   } = options;
 
-  let lines = Papa.parse(text, papaParseOptions).data.slice(0, 10);
+  let lines = Papa.parse(text, papaParseOptions).data.slice(0, 500);
 
   const entries = [];
   const fingerprintInfo = {};

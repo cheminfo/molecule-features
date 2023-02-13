@@ -1,0 +1,151 @@
+[
+  {
+    "name": "aquasoldb",
+    "smiles_col": "SMILES",
+    "task": "regression",
+    "description": "Curation of nine open source datasets on aqueous solubility.\nThe authors also assigned reliability groups.\n",
+    "identifiers": [
+      {
+        "name": "InChI",
+        "description": "International Chemical Identifier"
+      }
+    ],
+    "license": "CC0 1.0",
+    "links": [
+      {
+        "name": "dataset",
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8",
+        "description": "Original dataset"
+      }
+    ],
+    "bibtex": [
+      "\"@article{Sorkun_2019,\ndoi = {10.1038/s41597-019-0151-1},\nurl = {https://doi.org/10.1038%2Fs41597-019-0151-1},\nyear = 2019,\nmonth = {aug},\npublisher = {Springer Science and Business Media {LLC}},\nvolume = {6},\nnumber = {1},\nauthor = {Murat Cihan Sorkun and Abhishek Khetan and Süleyman Er},\ntitle = {{AqSolDB}, a curated reference set of aqueous solubility and 2D descriptors for a diverse set of compounds},\njournal = {Sci Data}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/aquasoldb/data.json"
+  },
+  {
+    "name": "clintox",
+    "smiles_col": "smiles",
+    "task": "classification",
+    "description": "Drug molecule approved by the FDA and molecule that have failed clinical trials for toxicity reasons.\nList of FDA-approved drugs are compiled from the SWEETLEAD database, and list of drugs that failed clinical trials for toxicity reasons are compiled from the Aggregate Analysis of ClinicalTrials.gov(AACT) database\n",
+    "bibtex": [
+      "\"@article{Gayvert_2016,\ndoi = {10.1016/j.chembiol.2016.07.023},\nurl = {https://doi.org/10.1016%2Fj.chembiol.2016.07.023},\nyear = 2016,\nmonth = {oct},\npublisher = {Elsevier {BV}},\nvolume = {23},\nnumber = {10},\npages = {1294--1301},\nauthor = {Kaitlyn~M. Gayvert and Neel~S. Madhukar and Olivier Elemento},\ntitle = {A Data-Driven Approach to Predicting Successes and Failures of Clinical Trials},\njournal = {Cell Chemical Biology}\n}\"\n",
+      "\"@article{Artemov_2016,\ndoi = {10.1101/095653},\nurl = {https://doi.org/10.1101%2F095653},\nyear = 2016,\nmonth = {dec},\npublisher = {Cold Spring Harbor Laboratory},\nauthor = {Artem V. Artemov and Evgeny Putin and Quentin Vanhaelen and Alexander Aliper and Ivan V. Ozerov and Alex Zhavoronkov},\ntitle = {Integrated deep learned transcriptomic and structure-based predictor of clinical trials outcomes}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/clintox/data.json"
+  },
+  {
+    "name": "freesolv",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "experimental and calculated small molecule hydration free energies\n",
+    "links": [
+      {
+        "name": "dataset",
+        "url": "https://github.com/MobleyLab/FreeSolv",
+        "description": "Dataset and issue tracker"
+      }
+    ],
+    "bibtex": [
+      "\"@article{Mobley_2014,\ndoi = {10.1007/s10822-014-9747-x},\nurl = {https://doi.org/10.1007%2Fs10822-014-9747-x},\nyear = 2014,\nmonth = {jun},\npublisher = {Springer Science and Business Media {LLC}},\nvolume = {28},\nnumber = {7},\npages = {711--720},\nauthor = {David L. Mobley and J. Peter Guthrie},\ntitle = {{FreeSolv}: a database of experimental and calculated hydration free energies, with input files},\njournal = {J Comput Aided Mol Des}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/esol/data.json"
+  },
+  {
+    "name": "flashpoint",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "Sun et al. collected a dataset of the flashpoints of 10575 molecules from \nacademic papers, the Gelest chemical catalogue, the DIPPR database, \nLange's Handbook of Chemistry, the Hazardous Chemicals Handbook,\nand the PubChem database.\nIncludes flashpoints measured with both open and closed cup methods.\n",
+    "license": "CC BY 4.0",
+    "links": [
+      {
+        "name": "dataset",
+        "url": "https://figshare.com/articles/dataset/Data_for_Assessing_Graph-based_Deep_Learning_Models_for_Predicting_Flash_Point/9275210",
+        "description": "Original figshare dataset"
+      }
+    ],
+    "bibtex": [
+      "\"@article{Sun_2020,\n doi = {10.1002/minf.201900101},\n url = {https://doi.org/10.1002%2Fminf.201900101},\n year = 2020,\n month = {feb},\n publisher = {Wiley},\n volume = {39},\n number = {6},\n pages = {1900101},\n author = {Xiaoyu Sun and Nathaniel J. Krakauer and Alexander Politowicz and Wei-Ting Chen and Qiying Li and Zuoyi Li and Xianjia Shao and Alfred Sunaryo and Mingren Shen and James Wang and Dane Morgan},\n title = {Assessing Graph-based Deep Learning Models for Predicting Flash Point},\n journal = {Mol. Inf.}\n }\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/flashpoint/data.json"
+  },
+  {
+    "name": "freesolv",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "experimental and calculated small molecule hydration free energies\n",
+    "links": [
+      {
+        "name": "dataset",
+        "url": "https://github.com/MobleyLab/FreeSolv",
+        "description": "Dataset and issue tracker"
+      }
+    ],
+    "bibtex": [
+      "\"@article{Mobley_2014,\ndoi = {10.1007/s10822-014-9747-x},\nurl = {https://doi.org/10.1007%2Fs10822-014-9747-x},\nyear = 2014,\nmonth = {jun},\npublisher = {Springer Science and Business Media {LLC}},\nvolume = {28},\nnumber = {7},\npages = {711--720},\nauthor = {David L. Mobley and J. Peter Guthrie},\ntitle = {{FreeSolv}: a database of experimental and calculated hydration free energies, with input files},\njournal = {J Comput Aided Mol Des}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/freesolv/data.json"
+  },
+  {
+    "name": "lipophilicity",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "experimentally measured octanol/water partition coefficient (log D at pH 7.4) \nof 4200 compounds curated from the ChEMBL database\n",
+    "bibtex": [
+      "\"@article{bento2014chembl,\ntitle={The ChEMBL bioactivity database: an update},\nauthor={Bento, A Patr{\\'\\i}cia and Gaulton, Anna and Hersey, Anne and Bellis, Louisa J and Chambers, Jon and Davies, Mark and Kr{\\\"u}ger, Felix A and Light, Yvonne and Mak, Lora and McGlinchey, Shaun and others},\njournal={Nucleic acids research},\nvolume={42},\nnumber={D1},\npages={D1083--D1090},\nyear={2014},\npublisher={Oxford Academic}\n}\"\n",
+      "\"@article{gaulton2012chembl,\ntitle={ChEMBL: a large-scale bioactivity database for drug discovery},\nauthor={Gaulton, Anna and Bellis, Louisa J and Bento, A Patricia and Chambers, Jon and Davies, Mark and Hersey, Anne and Light, Yvonne and McGlinchey, Shaun and Michalovich, David and Al-Lazikani, Bissan and others},\njournal={Nucleic acids research},\nvolume={40},\nnumber={D1},\npages={D1100--D1107},\nyear={2012},\npublisher={Oxford University Press}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/lipophilicity/data.json"
+  },
+  {
+    "name": "mp",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "Dataset compiled by Patiny et al.\n",
+    "bibtex": [
+      ""
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/mp/data.json"
+  },
+  {
+    "name": "opv",
+    "smiles_col": "smiles",
+    "task": "regression",
+    "description": "Manually curated database of around 1000 experimental parameters for polymer-fullerence organic photovoltaic (OPV)\napplications.\n",
+    "bibtex": [
+      "\"@article{Nagasawa2018,\ntitle   = {Computer-Aided Screening of Conjugated Polymers for Organic Solar Cell: Classification by Random Forest},\nauthor  = {Shinji Nagasawa and Eman Al-Naamani and Akinori Saeki},\nyear    = 2018,\njournal = {J. Phys. Chem. Lett.},\nvolume  = 9,\nnumber  = 10,\npages   = {2639--2646},\ndoi     = {10.1021/acs.jpclett.8b00635},\nurl     = {https://doi.org/10.1021/acs.jpclett.8b00635}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/opv/data.json"
+  },
+  {
+    "name": "somas",
+    "smiles_col": "SMILES",
+    "task": "regression",
+    "description": "Experimental and calculated solubilities for small molecules.\nOriginally proposed for the design of redox-flow batteries.\n",
+    "info": [
+      {
+        "name": "Temperature",
+        "description": "Temperature of the experiment",
+        "units": "K"
+      }
+    ],
+    "identifiers": [
+      {
+        "name": "CASRN",
+        "description": "CAS Registry Number"
+      }
+    ],
+    "license": "CC BY 4.0",
+    "links": [
+      {
+        "name": "dataset",
+        "url": "https://doi.org/10.6084/m9.figshare.14552697",
+        "description": "Original dataset"
+      }
+    ],
+    "bibtex": [
+      "\"@article{Gao_2022,\ndoi = {10.1038/s41597-022-01814-4},\nurl = {https://doi.org/10.1038%2Fs41597-022-01814-4},\nyear = 2022,\nmonth = {dec},\npublisher = {Springer Science and Business Media {LLC}},\nvolume = {9},\nnumber = {1},\nauthor = {Peiyuan Gao and Amity Andersen and Jonathan Sepulveda and Gihan U. Panapitiya and Aaron Hollas and Emily G. Saldanha and Vijayakumar Murugesan and Wei Wang},\ntitle = {{SOMAS}: a platform for data-driven material discovery in redox flow battery development},\njournal = {Sci Data}\n}\"\n"
+    ],
+    "url": "https://cheminfo.github.io/molecule-features/somas/data.json"
+  }
+]

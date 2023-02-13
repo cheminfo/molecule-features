@@ -9,6 +9,7 @@
     "src"
   ],
   "scripts": {
+    "build": "node src/convertAll.js",
     "eslint": "eslint src",
     "eslint-fix": "npm run eslint -- --fix",
     "prepack": "rollup -c",

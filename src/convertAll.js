@@ -8,6 +8,7 @@ import { convertText } from './utils/convertText.js';
 const dirs = await readdir(new URL('../data', import.meta.url));
 
 const report = [];
+const toc = [];
 
 report.push({ h1: 'List of datasets' });
 
@@ -100,6 +101,7 @@ for (let dir of dirs) {
         'Number of entries': result.entries.length,
       });
       report.push(...getReportDetails(result));
+      toc.push(getTocDetails(result));
     }
   }
 }
@@ -110,8 +112,41 @@ await writeFile(
   'utf8',
 );
 
+await writeFile(
+  new URL('../docs/index.json', import.meta.url),
+  JSON.stringify(toc, null, 2),
+  'utf8',
+);
+
+function getTocDetails(result) {
+  return {
+    ...result.meta,
+    nbEntries: result.entrieslength,
+    targets: getTargets,
+    url: `https://cheminfo.github.io/molecule-features/${result.dir}/${result.newFilename}`,
+  };
+}
+
 function getReportDetails(result) {
-  const targets = result.meta.targets
+  const targets = getTargets(result);
+  return [
+    {
+      h2: `${result.dir}/${result.newFilename} - Nb entries: ${result.entries.length}`,
+    },
+    {
+      link: {
+        title: 'Link to the data',
+        source: `https://cheminfo.github.io/molecule-features/${result.dir}/${result.newFilename}`,
+      },
+    },
+    { blockquote: result.meta.description },
+    { h3: 'Available targets:' },
+    { table: { headers: ['Property', 'Description', 'Units'], rows: targets } },
+  ];
+}
+
+function getTargets(result) {
+  return result.meta.targets
     .filter((target) => target.alias !== undefined)
     .map((target) => {
       return {
@@ -120,13 +155,4 @@ function getReportDetails(result) {
         Units: target.units || '',
       };
     });
-  console.log(targets);
-  return [
-    {
-      h2: `${result.dir}/${result.newFilename} - Nb entries: ${result.entries.length}`,
-    },
-    { blockquote: result.meta.description },
-    { h3: 'Available targets:' },
-    { table: { headers: ['Property', 'Description', 'Units'], rows: targets } },
-  ];
 }
