@@ -1,0 +1,8 @@
+"SMILES","CASRN","EXTERNALID","N","NAME","NAME","ARTICLEID","PUBMEDID","PAGE","TABLE","Melting Point {measured}","UNIT {Melting Point}","Melting Point {measured, converted}","UNIT {Melting Point}"
+"OC(=O)C1=C2C(=O)C3=C(C=CC=C3)C(=O)C2=CC=C1","602-69-7","EN300-00002","1","9,10-Dioxo-9,10-dihydro-anthracene-1-carboxylic acid","-","A55638","25489863","-","-","293.0 - 295.0","?C","294.0","Celsius"
+"CC1=NN(C2=C1C=C(S2)C(O)=O)C1=CC=CC=C1","24086-27-9","EN300-00003","2","3-methyl-1-phenyl-1H-thieno[2,3-c]pyrazole-5-carboxylic acid","-","A55638","25489863","-","-","234.0 - 236.0","?C","235.0","Celsius"
+"OC(=O)C1=C(Cl)C2=C(C=C1)C(=O)C1=C(C=CC=C1)C2=O","82-23-5","EN300-00004","3","1-Chloro-9,10-dioxo-9,10-dihydro-anthracene-2-carboxylic acid","-","A55638","25489863","-","-","199.0 - 201.0","?C","200.0","Celsius"
+"CC1=NN(C2=C1C=C(S2)C(O)=O)C1=CC=C(Cl)C=C1","-","EN300-00005","4","1-(4-Chloro-phenyl)-3-methyl-1H-thieno[2,3-c]pyrazole-5-carboxylic acid","-","A55638","25489863","-","-","230.0 - 238.0","?C","234.0","Celsius"
+"CC1=NN(C2=C1C=C(S2)C(O)=O)C1=C(Cl)C=CC=C1","-","EN300-00006","5","1-(2-Chloro-phenyl)-3-methyl-1H-thieno[2,3-c]pyrazole-5-carboxylic acid","-","A55638","25489863","-","-","56.0 - 58.0","?C","57.0","Celsius"
+"CC1=CC(SCC(O)=O)=C(C)C=C1","15310-87-9","EN300-00008","6","(2,5-Dimethyl-phenylsulfanyl)-acetic acid","-","A55638","25489863","-","-","73.0 - 75.0","?C","74.0","Celsius"
+"OC(=O)CSC1=C(Cl)C=CC(Cl)=C1","6274-27-7","EN300-00009","7","(2,5-Dichloro-phenylsulfanyl)-acetic acid","-","A55638","25489863","-","-","129.0 - 131.0","?C","130.0","Celsius"
