@@ -1,0 +1,33 @@
+name: flashpoint
+smiles_col: smiles
+task: regression
+description: |
+  Sun et al. collected a dataset of the flashpoints of 10575 molecules from 
+  academic papers, the Gelest chemical catalogue, the DIPPR database, 
+  Lange's Handbook of Chemistry, the Hazardous Chemicals Handbook,
+  and the PubChem database.
+  Includes flashpoints measured with both open and closed cup methods.
+targets:
+  - name: flashpoint
+    description: experimental flashpoint of the molecule
+    units: K
+license: CC BY 4.0
+links:
+  - name: dataset
+    url: https://figshare.com/articles/dataset/Data_for_Assessing_Graph-based_Deep_Learning_Models_for_Predicting_Flash_Point/9275210
+    description: Original figshare dataset
+bibtex:
+  - |
+    "@article{Sun_2020,
+     doi = {10.1002/minf.201900101},
+     url = {https://doi.org/10.1002%2Fminf.201900101},
+     year = 2020,
+     month = {feb},
+     publisher = {Wiley},
+     volume = {39},
+     number = {6},
+     pages = {1900101},
+     author = {Xiaoyu Sun and Nathaniel J. Krakauer and Alexander Politowicz and Wei-Ting Chen and Qiying Li and Zuoyi Li and Xianjia Shao and Alfred Sunaryo and Mingren Shen and James Wang and Dane Morgan},
+     title = {Assessing Graph-based Deep Learning Models for Predicting Flash Point},
+     journal = {Mol. Inf.}
+     }"

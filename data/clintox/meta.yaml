@@ -1,0 +1,38 @@
+name: clintox
+smiles_col: smiles
+task: classification
+description: |
+  Drug molecule approved by the FDA and molecule that have failed clinical trials for toxicity reasons.
+  List of FDA-approved drugs are compiled from the SWEETLEAD database, and list of drugs that failed clinical trials for toxicity reasons are compiled from the Aggregate Analysis of ClinicalTrials.gov(AACT) database
+targets:
+  - name: FDA_APPROVED
+    description: 1 if the drug is approved by the FDA, 0 otherwise
+    units:
+  - name: CT_TOX
+    description: 1 if the drug failed clinical trials for toxicity reasons, 0 otherwise
+    units:
+bibtex:
+  - |
+    "@article{Gayvert_2016,
+    doi = {10.1016/j.chembiol.2016.07.023},
+    url = {https://doi.org/10.1016%2Fj.chembiol.2016.07.023},
+    year = 2016,
+    month = {oct},
+    publisher = {Elsevier {BV}},
+    volume = {23},
+    number = {10},
+    pages = {1294--1301},
+    author = {Kaitlyn~M. Gayvert and Neel~S. Madhukar and Olivier Elemento},
+    title = {A Data-Driven Approach to Predicting Successes and Failures of Clinical Trials},
+    journal = {Cell Chemical Biology}
+    }"
+  - |
+    "@article{Artemov_2016,
+    doi = {10.1101/095653},
+    url = {https://doi.org/10.1101%2F095653},
+    year = 2016,
+    month = {dec},
+    publisher = {Cold Spring Harbor Laboratory},
+    author = {Artem V. Artemov and Evgeny Putin and Quentin Vanhaelen and Alexander Aliper and Ivan V. Ozerov and Alex Zhavoronkov},
+    title = {Integrated deep learned transcriptomic and structure-based predictor of clinical trials outcomes}
+    }"

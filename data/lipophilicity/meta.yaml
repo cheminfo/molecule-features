@@ -1,0 +1,33 @@
+name: lipophilicity
+smiles_col: smiles
+task: regression
+description: |
+  experimentally measured octanol/water partition coefficient (log D at pH 7.4) 
+  of 4200 compounds curated from the ChEMBL database
+targets:
+  - name: exp
+    description: experimentally measured log D at pH 7.4
+    units:
+bibtex:
+  - |
+    "@article{bento2014chembl,
+    title={The ChEMBL bioactivity database: an update},
+    author={Bento, A Patr{\'\i}cia and Gaulton, Anna and Hersey, Anne and Bellis, Louisa J and Chambers, Jon and Davies, Mark and Kr{\"u}ger, Felix A and Light, Yvonne and Mak, Lora and McGlinchey, Shaun and others},
+    journal={Nucleic acids research},
+    volume={42},
+    number={D1},
+    pages={D1083--D1090},
+    year={2014},
+    publisher={Oxford Academic}
+    }"
+  - |
+    "@article{gaulton2012chembl,
+    title={ChEMBL: a large-scale bioactivity database for drug discovery},
+    author={Gaulton, Anna and Bellis, Louisa J and Bento, A Patricia and Chambers, Jon and Davies, Mark and Hersey, Anne and Light, Yvonne and McGlinchey, Shaun and Michalovich, David and Al-Lazikani, Bissan and others},
+    journal={Nucleic acids research},
+    volume={40},
+    number={D1},
+    pages={D1100--D1107},
+    year={2012},
+    publisher={Oxford University Press}
+    }"

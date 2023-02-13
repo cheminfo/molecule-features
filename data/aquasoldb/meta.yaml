@@ -1,0 +1,35 @@
+name: aquasoldb
+smiles_col: SMILES
+task: regression
+description: |
+  Curation of nine open source datasets on aqueous solubility.
+  The authors also assigned reliability groups.
+targets:
+  - name: Solubility
+    description: Experimental aqueous solubility value (LogS)
+    units: log(mol/L)
+  - name: SD
+    description: Standard deviation of the experimental aqueous solubility value for multiple occurences
+    units: log(mol/L)
+identifiers:
+  - name: InChI
+    description: International Chemical Identifier
+license: CC0 1.0
+links:
+  - name: dataset
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8
+    description: Original dataset
+bibtex:
+  - |
+    "@article{Sorkun_2019,
+    doi = {10.1038/s41597-019-0151-1},
+    url = {https://doi.org/10.1038%2Fs41597-019-0151-1},
+    year = 2019,
+    month = {aug},
+    publisher = {Springer Science and Business Media {LLC}},
+    volume = {6},
+    number = {1},
+    author = {Murat Cihan Sorkun and Abhishek Khetan and Süleyman Er},
+    title = {{AqSolDB}, a curated reference set of aqueous solubility and 2D descriptors for a diverse set of compounds},
+    journal = {Sci Data}
+    }"

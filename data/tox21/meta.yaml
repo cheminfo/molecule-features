@@ -1,0 +1,44 @@
+name: tox21
+smiles_col: smiles
+task: classification
+description: |
+  Was part of the toxicity in the 21st century (Tox21) challenge (https://tripod.nih.gov/tox21/challenge/).
+  Qualitative toxicity measurements on 12 biological targets, including nuclear receptors and stress response pathways.
+targets:
+  - name: NR-AR
+    description: "Androgen receptor, full length (PubChem AID: 743040)"
+  - name: NR-AR-LBD
+    description:
+  - name: NR-AhR
+    description: "Aryl hydrocarbon receptor (PubChem AID: 743122)"
+  - name: NR-Aromatase
+    description: "Aromatase (PubChem AID: 743139)"
+  - name: NR-ER
+    description: "Estrogen receptor alpha, full length (PubChem AID: 743079)"
+  - name: NR-ER-LBD
+    description: "Estrogen receptor alpha, LBD  (PubChem AID: 743077)"
+  - name: NR-PPAR-gamma
+    description: "Peroxisome proliferator-activated receptor gamma (PubChem AID: 743140)"
+  - name: SR-ARE
+    description: "Nuclear factor (erythroid-derived 2)-like 2/antioxidant responsive element (PubChem AID: 743219)"
+  - name: SR-ATAD5
+    description: "ATAD5 (PubChem AID: 720516)"
+  - name: SR-HSE
+    description: "Heat shock factor response element (PubChem AID: 743228)"
+  - name: SR-MMP
+    description: "Mitochondrial membrane potential (PubChem AID: 720637)"
+  - name: SR-p53
+    description: "p53 (PubChem AID: 720552)"
+bibtex:
+  - |
+    "@article{Huang_2016,
+    doi = {10.3389/fenvs.2015.00085},
+    url = {https://doi.org/10.3389%2Ffenvs.2015.00085},
+    year = 2016,
+    month = {jan},
+    publisher = {Frontiers Media {SA}},
+    volume = {3},
+    author = {Ruili Huang and Menghang Xia and Dac-Trung Nguyen and Tongan Zhao and Srilatha Sakamuru and Jinghua Zhao and Sampada A. Shahane and Anna Rossoshek and Anton Simeonov},
+    title = {Tox21Challenge to Build Predictive Models of Nuclear Receptor and Stress Response Pathways as Mediated by Exposure to Environmental Chemicals and Drugs},
+    journal = {Front. Environ. Sci.}
+    }"

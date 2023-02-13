@@ -1,0 +1,68 @@
+name: photoswitch
+smiles_col: SMILES
+task: regression
+description: |
+  Curated dataset of transition wavelengths of azo-photoswitches.
+  See also the preprint (https://arxiv.org/pdf/2008.03226v1.pdf) for a data dictionary.
+links:
+  - name: dataset
+    url: https://github.com/Ryan-Rhys/The-Photoswitch-Dataset
+    description: Dataset and issue tracker
+targets:
+  - name: rate of thermal isomerisation from Z-E in s-1
+    description: a measure of the thermal stability of the least stable isomer. Measurements carried out in solution.
+    units: s^−1
+  - name: PhotoStationaryState
+    description: continuos state distribution upon continuos irridation
+    units: "%"
+  - name: E isomer pi-pi* wavelength in nm
+    description: experimental wavelength of the E isomer pi-pi* transition (in solvent)
+    units: nm
+  - name: Z isomer pi-pi* wavelength in nm
+    description: experimental wavelength of the Z isomer pi-pi* transition (in solvent)
+    units: nm
+  - name: E isomer n-pi* wavelength in nm
+    description: experimental wavelength of the E isomer n-pi* transition (in solvent)
+    units: nm
+  - name: Z isomer n-pi* wavelength in nm
+    description: experimental wavelength of the Z isomer n-pi* transition (in solvent)
+    units: nm
+  - name: Wiberg index
+    description: Wiberg index of the azo bond (a measure of the bond order, i.e strength, of the N=N bond)
+    units: ""
+  - name: PBE0 DFT E isomer pi-pi* wavelength in nm
+    description: wavelength of the E isomer pi-pi* transition as computed using TDDFT with the PBE0 functional
+    units: nm
+  - name: PBE0 DFT Z isomer pi-pi* wavelength in nm
+    description: wavelength of the Z isomer pi-pi* transition as computed using TDDFT with the PBE0 functional
+    units: nm
+  - name: TPSSh/6-31G** DFT E isomer pi-pi* wavelength in nm
+    description: wavelength of the E isomer pi-pi* transition as computed using TDDFT with the TPSSh functional
+    units: nm
+  - name: TPSSh/6-31G** DFT Z isomer pi-pi* wavelength in nm
+    description: wavelength of the Z isomer pi-pi* transition as computed using TDDFT with the TPSSh functional
+    units: nm
+  - name: CAM-B3LYP/6-31G** DFT E isomer pi-pi* wavelength in nm
+    description: wavelength of the E isomer pi-pi* transition as computed using TDDFT with the CAM-B3LYP functional
+    units: nm
+  - name: CAM-B3LYP/6-31G** DFT Z isomer pi-pi* wavelength in nm
+    description: wavelength of the Z isomer pi-pi* transition as computed using TDDFT with the CAM-B3LYP functional
+    units: nm
+  - name: CAM-B3LYP/6-31G** DFT E isomer n-pi* wavelength in nm
+    description: wavelength of the E isomer n-pi* transition as computed using TDDFT with the CAM-B3LYP functional
+    units: nm
+  - name: CAM-B3LYP/6-31G** DFT Z isomer n-pi* wavelength in nm
+    description: wavelength of the Z isomer n-pi* transition as computed using TDDFT with the CAM-B3LYP functional
+    units: nm
+bibtex:
+  - |
+    "@article{griffiths2022data,
+    title={Data-driven discovery of molecular photoswitches with multioutput Gaussian processes},
+    author={Griffiths, Ryan-Rhys and Greenfield, Jake L and Thawani, Aditya R and Jamasb, Arian R and Moss, Henry B and Bourached, Anthony and Jones, Penelope and McCorkindale, William and Aldrick, Alexander A and Fuchter, Matthew J and others},
+    journal={Chemical Science},
+    volume={13},
+    number={45},
+    pages={13541--13551},
+    year={2022},
+    publisher={Royal Society of Chemistry}
+    }"
