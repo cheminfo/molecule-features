@@ -8,6 +8,10 @@ describe('convertText', () => {
       new URL('data/melting.csv', import.meta.url),
       'utf8',
     );
-    convertText(text);
+    const results = convertText(text, {
+      smilesFieldName: 'SMILES',
+      targets: [{ name: 'Melting Point {measured, converted}' }],
+    });
+    console.log(results.info);
   });
 });

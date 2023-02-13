@@ -1,6 +1,7 @@
-import { readdir, readFile, mkdir, writeFile, access } from 'fs/promises';
+import { readdir, readFile, mkdir, writeFile, stat } from 'fs/promises';
 
 import json2md from 'json2md';
+import YAML from 'yaml';
 
 import { convertText } from './utils/convertText.js';
 
@@ -19,24 +20,55 @@ report.push({
 });
 
 for (let dir of dirs) {
+  let options = {};
+  let meta = {};
+
+  const dirStat = await stat(new URL(`../data/${dir}`, import.meta.url));
+  if (!dirStat.isDirectory()) continue;
+
   try {
-    await access(new URL(`../data/${dir}/options.js`, import.meta.url));
+    options = (await import(`../data/${dir}/options.js`)).options;
   } catch (e) {
-    console.log(`No options for ${dir}`);
-    continue;
+    try {
+      options = (await import(`../data/defaultoptions.js`)).options;
+    } catch (e) {
+      throw new Error('Cannot find options.js');
+    }
   }
 
-  const { options } = await import(`../data/${dir}/options.js`);
+  try {
+    meta = YAML.parse(
+      await readFile(
+        new URL(`../data/${dir}/meta.yaml`, import.meta.url),
+        'utf8',
+      ),
+    );
+  } catch (e) {
+    console.log(`No meta.yml for ${dir}`);
+  }
 
   if (!options.format) {
     console.log(`No format for ${dir}`);
     continue;
   }
+
+  console.log(`Processing: ${dir}`);
   await mkdir(new URL(`../docs/${dir}`, import.meta.url), { recursive: true });
   const files = (
     await readdir(new URL(`../data/${dir}`, import.meta.url))
   ).filter((file) => file !== 'options.js');
+
+  if (meta.targets) options.targets = meta.targets;
+  if (
+    options.targets.filter((target) => target.alias !== undefined).length === 0
+  ) {
+    console.log('Skipping because no target alias defined');
+    continue;
+  }
+  if (meta.smiles_col) options.smilesFieldName = meta.smiles_col;
+
   for (let file of files) {
+    if (!file.match(/\.(tsv|csv)$/i)) continue;
     const text = await readFile(
       new URL(`../data/${dir}/${file}`, import.meta.url),
       'utf8',
@@ -51,14 +83,23 @@ for (let dir of dirs) {
       default:
         console.log(`Unknown format ${options.format} for ${dir}`);
     }
-    if (result) {
+    if (result?.entries?.length) {
       const newFilename = file.replace(/\..*?$/, '.json');
+      result.dir = dir;
+      result.newFilename = newFilename;
+      result.meta = meta;
       writeFile(
         new URL(`../docs/${dir}/${newFilename}`, import.meta.url),
         JSON.stringify(result),
         { encoding: 'utf8' },
       );
-      dataset.push([newFilename, '', options.info || '', result.length]);
+      dataset.push({
+        Dataset: `${dir}/${newFilename}`,
+        Property: '',
+        Information: options.info || '',
+        'Number of entries': result.entries.length,
+      });
+      report.push(...getReportDetails(result));
     }
   }
 }
@@ -68,3 +109,24 @@ await writeFile(
   json2md(report),
   'utf8',
 );
+
+function getReportDetails(result) {
+  const targets = result.meta.targets
+    .filter((target) => target.alias !== undefined)
+    .map((target) => {
+      return {
+        Property: target.alias,
+        Description: target.description || '',
+        Units: target.units || '',
+      };
+    });
+  console.log(targets);
+  return [
+    {
+      h2: `${result.dir}/${result.newFilename} - Nb entries: ${result.entries.length}`,
+    },
+    { blockquote: result.meta.description },
+    { h3: 'Available targets:' },
+    { table: { headers: ['Property', 'Description', 'Units'], rows: targets } },
+  ];
+}

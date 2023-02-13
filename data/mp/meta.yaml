@@ -5,7 +5,8 @@ description: |
   Dataset compiled by Patiny et al.
 targets:
   - name: mp
+    alias: experimental
     description: experimentally measured melting point
     units: C
 bibtex:
-  - ""
+  - ''

@@ -6,6 +6,7 @@ description: |
   The authors also assigned reliability groups.
 targets:
   - name: Solubility
+    alias: experimental
     description: Experimental aqueous solubility value (LogS)
     units: log(mol/L)
   - name: SD

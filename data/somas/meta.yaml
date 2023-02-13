@@ -6,6 +6,7 @@ description: |
   Originally proposed for the design of redox-flow batteries.
 targets:
   - name: Experimental Solubility in Water
+    alias: experimental
     description: Experimental solubility in water
     units: mg/mL
   - name: Solvation Energy
@@ -14,7 +15,7 @@ targets:
   - name: Dipole Moment
     description: Dipole moment of the molecule (DFT, PBE0 6–31 G**)
     units: Debye
-  - name: Molecular Volumne
+  - name: Molecular Volume
     description: Molecular volume of the molecule (DFT, PBE0 6–31 G**)
     units: A^3
   - name: Molecular Surface Area

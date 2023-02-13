@@ -39,11 +39,13 @@
   },
   "dependencies": {
     "@types/node": "^18.13.0",
+    "debug": "^4.3.4",
     "json2md": "^2.0.0",
     "mf-parser": "^2.1.0",
     "openchemlib": "^8.2.0",
-    "openchemlib-utils": "^2.3.0",
+    "openchemlib-utils": "^2.4.0",
     "papaparse": "^5.3.2",
-    "sdf-parser": "^6.0.1"
+    "sdf-parser": "^6.0.1",
+    "yaml": "^2.2.1"
   }
 }

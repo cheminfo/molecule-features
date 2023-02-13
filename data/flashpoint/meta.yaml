@@ -9,6 +9,7 @@ description: |
   Includes flashpoints measured with both open and closed cup methods.
 targets:
   - name: flashpoint
+    alias: experimental
     description: experimental flashpoint of the molecule
     units: K
 license: CC BY 4.0

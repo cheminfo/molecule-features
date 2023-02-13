@@ -5,9 +5,11 @@ description: |
   experimental and calculated small molecule hydration free energies
 targets:
   - name: expt
+    alias: experimental
     description: experimentally measured hydration free energy
     units: kcal/mol
   - name: calc
+    alias: calculated
     description: calculated hydration free energy
     units: kcal/mol
 links:

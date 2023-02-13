@@ -6,6 +6,7 @@ description: |
   of 4200 compounds curated from the ChEMBL database
 targets:
   - name: exp
+    alias: experimental
     description: experimentally measured log D at pH 7.4
     units:
 bibtex:

@@ -6,9 +6,11 @@ description: |
   List of FDA-approved drugs are compiled from the SWEETLEAD database, and list of drugs that failed clinical trials for toxicity reasons are compiled from the Aggregate Analysis of ClinicalTrials.gov(AACT) database
 targets:
   - name: FDA_APPROVED
+    alias: approved
     description: 1 if the drug is approved by the FDA, 0 otherwise
     units:
   - name: CT_TOX
+    alias: toxic
     description: 1 if the drug failed clinical trials for toxicity reasons, 0 otherwise
     units:
 bibtex:

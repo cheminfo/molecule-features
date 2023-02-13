@@ -2,22 +2,27 @@ name: opv
 smiles_col: smiles
 task: regression
 description: |
-  Manually curated databased of around 1000 experimental parameters for polymer-fullerence organic photovoltaic (OPV)
+  Manually curated database of around 1000 experimental parameters for polymer-fullerence organic photovoltaic (OPV)
   applications.
 targets:
   - name: PCE_max(%)
+    alias: maxPowerConversionEfficiency
     description: maximum power conversion efficiency
-    units: "%"
+    units: '%'
   - name: PCE_ave(%)
+    alias: averagePowerConversionEfficiency
     description: average power conversion efficiency
-    units: "%"
+    units: '%'
   - name: Voc(V)
+    alias: openCircuitVoltage
     description: open circuit voltage
     units: V
   - name: Jsc(mA  cm^2)
+    alias: shortCircuitCurrentDensity
     description: short circuit current density
     units: mA/cm^2
   - name: FF
+    alias: fillFactor
     description: fill factor
     units:
 bibtex:
